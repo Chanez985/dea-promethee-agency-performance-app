@@ -1,0 +1,963 @@
+﻿Classe;Désignation;UPW;Score DEA;Rang DEA;Flux net PROMETHEE II;Rang PROMETHEE II;Écart de rang;Profil
+CE;Agency_328;UPW_017;0,88;7;-0,015;27;20;Efficientes mais faibles sur le plan multicritère
+CE;Agency_816;UPW_043;0,643;21;-0,043;29;8;Efficientes mais faibles sur le plan multicritère
+CE;Agency_717;UPW_038;0,629;22;-0,291;48;26;Efficientes mais faibles sur le plan multicritère
+CE;Agency_788;UPW_005;0,623;24;-0,045;30;6;Efficientes mais faibles sur le plan multicritère
+CE;Agency_288;UPW_036;0,557;28;0,038;22;6;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;Agency_695;UPW_036;0,527;36;0,012;25;11;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;Agency_573;UPW_029;0,519;40;0,016;23;17;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;Agency_543;UPW_004;0,502;42;0,157;14;28;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;Agency_502;UPW_052;0,565;27;-0,062;31;4;Faibles sur les deux approches
+CE;Agency_725;UPW_039;0,553;29;-0,286;46;17;Faibles sur les deux approches
+CE;Agency_934;UPW_054;0,551;30;-0,095;33;3;Faibles sur les deux approches
+CE;Agency_035;UPW_002;0,55;31;-0,168;37;6;Faibles sur les deux approches
+CE;Agency_906;UPW_048;0,539;32;-0,116;34;2;Faibles sur les deux approches
+CE;Agency_119;UPW_007;0,537;33;-0,171;38;5;Faibles sur les deux approches
+CE;Agency_461;UPW_023;0,533;34;-0,018;28;6;Faibles sur les deux approches
+CE;Agency_167;UPW_009;0,532;35;-0,171;39;4;Faibles sur les deux approches
+CE;Agency_412;UPW_043;0,527;37;-0,069;32;5;Faibles sur les deux approches
+CE;Agency_356;UPW_018;0,525;38;-0,229;42;4;Faibles sur les deux approches
+CE;Agency_851;UPW_032;0,523;39;-0,149;35;4;Faibles sur les deux approches
+CE;Agency_405;UPW_004;0,508;41;-0,266;43;2;Faibles sur les deux approches
+CE;Agency_237;UPW_012;0,486;43;-0,284;44;1;Faibles sur les deux approches
+CE;Agency_455;UPW_022;0,45;44;-0,197;40;4;Faibles sur les deux approches
+CE;Agency_182;UPW_006;0,45;45;-0,286;47;2;Faibles sur les deux approches
+CE;Agency_639;UPW_032;0,432;46;-0,456;50;4;Faibles sur les deux approches
+CE;Agency_918;UPW_049;0,426;47;-0,206;41;6;Faibles sur les deux approches
+CE;Agency_893;UPW_047;0,42;48;-0,325;49;1;Faibles sur les deux approches
+CE;Agency_834;UPW_044;0,404;49;-0,284;45;4;Faibles sur les deux approches
+CE;Agency_093;UPW_004;0,292;50;-0,154;36;14;Faibles sur les deux approches
+CE;Agency_091;UPW_004;0,15;51;-0,642;51;0;Faibles sur les deux approches
+CE;Agency_374;UPW_019;1,0;1;0,471;2;1;Performantes sur les deux dimensions
+CE;Agency_079;UPW_003;1,0;2;0,329;5;3;Performantes sur les deux dimensions
+CE;Agency_935;UPW_055;1,0;3;0,316;7;4;Performantes sur les deux dimensions
+CE;Agency_686;UPW_035;1,0;4;0,278;10;6;Performantes sur les deux dimensions
+CE;Agency_603;UPW_005;1,0;5;0,129;15;10;Performantes sur les deux dimensions
+CE;Agency_277;UPW_015;0,901;6;0,556;1;5;Performantes sur les deux dimensions
+CE;Agency_785;UPW_041;0,848;8;0,376;3;5;Performantes sur les deux dimensions
+CE;Agency_650;UPW_033;0,818;9;0,274;11;2;Performantes sur les deux dimensions
+CE;Agency_491;UPW_025;0,799;10;0,282;9;1;Performantes sur les deux dimensions
+CE;Agency_284;UPW_016;0,753;11;0,055;20;9;Performantes sur les deux dimensions
+CE;Agency_176;UPW_010;0,737;12;0,349;4;8;Performantes sur les deux dimensions
+CE;Agency_018;UPW_006;0,722;13;0,285;8;5;Performantes sur les deux dimensions
+CE;Agency_157;UPW_008;0,72;14;0,076;19;5;Performantes sur les deux dimensions
+CE;Agency_859;UPW_045;0,685;15;0,203;12;3;Performantes sur les deux dimensions
+CE;Agency_419;UPW_005;0,68;16;0,16;13;3;Performantes sur les deux dimensions
+CE;Agency_552;UPW_005;0,679;17;0,095;17;0;Performantes sur les deux dimensions
+CE;Agency_239;UPW_013;0,652;18;0,126;16;2;Performantes sur les deux dimensions
+CE;Agency_591;UPW_002;0,651;19;0,013;24;5;Performantes sur les deux dimensions
+CE;Agency_764;UPW_040;0,645;20;0,078;18;2;Performantes sur les deux dimensions
+CE;Agency_870;UPW_046;0,625;23;-0,001;26;3;Performantes sur les deux dimensions
+CE;Agency_012;UPW_001;0,606;25;0,318;6;19;Performantes sur les deux dimensions
+CE;Agency_244;UPW_014;0,584;26;0,038;21;5;Performantes sur les deux dimensions
+HC;Agency_718;UPW_038;0,802;17;-0,327;58;41;Efficientes mais faibles sur le plan multicritère
+HC;Agency_937;UPW_056;0,801;18;-0,16;48;30;Efficientes mais faibles sur le plan multicritère
+HC;Agency_315;UPW_052;0,799;20;-0,033;32;12;Efficientes mais faibles sur le plan multicritère
+HC;Agency_601;UPW_052;0,79;22;-0,052;34;12;Efficientes mais faibles sur le plan multicritère
+HC;Agency_104;UPW_004;0,734;25;-0,084;39;14;Efficientes mais faibles sur le plan multicritère
+HC;Agency_355;UPW_018;0,682;30;-0,118;45;15;Efficientes mais faibles sur le plan multicritère
+HC;Agency_671;UPW_034;0,636;32;0,09;22;10;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_925;UPW_052;0,629;34;0,092;21;13;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_086;UPW_010;0,601;38;0,148;16;22;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_568;UPW_028;0,586;41;0,02;27;14;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_283;UPW_002;0,52;46;0,078;23;23;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_928;UPW_053;0,467;51;0,034;25;26;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;Agency_705;UPW_040;0,631;33;-0,058;35;2;Faibles sur les deux approches
+HC;Agency_443;UPW_004;0,612;35;-0,066;38;3;Faibles sur les deux approches
+HC;Agency_553;UPW_004;0,609;36;-0,102;41;5;Faibles sur les deux approches
+HC;Agency_105;UPW_004;0,605;37;-0,181;52;15;Faibles sur les deux approches
+HC;Agency_797;UPW_042;0,598;39;-0,279;56;17;Faibles sur les deux approches
+HC;Agency_481;UPW_024;0,598;40;-0,122;46;6;Faibles sur les deux approches
+HC;Agency_621;UPW_013;0,568;42;-0,402;61;19;Faibles sur les deux approches
+HC;Agency_512;UPW_051;0,561;43;-0,184;53;10;Faibles sur les deux approches
+HC;Agency_449;UPW_029;0,527;44;-0,061;36;8;Faibles sur les deux approches
+HC;Agency_098;UPW_004;0,524;45;-0,34;59;14;Faibles sur les deux approches
+HC;Agency_102;UPW_004;0,519;47;-0,168;49;2;Faibles sur les deux approches
+HC;Agency_560;UPW_026;0,513;48;-0,311;57;9;Faibles sur les deux approches
+HC;Agency_598;UPW_030;0,49;49;-0,341;60;11;Faibles sur les deux approches
+HC;Agency_092;UPW_004;0,474;50;-0,151;47;3;Faibles sur les deux approches
+HC;Agency_699;UPW_037;0,45;52;-0,036;33;19;Faibles sur les deux approches
+HC;Agency_690;UPW_004;0,432;53;-0,109;42;11;Faibles sur les deux approches
+HC;Agency_090;UPW_004;0,421;54;-0,118;44;10;Faibles sur les deux approches
+HC;Agency_094;UPW_004;0,404;55;-0,096;40;15;Faibles sur les deux approches
+HC;Agency_736;UPW_017;0,39;56;-0,177;51;5;Faibles sur les deux approches
+HC;Agency_351;UPW_018;0,388;57;-0,062;37;20;Faibles sur les deux approches
+HC;Agency_226;UPW_038;0,384;58;-0,174;50;8;Faibles sur les deux approches
+HC;Agency_313;UPW_006;0,366;59;-0,266;55;4;Faibles sur les deux approches
+HC;Agency_059;UPW_040;0,337;60;-0,234;54;6;Faibles sur les deux approches
+HC;Agency_608;UPW_033;0,258;61;-0,118;43;18;Faibles sur les deux approches
+HC;Agency_273;UPW_034;1,0;1;0,425;1;0;Performantes sur les deux dimensions
+HC;Agency_420;UPW_045;1,0;2;0,364;2;0;Performantes sur les deux dimensions
+HC;Agency_262;UPW_013;1,0;3;0,353;3;0;Performantes sur les deux dimensions
+HC;Agency_232;UPW_004;1,0;4;0,297;6;2;Performantes sur les deux dimensions
+HC;Agency_538;UPW_039;1,0;5;0,272;7;2;Performantes sur les deux dimensions
+HC;Agency_780;UPW_005;1,0;6;0,211;10;4;Performantes sur les deux dimensions
+HC;Agency_696;UPW_032;1,0;7;0,165;14;7;Performantes sur les deux dimensions
+HC;Agency_750;UPW_033;0,986;8;0,142;18;10;Performantes sur les deux dimensions
+HC;Agency_714;UPW_038;0,977;9;0,03;26;17;Performantes sur les deux dimensions
+HC;Agency_673;UPW_002;0,975;10;0,312;5;5;Performantes sur les deux dimensions
+HC;Agency_382;UPW_054;0,959;11;0,156;15;4;Performantes sur les deux dimensions
+HC;Agency_388;UPW_005;0,945;12;0,337;4;8;Performantes sur les deux dimensions
+HC;Agency_114;UPW_007;0,895;13;0,198;11;2;Performantes sur les deux dimensions
+HC;Agency_005;UPW_017;0,842;14;0,048;24;10;Performantes sur les deux dimensions
+HC;Agency_629;UPW_055;0,84;15;0,103;20;5;Performantes sur les deux dimensions
+HC;Agency_776;UPW_014;0,822;16;0,18;12;4;Performantes sur les deux dimensions
+HC;Agency_253;UPW_052;0,801;19;0,128;19;0;Performantes sur les deux dimensions
+HC;Agency_404;UPW_020;0,794;21;0,172;13;8;Performantes sur les deux dimensions
+HC;Agency_109;UPW_004;0,741;23;0,012;28;5;Performantes sur les deux dimensions
+HC;Agency_230;UPW_004;0,738;24;-0,021;31;7;Performantes sur les deux dimensions
+HC;Agency_619;UPW_031;0,721;26;0,233;8;18;Performantes sur les deux dimensions
+HC;Agency_370;UPW_021;0,708;27;0,219;9;18;Performantes sur les deux dimensions
+HC;Agency_933;UPW_054;0,705;28;0,148;17;11;Performantes sur les deux dimensions
+HC;Agency_014;UPW_031;0,701;29;0,0;29;0;Performantes sur les deux dimensions
+HC;Agency_910;UPW_017;0,681;31;-0,014;30;1;Performantes sur les deux dimensions
+R1;Agency_884;UPW_054;1,0;11;-0,026;99;88;Efficientes mais faibles sur le plan multicritère
+R1;Agency_316;UPW_048;0,974;16;-0,226;156;140;Efficientes mais faibles sur le plan multicritère
+R1;Agency_067;UPW_043;0,813;26;-0,158;140;114;Efficientes mais faibles sur le plan multicritère
+R1;Agency_835;UPW_044;0,796;28;-0,005;93;65;Efficientes mais faibles sur le plan multicritère
+R1;Agency_125;UPW_038;0,757;30;-0,256;166;136;Efficientes mais faibles sur le plan multicritère
+R1;Agency_905;UPW_048;0,732;37;-0,124;130;93;Efficientes mais faibles sur le plan multicritère
+R1;Agency_422;UPW_043;0,725;39;-0,036;102;63;Efficientes mais faibles sur le plan multicritère
+R1;Agency_716;UPW_038;0,72;41;-0,058;109;68;Efficientes mais faibles sur le plan multicritère
+R1;Agency_024;UPW_043;0,715;44;-0,125;132;88;Efficientes mais faibles sur le plan multicritère
+R1;Agency_749;UPW_048;0,708;47;-0,112;128;81;Efficientes mais faibles sur le plan multicritère
+R1;Agency_711;UPW_038;0,699;48;-0,108;127;79;Efficientes mais faibles sur le plan multicritère
+R1;Agency_223;UPW_048;0,681;52;-0,252;163;111;Efficientes mais faibles sur le plan multicritère
+R1;Agency_006;UPW_038;0,678;53;-0,124;131;78;Efficientes mais faibles sur le plan multicritère
+R1;Agency_049;UPW_038;0,672;55;-0,067;112;57;Efficientes mais faibles sur le plan multicritère
+R1;Agency_250;UPW_016;0,67;57;-0,27;167;110;Efficientes mais faibles sur le plan multicritère
+R1;Agency_922;UPW_032;0,663;59;-0,07;113;54;Efficientes mais faibles sur le plan multicritère
+R1;Agency_678;UPW_032;0,655;62;-0,1;122;60;Efficientes mais faibles sur le plan multicritère
+R1;Agency_393;UPW_013;0,644;67;-0,012;96;29;Efficientes mais faibles sur le plan multicritère
+R1;Agency_106;UPW_004;0,634;71;-0,007;95;24;Efficientes mais faibles sur le plan multicritère
+R1;Agency_287;UPW_005;0,628;72;-0,137;136;64;Efficientes mais faibles sur le plan multicritère
+R1;Agency_371;UPW_019;0,628;73;-0,029;101;28;Efficientes mais faibles sur le plan multicritère
+R1;Agency_072;UPW_037;0,622;78;-0,133;134;56;Efficientes mais faibles sur le plan multicritère
+R1;Agency_247;UPW_005;0,621;79;-0,106;126;47;Efficientes mais faibles sur le plan multicritère
+R1;Agency_487;UPW_034;0,619;80;-0,056;108;28;Efficientes mais faibles sur le plan multicritère
+R1;Agency_888;UPW_044;0,613;82;-0,31;176;94;Efficientes mais faibles sur le plan multicritère
+R1;Agency_013;UPW_001;0,608;83;-0,053;106;23;Efficientes mais faibles sur le plan multicritère
+R1;Agency_260;UPW_016;0,607;84;-0,163;141;57;Efficientes mais faibles sur le plan multicritère
+R1;Agency_162;UPW_014;0,602;86;-0,184;147;61;Efficientes mais faibles sur le plan multicritère
+R1;Agency_205;UPW_033;0,602;87;-0,007;94;7;Efficientes mais faibles sur le plan multicritère
+R1;Agency_846;UPW_018;0,597;90;-0,102;124;34;Efficientes mais faibles sur le plan multicritère
+R1;Agency_865;UPW_049;0,594;91;-0,091;118;27;Efficientes mais faibles sur le plan multicritère
+R1;Agency_704;UPW_040;0,585;94;0,098;61;33;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_876;UPW_012;0,582;95;0,029;80;15;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_111;UPW_041;0,581;96;0,183;37;59;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_735;UPW_017;0,576;98;0,133;49;49;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_465;UPW_038;0,574;101;0,001;91;10;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_265;UPW_013;0,562;105;0,041;77;28;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_796;UPW_042;0,558;109;0,181;38;71;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_241;UPW_054;0,555;111;0,005;89;22;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_221;UPW_005;0,536;115;0,104;58;57;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_607;UPW_049;0,534;116;0,051;74;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_309;UPW_034;0,532;117;0,103;59;58;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_550;UPW_055;0,532;118;0,071;68;50;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_915;UPW_053;0,532;119;0,071;67;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_416;UPW_007;0,532;120;0,071;69;51;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_095;UPW_004;0,523;122;0,2;30;92;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_630;UPW_055;0,517;125;0,155;43;82;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_880;UPW_033;0,513;127;0,113;53;74;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_664;UPW_008;0,512;128;0,053;73;55;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_682;UPW_035;0,509;129;0,108;56;73;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_506;UPW_009;0,504;131;0,149;44;87;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_454;UPW_022;0,493;136;0,192;33;103;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_492;UPW_022;0,492;137;0,273;16;121;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_087;UPW_010;0,491;138;0,016;86;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_100;UPW_004;0,49;140;0,146;45;95;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_245;UPW_053;0,471;143;0,23;23;120;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_806;UPW_055;0,437;152;0,009;88;64;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_207;UPW_013;0,427;155;0,026;83;72;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_124;UPW_008;0,419;159;0,092;65;94;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_706;UPW_040;0,415;160;0,026;82;78;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_703;UPW_008;0,414;161;0,11;54;107;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_850;UPW_012;0,396;167;0,03;79;88;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;Agency_118;UPW_007;0,589;93;-0,297;173;80;Faibles sur les deux approches
+R1;Agency_712;UPW_038;0,578;97;-0,227;158;61;Faibles sur les deux approches
+R1;Agency_350;UPW_018;0,575;99;-0,042;104;5;Faibles sur les deux approches
+R1;Agency_713;UPW_038;0,574;100;-0,208;151;51;Faibles sur les deux approches
+R1;Agency_249;UPW_014;0,572;102;-0,055;107;5;Faibles sur les deux approches
+R1;Agency_484;UPW_050;0,57;103;-0,231;159;56;Faibles sur les deux approches
+R1;Agency_509;UPW_038;0,564;104;-0,106;125;21;Faibles sur les deux approches
+R1;Agency_366;UPW_006;0,562;106;-0,094;119;13;Faibles sur les deux approches
+R1;Agency_955;UPW_006;0,56;107;-0,226;157;50;Faibles sur les deux approches
+R1;Agency_117;UPW_007;0,559;108;-0,297;174;66;Faibles sur les deux approches
+R1;Agency_802;UPW_044;0,558;110;-0,121;129;19;Faibles sur les deux approches
+R1;Agency_251;UPW_016;0,554;112;-0,133;133;21;Faibles sur les deux approches
+R1;Agency_053;UPW_040;0,548;113;-0,181;146;33;Faibles sur les deux approches
+R1;Agency_914;UPW_016;0,539;114;-0,138;137;23;Faibles sur les deux approches
+R1;Agency_406;UPW_004;0,523;121;-0,134;135;14;Faibles sur les deux approches
+R1;Agency_875;UPW_006;0,521;123;-0,04;103;20;Faibles sur les deux approches
+R1;Agency_569;UPW_016;0,52;124;-0,096;120;4;Faibles sur les deux approches
+R1;Agency_774;UPW_008;0,514;126;-0,018;98;28;Faibles sur les deux approches
+R1;Agency_936;UPW_012;0,506;130;-0,086;115;15;Faibles sur les deux approches
+R1;Agency_912;UPW_006;0,499;132;-0,14;138;6;Faibles sur les deux approches
+R1;Agency_299;UPW_055;0,499;133;-0,012;97;36;Faibles sur les deux approches
+R1;Agency_136;UPW_005;0,498;134;-0,045;105;29;Faibles sur les deux approches
+R1;Agency_803;UPW_044;0,494;135;-0,146;139;4;Faibles sur les deux approches
+R1;Agency_129;UPW_045;0,49;139;-0,24;161;22;Faibles sur les deux approches
+R1;Agency_144;UPW_005;0,488;141;-0,189;148;7;Faibles sur les deux approches
+R1;Agency_623;UPW_054;0,475;142;-0,09;116;26;Faibles sur les deux approches
+R1;Agency_701;UPW_055;0,462;144;-0,292;171;27;Faibles sur les deux approches
+R1;Agency_427;UPW_023;0,46;145;-0,213;152;7;Faibles sur les deux approches
+R1;Agency_641;UPW_041;0,46;146;-0,026;100;46;Faibles sur les deux approches
+R1;Agency_030;UPW_015;0,455;147;-0,067;111;36;Faibles sur les deux approches
+R1;Agency_116;UPW_007;0,452;148;-0,163;142;6;Faibles sur les deux approches
+R1;Agency_246;UPW_005;0,444;149;-0,276;168;19;Faibles sur les deux approches
+R1;Agency_156;UPW_008;0,441;150;-0,304;175;25;Faibles sur les deux approches
+R1;Agency_385;UPW_006;0,438;151;-0,326;179;28;Faibles sur les deux approches
+R1;Agency_898;UPW_010;0,436;153;-0,08;114;39;Faibles sur les deux approches
+R1;Agency_058;UPW_017;0,427;154;-0,331;180;26;Faibles sur les deux approches
+R1;Agency_195;UPW_011;0,423;156;-0,422;183;27;Faibles sur les deux approches
+R1;Agency_596;UPW_030;0,423;157;-0,253;164;7;Faibles sur les deux approches
+R1;Agency_186;UPW_039;0,423;158;-0,523;184;26;Faibles sur les deux approches
+R1;Agency_747;UPW_048;0,407;162;-0,379;182;20;Faibles sur les deux approches
+R1;Agency_120;UPW_007;0,406;163;-0,22;154;9;Faibles sur les deux approches
+R1;Agency_669;UPW_024;0,406;164;-0,292;172;8;Faibles sur les deux approches
+R1;Agency_761;UPW_013;0,404;165;-0,223;155;10;Faibles sur les deux approches
+R1;Agency_384;UPW_054;0,4;166;-0,322;178;12;Faibles sur les deux approches
+R1;Agency_446;UPW_021;0,394;168;-0,28;170;2;Faibles sur les deux approches
+R1;Agency_099;UPW_004;0,394;169;-0,331;181;12;Faibles sur les deux approches
+R1;Agency_279;UPW_017;0,393;170;-0,09;117;53;Faibles sur les deux approches
+R1;Agency_137;UPW_006;0,386;171;-0,167;143;28;Faibles sur les deux approches
+R1;Agency_439;UPW_010;0,374;172;-0,101;123;49;Faibles sur les deux approches
+R1;Agency_643;UPW_015;0,371;173;-0,096;121;52;Faibles sur les deux approches
+R1;Agency_599;UPW_010;0,367;174;-0,278;169;5;Faibles sur les deux approches
+R1;Agency_270;UPW_035;0,347;175;-0,063;110;65;Faibles sur les deux approches
+R1;Agency_044;UPW_054;0,341;176;-0,195;149;27;Faibles sur les deux approches
+R1;Agency_827;UPW_010;0,334;177;-0,32;177;0;Faibles sur les deux approches
+R1;Agency_760;UPW_013;0,33;178;-0,256;165;13;Faibles sur les deux approches
+R1;Agency_665;UPW_040;0,323;179;-0,236;160;19;Faibles sur les deux approches
+R1;Agency_580;UPW_030;0,308;180;-0,175;145;35;Faibles sur les deux approches
+R1;Agency_710;UPW_038;0,301;181;-0,218;153;28;Faibles sur les deux approches
+R1;Agency_242;UPW_004;0,286;182;-0,251;162;20;Faibles sur les deux approches
+R1;Agency_110;UPW_010;0,284;183;-0,168;144;39;Faibles sur les deux approches
+R1;Agency_885;UPW_029;0,249;184;-0,206;150;34;Faibles sur les deux approches
+R1;Agency_243;UPW_014;1,0;1;0,478;2;1;Performantes sur les deux dimensions
+R1;Agency_908;UPW_034;1,0;2;0,469;3;1;Performantes sur les deux dimensions
+R1;Agency_563;UPW_026;1,0;3;0,433;6;3;Performantes sur les deux dimensions
+R1;Agency_823;UPW_006;1,0;4;0,429;7;3;Performantes sur les deux dimensions
+R1;Agency_724;UPW_039;1,0;5;0,368;9;4;Performantes sur les deux dimensions
+R1;Agency_620;UPW_015;1,0;6;0,231;22;16;Performantes sur les deux dimensions
+R1;Agency_684;UPW_035;1,0;7;0,216;26;19;Performantes sur les deux dimensions
+R1;Agency_618;UPW_031;1,0;8;0,203;28;20;Performantes sur les deux dimensions
+R1;Agency_627;UPW_005;1,0;9;0,099;60;51;Performantes sur les deux dimensions
+R1;Agency_464;UPW_038;1,0;10;0,092;64;54;Performantes sur les deux dimensions
+R1;Agency_746;UPW_025;0,994;12;0,412;8;4;Performantes sur les deux dimensions
+R1;Agency_653;UPW_013;0,987;13;0,105;57;44;Performantes sur les deux dimensions
+R1;Agency_174;UPW_010;0,983;14;0,365;10;4;Performantes sur les deux dimensions
+R1;Agency_719;UPW_038;0,975;15;0,263;17;2;Performantes sur les deux dimensions
+R1;Agency_257;UPW_025;0,943;17;0,453;4;13;Performantes sur les deux dimensions
+R1;Agency_626;UPW_016;0,941;18;0,433;5;13;Performantes sur les deux dimensions
+R1;Agency_504;UPW_015;0,922;19;0,142;47;28;Performantes sur les deux dimensions
+R1;Agency_478;UPW_045;0,913;20;0,125;50;30;Performantes sur les deux dimensions
+R1;Agency_590;UPW_016;0,886;21;0,026;81;60;Performantes sur les deux dimensions
+R1;Agency_264;UPW_043;0,883;22;0,297;14;8;Performantes sur les deux dimensions
+R1;Agency_345;UPW_045;0,846;23;0,511;1;22;Performantes sur les deux dimensions
+R1;Agency_411;UPW_043;0,835;24;0,063;72;48;Performantes sur les deux dimensions
+R1;Agency_341;UPW_022;0,825;25;0,343;11;14;Performantes sur les deux dimensions
+R1;Agency_046;UPW_043;0,802;27;0,189;35;8;Performantes sur les deux dimensions
+R1;Agency_160;UPW_014;0,795;29;0,319;12;17;Performantes sur les deux dimensions
+R1;Agency_532;UPW_019;0,747;31;0,193;32;1;Performantes sur les deux dimensions
+R1;Agency_410;UPW_043;0,747;32;0,094;62;30;Performantes sur les deux dimensions
+R1;Agency_135;UPW_005;0,747;33;0,078;66;33;Performantes sur les deux dimensions
+R1;Agency_068;UPW_043;0,746;34;0,02;84;50;Performantes sur les deux dimensions
+R1;Agency_500;UPW_008;0,739;35;0,163;42;7;Performantes sur les deux dimensions
+R1;Agency_645;UPW_037;0,732;36;0,092;63;27;Performantes sur les deux dimensions
+R1;Agency_606;UPW_054;0,729;38;0,117;52;14;Performantes sur les deux dimensions
+R1;Agency_784;UPW_041;0,725;40;0,253;20;20;Performantes sur les deux dimensions
+R1;Agency_386;UPW_023;0,719;42;0,217;25;17;Performantes sur les deux dimensions
+R1;Agency_667;UPW_019;0,718;43;0,032;78;35;Performantes sur les deux dimensions
+R1;Agency_075;UPW_005;0,711;45;0,164;41;4;Performantes sur les deux dimensions
+R1;Agency_616;UPW_031;0,708;46;0,277;15;31;Performantes sur les deux dimensions
+R1;Agency_292;UPW_006;0,69;49;0,261;19;30;Performantes sur les deux dimensions
+R1;Agency_365;UPW_016;0,688;50;0,212;27;23;Performantes sur les deux dimensions
+R1;Agency_103;UPW_006;0,684;51;0,137;48;3;Performantes sur les deux dimensions
+R1;Agency_097;UPW_005;0,675;54;0,012;87;33;Performantes sur les deux dimensions
+R1;Agency_323;UPW_017;0,672;56;-0,002;92;36;Performantes sur les deux dimensions
+R1;Agency_150;UPW_008;0,664;58;0,175;39;19;Performantes sur les deux dimensions
+R1;Agency_139;UPW_005;0,659;60;0,067;71;11;Performantes sur les deux dimensions
+R1;Agency_469;UPW_034;0,657;61;0,262;18;43;Performantes sur les deux dimensions
+R1;Agency_530;UPW_005;0,655;63;0,041;76;13;Performantes sur les deux dimensions
+R1;Agency_698;UPW_005;0,65;64;0,109;55;9;Performantes sur les deux dimensions
+R1;Agency_349;UPW_018;0,649;65;0,173;40;25;Performantes sur les deux dimensions
+R1;Agency_026;UPW_043;0,646;66;0,142;46;20;Performantes sur les deux dimensions
+R1;Agency_081;UPW_008;0,641;68;0,199;31;37;Performantes sur les deux dimensions
+R1;Agency_344;UPW_049;0,641;69;0,188;36;33;Performantes sur les deux dimensions
+R1;Agency_731;UPW_013;0,636;70;0,19;34;36;Performantes sur les deux dimensions
+R1;Agency_471;UPW_016;0,628;74;0,246;21;53;Performantes sur les deux dimensions
+R1;Agency_874;UPW_015;0,627;75;0,017;85;10;Performantes sur les deux dimensions
+R1;Agency_233;UPW_006;0,625;76;0,067;70;6;Performantes sur les deux dimensions
+R1;Agency_828;UPW_036;0,624;77;0,227;24;53;Performantes sur les deux dimensions
+R1;Agency_638;UPW_032;0,619;81;0,043;75;6;Performantes sur les deux dimensions
+R1;Agency_473;UPW_049;0,603;85;0,003;90;5;Performantes sur les deux dimensions
+R1;Agency_076;UPW_035;0,598;88;0,201;29;59;Performantes sur les deux dimensions
+R1;Agency_308;UPW_034;0,598;89;0,313;13;76;Performantes sur les deux dimensions
+R1;Agency_818;UPW_044;0,592;92;0,121;51;41;Performantes sur les deux dimensions
+R2;Agency_043;UPW_036;1,0;14;0,0;221;207;Efficientes mais faibles sur le plan multicritère
+R2;Agency_010;UPW_044;0,925;26;-0,022;233;207;Efficientes mais faibles sur le plan multicritère
+R2;Agency_290;UPW_038;0,826;44;-0,11;304;260;Efficientes mais faibles sur le plan multicritère
+R2;Agency_281;UPW_048;0,821;45;-0,283;404;359;Efficientes mais faibles sur le plan multicritère
+R2;Agency_519;UPW_016;0,807;52;-0,19;355;303;Efficientes mais faibles sur le plan multicritère
+R2;Agency_330;UPW_017;0,78;61;-0,079;281;220;Efficientes mais faibles sur le plan multicritère
+R2;Agency_474;UPW_049;0,763;71;-0,024;236;165;Efficientes mais faibles sur le plan multicritère
+R2;Agency_855;UPW_045;0,763;72;-0,094;291;219;Efficientes mais faibles sur le plan multicritère
+R2;Agency_379;UPW_005;0,76;75;-0,017;229;154;Efficientes mais faibles sur le plan multicritère
+R2;Agency_107;UPW_018;0,744;84;-0,074;276;192;Efficientes mais faibles sur le plan multicritère
+R2;Agency_555;UPW_038;0,737;90;-0,054;258;168;Efficientes mais faibles sur le plan multicritère
+R2;Agency_267;UPW_018;0,724;97;-0,081;283;186;Efficientes mais faibles sur le plan multicritère
+R2;Agency_305;UPW_036;0,722;99;-0,126;310;211;Efficientes mais faibles sur le plan multicritère
+R2;Agency_896;UPW_046;0,718;102;-0,251;390;288;Efficientes mais faibles sur le plan multicritère
+R2;Agency_324;UPW_017;0,695;119;-0,279;403;284;Efficientes mais faibles sur le plan multicritère
+R2;Agency_534;UPW_038;0,692;120;-0,194;358;238;Efficientes mais faibles sur le plan multicritère
+R2;Agency_192;UPW_038;0,69;123;-0,255;393;270;Efficientes mais faibles sur le plan multicritère
+R2;Agency_337;UPW_036;0,688;124;-0,163;337;213;Efficientes mais faibles sur le plan multicritère
+R2;Agency_134;UPW_005;0,68;137;-0,16;334;197;Efficientes mais faibles sur le plan multicritère
+R2;Agency_892;UPW_047;0,68;138;-0,227;377;239;Efficientes mais faibles sur le plan multicritère
+R2;Agency_830;UPW_017;0,676;143;-0,135;316;173;Efficientes mais faibles sur le plan multicritère
+R2;Agency_269;UPW_035;0,666;150;-0,022;231;81;Efficientes mais faibles sur le plan multicritère
+R2;Agency_456;UPW_043;0,663;152;-0,145;321;169;Efficientes mais faibles sur le plan multicritère
+R2;Agency_042;UPW_042;0,656;157;-0,183;352;195;Efficientes mais faibles sur le plan multicritère
+R2;Agency_907;UPW_022;0,647;162;-0,007;226;64;Efficientes mais faibles sur le plan multicritère
+R2;Agency_743;UPW_017;0,646;163;-0,031;243;80;Efficientes mais faibles sur le plan multicritère
+R2;Agency_061;UPW_040;0,645;166;-0,112;305;139;Efficientes mais faibles sur le plan multicritère
+R2;Agency_919;UPW_050;0,639;168;-0,2;361;193;Efficientes mais faibles sur le plan multicritère
+R2;Agency_883;UPW_034;0,637;169;-0,059;262;93;Efficientes mais faibles sur le plan multicritère
+R2;Agency_314;UPW_005;0,637;170;-0,024;235;65;Efficientes mais faibles sur le plan multicritère
+R2;Agency_951;UPW_001;0,636;171;-0,097;292;121;Efficientes mais faibles sur le plan multicritère
+R2;Agency_348;UPW_018;0,631;180;-0,083;284;104;Efficientes mais faibles sur le plan multicritère
+R2;Agency_651;UPW_041;0,63;181;-0,092;288;107;Efficientes mais faibles sur le plan multicritère
+R2;Agency_235;UPW_012;0,627;182;-0,04;249;67;Efficientes mais faibles sur le plan multicritère
+R2;Agency_453;UPW_022;0,623;183;-0,1;296;113;Efficientes mais faibles sur le plan multicritère
+R2;Agency_479;UPW_038;0,623;184;-0,241;385;201;Efficientes mais faibles sur le plan multicritère
+R2;Agency_155;UPW_008;0,622;185;-0,331;412;227;Efficientes mais faibles sur le plan multicritère
+R2;Agency_101;UPW_005;0,619;189;-0,079;282;93;Efficientes mais faibles sur le plan multicritère
+R2;Agency_734;UPW_034;0,616;192;-0,054;257;65;Efficientes mais faibles sur le plan multicritère
+R2;Agency_813;UPW_017;0,614;193;-0,218;371;178;Efficientes mais faibles sur le plan multicritère
+R2;Agency_320;UPW_017;0,61;195;-0,474;430;235;Efficientes mais faibles sur le plan multicritère
+R2;Agency_438;UPW_048;0,609;196;-0,094;289;93;Efficientes mais faibles sur le plan multicritère
+R2;Agency_799;UPW_045;0,608;197;-0,046;253;56;Efficientes mais faibles sur le plan multicritère
+R2;Agency_540;UPW_039;0,607;198;-0,11;303;105;Efficientes mais faibles sur le plan multicritère
+R2;Agency_588;UPW_004;0,605;201;-0,036;247;46;Efficientes mais faibles sur le plan multicritère
+R2;Agency_367;UPW_005;0,605;202;-0,137;317;115;Efficientes mais faibles sur le plan multicritère
+R2;Agency_451;UPW_048;0,603;204;-0,157;331;127;Efficientes mais faibles sur le plan multicritère
+R2;Agency_414;UPW_032;0,597;210;-0,245;387;177;Efficientes mais faibles sur le plan multicritère
+R2;Agency_437;UPW_018;0,597;211;-0,033;245;34;Efficientes mais faibles sur le plan multicritère
+R2;Agency_208;UPW_055;0,596;212;-0,024;237;25;Efficientes mais faibles sur le plan multicritère
+R2;Agency_507;UPW_038;0,596;213;-0,107;300;87;Efficientes mais faibles sur le plan multicritère
+R2;Agency_882;UPW_017;0,595;215;-0,223;373;158;Efficientes mais faibles sur le plan multicritère
+R2;Agency_421;UPW_045;0,591;218;-0,243;386;168;Efficientes mais faibles sur le plan multicritère
+R2;Agency_377;UPW_002;0,586;221;0,191;86;135;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_096;UPW_005;0,586;222;0,135;122;100;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_522;UPW_025;0,584;225;0,171;102;123;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_216;UPW_024;0,583;228;0,099;150;78;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_567;UPW_028;0,58;230;0,132;129;101;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_407;UPW_032;0,579;233;0,067;168;65;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_152;UPW_008;0,575;240;0,019;205;35;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_858;UPW_045;0,573;243;0,104;146;97;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_485;UPW_052;0,572;245;0,07;164;81;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_236;UPW_012;0,57;252;0,203;81;171;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_234;UPW_012;0,566;258;0,119;135;123;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_517;UPW_018;0,566;259;0,03;200;59;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_184;UPW_044;0,564;260;0,261;50;210;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_571;UPW_029;0,56;264;0,08;156;108;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_514;UPW_015;0,56;265;0,206;78;187;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_547;UPW_040;0,559;268;0,049;184;84;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_259;UPW_049;0,556;272;0,187;90;182;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_848;UPW_034;0,554;273;0,061;176;97;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_775;UPW_044;0,552;277;0,163;105;172;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_662;UPW_029;0,55;281;0,178;96;185;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_807;UPW_010;0,541;289;0,235;59;230;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_889;UPW_049;0,535;294;0,028;201;93;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_383;UPW_015;0,533;295;0,256;51;244;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_001;UPW_004;0,529;298;0,052;183;115;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_513;UPW_009;0,527;304;0,037;194;110;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_074;UPW_014;0,527;305;0,015;209;96;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_307;UPW_029;0,523;308;0,047;186;122;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_004;UPW_012;0,517;313;0,022;204;109;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_670;UPW_034;0,517;314;0,073;163;151;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_034;UPW_002;0,5;324;0,239;58;266;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_812;UPW_015;0,494;328;0,105;145;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_518;UPW_046;0,491;331;0,112;141;190;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_916;UPW_053;0,49;332;0,172;101;231;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_790;UPW_044;0,487;335;0,113;139;196;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_648;UPW_049;0,486;338;0,084;155;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_768;UPW_013;0,484;340;0,069;165;175;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_376;UPW_043;0,466;353;0,149;117;236;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_926;UPW_053;0,462;354;0,159;111;243;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_940;UPW_020;0,459;355;0,153;112;243;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_531;UPW_051;0,456;358;0,133;124;234;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_715;UPW_038;0,455;359;0,04;192;167;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_399;UPW_029;0,45;362;0,058;179;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_625;UPW_053;0,424;386;0,036;195;191;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_566;UPW_028;0,418;390;0,1;149;241;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_771;UPW_049;0,408;398;0,199;85;313;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_340;UPW_006;0,408;399;0,065;172;227;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_142;UPW_004;0,402;402;0,078;157;245;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_824;UPW_029;0,368;413;0,007;216;197;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_913;UPW_029;0,352;420;0,015;208;212;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_817;UPW_029;0,351;421;0,054;182;239;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_191;UPW_049;0,347;422;0,058;180;242;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_268;UPW_033;0,325;430;0,033;199;231;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_611;UPW_053;0,266;436;0,048;185;251;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;Agency_924;UPW_051;0,588;220;-0,36;418;198;Faibles sur les deux approches
+R2;Agency_614;UPW_031;0,585;223;-0,158;332;109;Faibles sur les deux approches
+R2;Agency_815;UPW_047;0,584;224;-0,574;435;211;Faibles sur les deux approches
+R2;Agency_822;UPW_024;0,584;226;-0,059;264;38;Faibles sur les deux approches
+R2;Agency_758;UPW_016;0,584;227;-0,088;285;58;Faibles sur les deux approches
+R2;Agency_319;UPW_017;0,583;229;-0,179;349;120;Faibles sur les deux approches
+R2;Agency_561;UPW_038;0,58;231;-0,16;335;104;Faibles sur les deux approches
+R2;Agency_166;UPW_009;0,579;232;-0,056;260;28;Faibles sur les deux approches
+R2;Agency_113;UPW_007;0,577;234;-0,001;223;11;Faibles sur les deux approches
+R2;Agency_490;UPW_025;0,577;235;-0,04;251;16;Faibles sur les deux approches
+R2;Agency_692;UPW_013;0,577;236;-0,045;252;16;Faibles sur les deux approches
+R2;Agency_694;UPW_036;0,576;237;-0,154;327;90;Faibles sur les deux approches
+R2;Agency_765;UPW_045;0,576;238;-0,268;399;161;Faibles sur les deux approches
+R2;Agency_193;UPW_013;0,575;239;-0,089;287;48;Faibles sur les deux approches
+R2;Agency_773;UPW_045;0,574;241;-0,176;346;105;Faibles sur les deux approches
+R2;Agency_413;UPW_038;0,573;242;-0,028;240;2;Faibles sur les deux approches
+R2;Agency_946;UPW_013;0,572;244;-0,006;225;19;Faibles sur les deux approches
+R2;Agency_285;UPW_013;0,572;246;-0,165;339;93;Faibles sur les deux approches
+R2;Agency_856;UPW_045;0,572;247;-0,064;270;23;Faibles sur les deux approches
+R2;Agency_115;UPW_007;0,572;248;-0,055;259;11;Faibles sur les deux approches
+R2;Agency_652;UPW_014;0,571;249;-0,056;261;12;Faibles sur les deux approches
+R2;Agency_477;UPW_018;0,571;250;-0,061;266;16;Faibles sur les deux approches
+R2;Agency_904;UPW_048;0,57;251;-0,05;255;4;Faibles sur les deux approches
+R2;Agency_130;UPW_045;0,569;253;-0,24;382;129;Faibles sur les deux approches
+R2;Agency_528;UPW_018;0,569;254;-0,024;239;15;Faibles sur les deux approches
+R2;Agency_424;UPW_018;0,569;255;-0,099;294;39;Faibles sur les deux approches
+R2;Agency_948;UPW_032;0,568;256;-0,153;326;70;Faibles sur les deux approches
+R2;Agency_271;UPW_023;0,568;257;-0,172;344;87;Faibles sur les deux approches
+R2;Agency_489;UPW_025;0,564;261;-0,278;402;141;Faibles sur les deux approches
+R2;Agency_854;UPW_035;0,564;262;-0,324;411;149;Faibles sur les deux approches
+R2;Agency_275;UPW_013;0,561;263;-0,032;244;19;Faibles sur les deux approches
+R2;Agency_872;UPW_010;0,56;266;-0,063;268;2;Faibles sur les deux approches
+R2;Agency_089;UPW_038;0,559;267;-0,314;407;140;Faibles sur les deux approches
+R2;Agency_255;UPW_043;0,558;269;-0,174;345;76;Faibles sur les deux approches
+R2;Agency_801;UPW_006;0,558;270;-0,023;234;36;Faibles sur les deux approches
+R2;Agency_165;UPW_009;0,557;271;-0,005;224;47;Faibles sur les deux approches
+R2;Agency_546;UPW_019;0,554;274;-0,079;280;6;Faibles sur les deux approches
+R2;Agency_890;UPW_008;0,552;275;-0,18;351;76;Faibles sur les deux approches
+R2;Agency_668;UPW_019;0,552;276;-0,214;370;94;Faibles sur les deux approches
+R2;Agency_941;UPW_034;0,551;278;-0,099;295;17;Faibles sur les deux approches
+R2;Agency_762;UPW_017;0,55;279;-0,134;315;36;Faibles sur les deux approches
+R2;Agency_844;UPW_044;0,55;280;-0,094;290;10;Faibles sur les deux approches
+R2;Agency_900;UPW_030;0,548;282;-0,068;272;10;Faibles sur les deux approches
+R2;Agency_909;UPW_056;0,548;283;-0,11;302;19;Faibles sur les deux approches
+R2;Agency_589;UPW_014;0,548;284;-0,138;319;35;Faibles sur les deux approches
+R2;Agency_417;UPW_007;0,547;285;-0,161;336;51;Faibles sur les deux approches
+R2;Agency_238;UPW_013;0,547;286;0,0;220;66;Faibles sur les deux approches
+R2;Agency_408;UPW_007;0,545;287;-0,149;323;36;Faibles sur les deux approches
+R2;Agency_886;UPW_029;0,543;288;-0,066;271;17;Faibles sur les deux approches
+R2;Agency_353;UPW_018;0,541;290;-0,222;372;82;Faibles sur les deux approches
+R2;Agency_480;UPW_038;0,54;291;-0,177;347;56;Faibles sur les deux approches
+R2;Agency_887;UPW_049;0,537;292;-0,148;322;30;Faibles sur les deux approches
+R2;Agency_372;UPW_019;0,536;293;-0,103;298;5;Faibles sur les deux approches
+R2;Agency_041;UPW_049;0,531;296;-0,06;265;31;Faibles sur les deux approches
+R2;Agency_020;UPW_046;0,531;297;-0,049;254;43;Faibles sur les deux approches
+R2;Agency_121;UPW_010;0,529;299;-0,24;384;85;Faibles sur les deux approches
+R2;Agency_640;UPW_018;0,528;300;-0,137;318;18;Faibles sur les deux approches
+R2;Agency_582;UPW_033;0,528;301;-0,198;359;58;Faibles sur les deux approches
+R2;Agency_055;UPW_049;0,528;302;-0,168;341;39;Faibles sur les deux approches
+R2;Agency_895;UPW_017;0,528;303;-0,223;374;71;Faibles sur les deux approches
+R2;Agency_488;UPW_025;0,526;306;-0,394;427;121;Faibles sur les deux approches
+R2;Agency_177;UPW_018;0,523;307;-0,072;275;32;Faibles sur les deux approches
+R2;Agency_729;UPW_025;0,522;309;-0,063;269;40;Faibles sur les deux approches
+R2;Agency_333;UPW_018;0,519;310;-0,24;381;71;Faibles sur les deux approches
+R2;Agency_122;UPW_015;0,519;311;-0,151;324;13;Faibles sur les deux approches
+R2;Agency_737;UPW_007;0,517;312;-0,287;405;93;Faibles sur les deux approches
+R2;Agency_436;UPW_018;0,516;315;-0,02;230;85;Faibles sur les deux approches
+R2;Agency_126;UPW_047;0,515;316;-0,287;406;90;Faibles sur les deux approches
+R2;Agency_808;UPW_046;0,512;317;-0,264;397;80;Faibles sur les deux approches
+R2;Agency_395;UPW_002;0,511;318;-0,377;422;104;Faibles sur les deux approches
+R2;Agency_728;UPW_034;0,51;319;-0,237;380;61;Faibles sur les deux approches
+R2;Agency_551;UPW_036;0,509;320;-0,203;364;44;Faibles sur les deux approches
+R2;Agency_153;UPW_008;0,506;321;-0,038;248;73;Faibles sur les deux approches
+R2;Agency_227;UPW_015;0,505;322;-0,12;308;14;Faibles sur les deux approches
+R2;Agency_839;UPW_044;0,501;323;-0,167;340;17;Faibles sur les deux approches
+R2;Agency_466;UPW_045;0,5;325;-0,13;313;12;Faibles sur les deux approches
+R2;Agency_300;UPW_016;0,498;326;-0,201;362;36;Faibles sur les deux approches
+R2;Agency_400;UPW_048;0,497;327;-0,098;293;34;Faibles sur les deux approches
+R2;Agency_786;UPW_022;0,493;329;-0,015;228;101;Faibles sur les deux approches
+R2;Agency_070;UPW_019;0,493;330;-0,071;274;56;Faibles sur les deux approches
+R2;Agency_962;UPW_041;0,49;333;-0,212;369;36;Faibles sur les deux approches
+R2;Agency_132;UPW_012;0,489;334;-0,247;389;55;Faibles sur les deux approches
+R2;Agency_209;UPW_005;0,487;336;-0,102;297;39;Faibles sur les deux approches
+R2;Agency_080;UPW_030;0,487;337;-0,361;419;82;Faibles sur les deux approches
+R2;Agency_128;UPW_054;0,485;339;-0,187;353;14;Faibles sur les deux approches
+R2;Agency_752;UPW_017;0,48;341;-0,03;242;99;Faibles sur les deux approches
+R2;Agency_849;UPW_045;0,478;342;-0,202;363;21;Faibles sur les deux approches
+R2;Agency_901;UPW_008;0,478;343;-0,034;246;97;Faibles sur les deux approches
+R2;Agency_476;UPW_005;0,478;344;-0,088;286;58;Faibles sur les deux approches
+R2;Agency_600;UPW_006;0,478;345;-0,32;408;63;Faibles sur les deux approches
+R2;Agency_347;UPW_018;0,477;346;-0,113;306;40;Faibles sur les deux approches
+R2;Agency_954;UPW_016;0,477;347;-0,23;379;32;Faibles sur les deux approches
+R2;Agency_310;UPW_049;0,477;348;-0,23;378;30;Faibles sur les deux approches
+R2;Agency_008;UPW_035;0,475;349;-0,107;299;50;Faibles sur les deux approches
+R2;Agency_282;UPW_025;0,471;350;-0,388;426;76;Faibles sur les deux approches
+R2;Agency_853;UPW_032;0,469;351;-0,179;350;1;Faibles sur les deux approches
+R2;Agency_809;UPW_046;0,469;352;-0,193;357;5;Faibles sur les deux approches
+R2;Agency_029;UPW_007;0,458;356;-0,022;232;124;Faibles sur les deux approches
+R2;Agency_452;UPW_033;0,457;357;-0,024;238;119;Faibles sur les deux approches
+R2;Agency_644;UPW_046;0,455;360;-0,36;417;57;Faibles sur les deux approches
+R2;Agency_426;UPW_030;0,452;361;-0,001;222;139;Faibles sur les deux approches
+R2;Agency_672;UPW_034;0,449;363;-0,264;396;33;Faibles sur les deux approches
+R2;Agency_757;UPW_055;0,448;364;-0,108;301;63;Faibles sur les deux approches
+R2;Agency_554;UPW_046;0,446;365;-0,191;356;9;Faibles sur les deux approches
+R2;Agency_168;UPW_015;0,445;366;-0,259;394;28;Faibles sur les deux approches
+R2;Agency_938;UPW_056;0,445;367;-0,212;368;1;Faibles sur les deux approches
+R2;Agency_027;UPW_040;0,442;368;-0,157;330;38;Faibles sur les deux approches
+R2;Agency_605;UPW_005;0,441;369;-0,177;348;21;Faibles sur les deux approches
+R2;Agency_511;UPW_009;0,441;370;-0,152;325;45;Faibles sur les deux approches
+R2;Agency_575;UPW_015;0,438;371;-0,27;400;29;Faibles sur les deux approches
+R2;Agency_587;UPW_035;0,438;372;-0,131;314;58;Faibles sur les deux approches
+R2;Agency_306;UPW_030;0,437;373;-0,078;279;94;Faibles sur les deux approches
+R2;Agency_332;UPW_018;0,437;374;-0,376;421;47;Faibles sur les deux approches
+R2;Agency_572;UPW_029;0,435;375;-0,077;278;97;Faibles sur les deux approches
+R2;Agency_617;UPW_031;0,434;376;-0,04;250;126;Faibles sur les deux approches
+R2;Agency_794;UPW_042;0,434;377;-0,061;267;110;Faibles sur les deux approches
+R2;Agency_577;UPW_049;0,432;378;-0,07;273;105;Faibles sur les deux approches
+R2;Agency_811;UPW_015;0,431;379;-0,226;375;4;Faibles sur les deux approches
+R2;Agency_783;UPW_008;0,43;380;-0,171;342;38;Faibles sur les deux approches
+R2;Agency_899;UPW_030;0,43;381;-0,141;320;61;Faibles sur les deux approches
+R2;Agency_112;UPW_043;0,429;382;-0,367;420;38;Faibles sur les deux approches
+R2;Agency_931;UPW_054;0,426;383;-0,523;433;50;Faibles sur les deux approches
+R2;Agency_085;UPW_054;0,425;384;-0,349;413;29;Faibles sur les deux approches
+R2;Agency_032;UPW_033;0,424;385;-0,118;307;78;Faibles sur les deux approches
+R2;Agency_291;UPW_019;0,423;387;-0,262;395;8;Faibles sur les deux approches
+R2;Agency_248;UPW_005;0,422;388;-0,612;437;49;Faibles sur les deux approches
+R2;Agency_529;UPW_020;0,419;389;-0,155;328;61;Faibles sur les deux approches
+R2;Agency_548;UPW_055;0,417;391;-0,489;431;40;Faibles sur les deux approches
+R2;Agency_594;UPW_053;0,417;392;-0,009;227;165;Faibles sur les deux approches
+R2;Agency_960;UPW_029;0,416;393;-0,128;312;81;Faibles sur les deux approches
+R2;Agency_375;UPW_002;0,415;394;-0,076;277;117;Faibles sur les deux approches
+R2;Agency_656;UPW_054;0,411;395;-0,16;333;62;Faibles sur les deux approches
+R2;Agency_720;UPW_054;0,411;396;-0,127;311;85;Faibles sur les deux approches
+R2;Agency_073;UPW_018;0,41;397;-0,431;428;31;Faibles sur les deux approches
+R2;Agency_158;UPW_008;0,405;400;-0,266;398;2;Faibles sur les deux approches
+R2;Agency_836;UPW_042;0,404;401;-0,051;256;145;Faibles sur les deux approches
+R2;Agency_440;UPW_018;0,401;403;-0,353;415;12;Faibles sur les deux approches
+R2;Agency_597;UPW_030;0,401;404;-0,199;360;44;Faibles sur les deux approches
+R2;Agency_685;UPW_035;0,397;405;-0,059;263;142;Faibles sur les deux approches
+R2;Agency_202;UPW_009;0,389;406;-0,276;401;5;Faibles sur les deux approches
+R2;Agency_759;UPW_029;0,389;407;-0,253;392;15;Faibles sur les deux approches
+R2;Agency_224;UPW_048;0,388;408;-0,209;366;42;Faibles sur les deux approches
+R2;Agency_151;UPW_008;0,386;409;-0,226;376;33;Faibles sur les deux approches
+R2;Agency_194;UPW_035;0,385;410;-0,156;329;81;Faibles sur les deux approches
+R2;Agency_770;UPW_007;0,382;411;-0,358;416;5;Faibles sur les deux approches
+R2;Agency_557;UPW_010;0,373;412;-0,351;414;2;Faibles sur les deux approches
+R2;Agency_203;UPW_043;0,365;414;-0,188;354;60;Faibles sur les deux approches
+R2;Agency_336;UPW_012;0,364;415;-0,246;388;27;Faibles sur les deux approches
+R2;Agency_503;UPW_009;0,358;416;-0,124;309;107;Faibles sur les deux approches
+R2;Agency_312;UPW_008;0,355;417;-0,164;338;79;Faibles sur les deux approches
+R2;Agency_054;UPW_023;0,354;418;-0,379;424;6;Faibles sur les deux approches
+R2;Agency_920;UPW_010;0,354;419;-0,207;365;54;Faibles sur les deux approches
+R2;Agency_295;UPW_020;0,338;423;-0,24;383;40;Faibles sur les deux approches
+R2;Agency_457;UPW_023;0,338;424;-0,544;434;10;Faibles sur les deux approches
+R2;Agency_632;UPW_049;0,336;425;-0,321;409;16;Faibles sur les deux approches
+R2;Agency_565;UPW_047;0,336;426;-0,579;436;10;Faibles sur les deux approches
+R2;Agency_721;UPW_054;0,336;427;-0,252;391;36;Faibles sur les deux approches
+R2;Agency_397;UPW_029;0,336;428;-0,03;241;187;Faibles sur les deux approches
+R2;Agency_127;UPW_054;0,335;429;-0,457;429;0;Faibles sur les deux approches
+R2;Agency_741;UPW_006;0,318;431;-0,379;423;8;Faibles sur les deux approches
+R2;Agency_516;UPW_049;0,316;432;-0,323;410;22;Faibles sur les deux approches
+R2;Agency_878;UPW_040;0,311;433;-0,211;367;66;Faibles sur les deux approches
+R2;Agency_661;UPW_046;0,302;434;-0,383;425;9;Faibles sur les deux approches
+R2;Agency_335;UPW_013;0,285;435;-0,51;432;3;Faibles sur les deux approches
+R2;Agency_959;UPW_029;0,208;437;-0,171;343;94;Faibles sur les deux approches
+R2;Agency_131;UPW_029;1,0;1;0,461;3;2;Performantes sur les deux dimensions
+R2;Agency_161;UPW_014;1,0;2;0,452;4;2;Performantes sur les deux dimensions
+R2;Agency_304;UPW_023;1,0;3;0,448;5;2;Performantes sur les deux dimensions
+R2;Agency_520;UPW_036;1,0;4;0,367;16;12;Performantes sur les deux dimensions
+R2;Agency_744;UPW_005;1,0;5;0,351;18;13;Performantes sur les deux dimensions
+R2;Agency_225;UPW_048;1,0;6;0,315;27;21;Performantes sur les deux dimensions
+R2;Agency_147;UPW_008;1,0;7;0,277;43;36;Performantes sur les deux dimensions
+R2;Agency_622;UPW_013;1,0;8;0,229;63;55;Performantes sur les deux dimensions
+R2;Agency_683;UPW_035;1,0;9;0,219;68;59;Performantes sur les deux dimensions
+R2;Agency_891;UPW_045;1,0;10;0,211;73;63;Performantes sur les deux dimensions
+R2;Agency_459;UPW_023;1,0;11;0,207;77;66;Performantes sur les deux dimensions
+R2;Agency_791;UPW_055;1,0;12;0,077;159;147;Performantes sur les deux dimensions
+R2;Agency_911;UPW_017;1,0;13;0,061;177;164;Performantes sur les deux dimensions
+R2;Agency_470;UPW_052;0,986;15;0,227;65;50;Performantes sur les deux dimensions
+R2;Agency_730;UPW_032;0,968;16;0,176;98;82;Performantes sur les deux dimensions
+R2;Agency_467;UPW_048;0,968;17;0,275;45;28;Performantes sur les deux dimensions
+R2;Agency_680;UPW_048;0,967;18;0,005;217;199;Performantes sur les deux dimensions
+R2;Agency_229;UPW_048;0,967;19;0,204;80;61;Performantes sur les deux dimensions
+R2;Agency_391;UPW_014;0,954;20;0,369;14;6;Performantes sur les deux dimensions
+R2;Agency_447;UPW_014;0,954;21;0,34;21;0;Performantes sur les deux dimensions
+R2;Agency_658;UPW_052;0,943;22;0,285;39;17;Performantes sur les deux dimensions
+R2;Agency_163;UPW_014;0,941;23;0,022;203;180;Performantes sur les deux dimensions
+R2;Agency_133;UPW_013;0,932;24;0,284;40;16;Performantes sur les deux dimensions
+R2;Agency_218;UPW_033;0,926;25;0,381;12;13;Performantes sur les deux dimensions
+R2;Agency_777;UPW_014;0,924;27;0,358;17;10;Performantes sur les deux dimensions
+R2;Agency_778;UPW_042;0,916;28;0,399;10;18;Performantes sur les deux dimensions
+R2;Agency_354;UPW_018;0,916;29;0,242;55;26;Performantes sur les deux dimensions
+R2;Agency_326;UPW_017;0,91;30;0,409;8;22;Performantes sur les deux dimensions
+R2;Agency_022;UPW_018;0,905;31;0,501;1;30;Performantes sur les deux dimensions
+R2;Agency_829;UPW_036;0,904;32;0,121;134;102;Performantes sur les deux dimensions
+R2;Agency_779;UPW_001;0,9;33;0,481;2;31;Performantes sur les deux dimensions
+R2;Agency_423;UPW_041;0,9;34;0,241;56;22;Performantes sur les deux dimensions
+R2;Agency_740;UPW_045;0,897;35;0,247;54;19;Performantes sur les deux dimensions
+R2;Agency_140;UPW_016;0,891;36;0,18;93;57;Performantes sur les deux dimensions
+R2;Agency_769;UPW_043;0,891;37;0,393;11;26;Performantes sur les deux dimensions
+R2;Agency_789;UPW_039;0,872;38;0,121;133;95;Performantes sur les deux dimensions
+R2;Agency_352;UPW_018;0,871;39;0,431;6;33;Performantes sur les deux dimensions
+R2;Agency_772;UPW_004;0,863;40;0,348;19;21;Performantes sur les deux dimensions
+R2;Agency_821;UPW_035;0,846;41;0,369;15;26;Performantes sur les deux dimensions
+R2;Agency_782;UPW_005;0,84;42;0,065;171;129;Performantes sur les deux dimensions
+R2;Agency_956;UPW_018;0,835;43;0,161;107;64;Performantes sur les deux dimensions
+R2;Agency_693;UPW_013;0,821;46;0,274;46;0;Performantes sur les deux dimensions
+R2;Agency_738;UPW_052;0,815;47;0,112;143;96;Performantes sur les deux dimensions
+R2;Agency_691;UPW_004;0,812;48;0,189;88;40;Performantes sur les deux dimensions
+R2;Agency_861;UPW_017;0,811;49;0,046;189;140;Performantes sur les deux dimensions
+R2;Agency_923;UPW_054;0,809;50;0,317;26;24;Performantes sur les deux dimensions
+R2;Agency_631;UPW_036;0,808;51;0,288;36;15;Performantes sur les deux dimensions
+R2;Agency_624;UPW_016;0,801;53;0,044;191;138;Performantes sur les deux dimensions
+R2;Agency_825;UPW_006;0,799;54;0,28;42;12;Performantes sur les deux dimensions
+R2;Agency_357;UPW_018;0,798;55;0,01;214;159;Performantes sur les deux dimensions
+R2;Agency_674;UPW_038;0,796;56;0,274;47;9;Performantes sur les deux dimensions
+R2;Agency_432;UPW_038;0,792;57;0,038;193;136;Performantes sur les deux dimensions
+R2;Agency_065;UPW_005;0,791;58;0,046;188;130;Performantes sur les deux dimensions
+R2;Agency_845;UPW_002;0,786;59;0,329;25;34;Performantes sur les deux dimensions
+R2;Agency_700;UPW_016;0,782;60;0,133;125;65;Performantes sur les deux dimensions
+R2;Agency_430;UPW_017;0,778;62;0,016;207;145;Performantes sur les deux dimensions
+R2;Agency_169;UPW_043;0,776;63;0,241;57;6;Performantes sur les deux dimensions
+R2;Agency_732;UPW_041;0,774;64;0,345;20;44;Performantes sur les deux dimensions
+R2;Agency_175;UPW_010;0,774;65;0,313;28;37;Performantes sur les deux dimensions
+R2;Agency_798;UPW_043;0,773;66;0,097;151;85;Performantes sur les deux dimensions
+R2;Agency_197;UPW_043;0,772;67;0,334;24;43;Performantes sur les deux dimensions
+R2;Agency_902;UPW_056;0,771;68;0,232;61;7;Performantes sur les deux dimensions
+R2;Agency_537;UPW_035;0,771;69;0,114;138;69;Performantes sur les deux dimensions
+R2;Agency_562;UPW_055;0,763;70;0,181;92;22;Performantes sur les deux dimensions
+R2;Agency_180;UPW_022;0,763;73;0,209;74;1;Performantes sur les deux dimensions
+R2;Agency_482;UPW_032;0,76;74;0,289;34;40;Performantes sur les deux dimensions
+R2;Agency_011;UPW_001;0,759;76;0,045;190;114;Performantes sur les deux dimensions
+R2;Agency_358;UPW_016;0,757;77;0,061;174;97;Performantes sur les deux dimensions
+R2;Agency_745;UPW_038;0,756;78;0,223;67;11;Performantes sur les deux dimensions
+R2;Agency_301;UPW_048;0,755;79;0,16;109;30;Performantes sur les deux dimensions
+R2;Agency_820;UPW_043;0,75;80;0,134;123;43;Performantes sur les deux dimensions
+R2;Agency_231;UPW_019;0,746;81;0,281;41;40;Performantes sur les deux dimensions
+R2;Agency_739;UPW_041;0,746;82;0,231;62;20;Performantes sur les deux dimensions
+R2;Agency_435;UPW_018;0,746;83;0,112;140;57;Performantes sur les deux dimensions
+R2;Agency_389;UPW_048;0,743;85;0,211;72;13;Performantes sur les deux dimensions
+R2;Agency_871;UPW_046;0,742;86;0,189;87;1;Performantes sur les deux dimensions
+R2;Agency_950;UPW_050;0,742;87;0,409;7;80;Performantes sur les deux dimensions
+R2;Agency_037;UPW_043;0,739;88;0,201;83;5;Performantes sur les deux dimensions
+R2;Agency_921;UPW_016;0,738;89;0,152;116;27;Performantes sur les deux dimensions
+R2;Agency_929;UPW_004;0,736;91;0,074;161;70;Performantes sur les deux dimensions
+R2;Agency_088;UPW_038;0,736;92;0,214;71;21;Performantes sur les deux dimensions
+R2;Agency_123;UPW_001;0,731;93;0,104;147;54;Performantes sur les deux dimensions
+R2;Agency_146;UPW_009;0,731;94;0,338;23;71;Performantes sur les deux dimensions
+R2;Agency_199;UPW_013;0,727;95;0,228;64;31;Performantes sur les deux dimensions
+R2;Agency_610;UPW_025;0,724;96;0,152;115;19;Performantes sur les deux dimensions
+R2;Agency_549;UPW_005;0,723;98;0,177;97;1;Performantes sur les deux dimensions
+R2;Agency_442;UPW_029;0,721;100;0,291;33;67;Performantes sur les deux dimensions
+R2;Agency_460;UPW_023;0,719;101;0,204;79;22;Performantes sur les deux dimensions
+R2;Agency_681;UPW_035;0,718;103;0,173;100;3;Performantes sur les deux dimensions
+R2;Agency_475;UPW_049;0,715;104;0,305;30;74;Performantes sur les deux dimensions
+R2;Agency_222;UPW_043;0,714;105;0,123;131;26;Performantes sur les deux dimensions
+R2;Agency_593;UPW_002;0,714;106;0,404;9;97;Performantes sur les deux dimensions
+R2;Agency_214;UPW_019;0,713;107;0,012;212;105;Performantes sur les deux dimensions
+R2;Agency_441;UPW_048;0,713;108;0,174;99;9;Performantes sur les deux dimensions
+R2;Agency_062;UPW_043;0,712;109;0,223;66;43;Performantes sur les deux dimensions
+R2;Agency_867;UPW_006;0,712;110;0,277;44;66;Performantes sur les deux dimensions
+R2;Agency_286;UPW_052;0,709;111;0,063;173;62;Performantes sur les deux dimensions
+R2;Agency_609;UPW_031;0,703;112;0,132;128;16;Performantes sur les deux dimensions
+R2;Agency_558;UPW_026;0,702;113;0,311;29;84;Performantes sur les deux dimensions
+R2;Agency_483;UPW_032;0,701;114;0,132;130;16;Performantes sur les deux dimensions
+R2;Agency_263;UPW_013;0,701;115;0,249;53;62;Performantes sur les deux dimensions
+R2;Agency_360;UPW_049;0,7;116;0,288;37;79;Performantes sur les deux dimensions
+R2;Agency_033;UPW_045;0,7;117;0,145;118;1;Performantes sur les deux dimensions
+R2;Agency_634;UPW_014;0,698;118;0,054;181;63;Performantes sur les deux dimensions
+R2;Agency_196;UPW_016;0,69;121;0,252;52;69;Performantes sur les deux dimensions
+R2;Agency_458;UPW_023;0,69;122;0,004;218;96;Performantes sur les deux dimensions
+R2;Agency_329;UPW_017;0,686;125;0,132;127;2;Performantes sur les deux dimensions
+R2;Agency_021;UPW_052;0,685;126;0,187;89;37;Performantes sur les deux dimensions
+R2;Agency_390;UPW_002;0,685;127;0,133;126;1;Performantes sur les deux dimensions
+R2;Agency_894;UPW_025;0,684;128;0,185;91;37;Performantes sur les deux dimensions
+R2;Agency_615;UPW_031;0,684;129;0,118;137;8;Performantes sur les deux dimensions
+R2;Agency_840;UPW_052;0,684;130;0,169;103;27;Performantes sur les deux dimensions
+R2;Agency_570;UPW_041;0,683;131;0,264;49;82;Performantes sur les deux dimensions
+R2;Agency_009;UPW_043;0,683;132;0,265;48;84;Performantes sur les deux dimensions
+R2;Agency_212;UPW_007;0,683;133;0,14;120;13;Performantes sur les deux dimensions
+R2;Agency_052;UPW_045;0,682;134;0,208;76;58;Performantes sur les deux dimensions
+R2;Agency_036;UPW_049;0,682;135;0,123;132;3;Performantes sur les deux dimensions
+R2;Agency_947;UPW_019;0,681;136;0,179;95;41;Performantes sur les deux dimensions
+R2;Agency_200;UPW_006;0,68;139;0,152;113;26;Performantes sur les deux dimensions
+R2;Agency_363;UPW_019;0,679;140;0,046;187;47;Performantes sur les deux dimensions
+R2;Agency_574;UPW_029;0,677;141;0,378;13;128;Performantes sur les deux dimensions
+R2;Agency_754;UPW_017;0,676;142;0,092;152;10;Performantes sur les deux dimensions
+R2;Agency_198;UPW_017;0,674;144;0,2;84;60;Performantes sur les deux dimensions
+R2;Agency_787;UPW_034;0,672;145;0,059;178;33;Performantes sur les deux dimensions
+R2;Agency_028;UPW_040;0,671;146;0,292;32;114;Performantes sur les deux dimensions
+R2;Agency_321;UPW_018;0,67;147;0,074;162;15;Performantes sur les deux dimensions
+R2;Agency_220;UPW_038;0,669;148;0,007;215;67;Performantes sur les deux dimensions
+R2;Agency_897;UPW_029;0,667;149;0,18;94;55;Performantes sur les deux dimensions
+R2;Agency_524;UPW_048;0,665;151;0,066;170;19;Performantes sur les deux dimensions
+R2;Agency_415;UPW_015;0,663;153;0,289;35;118;Performantes sur les deux dimensions
+R2;Agency_050;UPW_040;0,662;154;0,026;202;48;Performantes sur les deux dimensions
+R2;Agency_873;UPW_013;0,661;155;0,118;136;19;Performantes sur les deux dimensions
+R2;Agency_364;UPW_022;0,659;156;0,297;31;125;Performantes sur les deux dimensions
+R2;Agency_038;UPW_023;0,651;158;0,202;82;76;Performantes sur les deux dimensions
+R2;Agency_642;UPW_041;0,651;159;0,101;148;11;Performantes sur les deux dimensions
+R2;Agency_723;UPW_039;0,648;160;0,16;110;50;Performantes sur les deux dimensions
+R2;Agency_311;UPW_033;0,647;161;0,033;198;37;Performantes sur les deux dimensions
+R2;Agency_472;UPW_054;0,646;164;0,067;167;3;Performantes sur les deux dimensions
+R2;Agency_953;UPW_041;0,646;165;0,068;166;1;Performantes sur les deux dimensions
+R2;Agency_201;UPW_045;0,641;167;0,138;121;46;Performantes sur les deux dimensions
+R2;Agency_141;UPW_023;0,636;172;0,013;210;38;Performantes sur les deux dimensions
+R2;Agency_521;UPW_025;0,636;173;0,11;144;29;Performantes sur les deux dimensions
+R2;Agency_048;UPW_036;0,636;174;0,034;197;23;Performantes sur les deux dimensions
+R2;Agency_793;UPW_042;0,636;175;0,112;142;33;Performantes sur les deux dimensions
+R2;Agency_613;UPW_031;0,635;176;0,078;158;18;Performantes sur les deux dimensions
+R2;Agency_164;UPW_014;0,634;177;0,161;108;69;Performantes sur les deux dimensions
+R2;Agency_219;UPW_033;0,631;178;0,214;70;108;Performantes sur les deux dimensions
+R2;Agency_373;UPW_019;0,631;179;0,011;213;34;Performantes sur les deux dimensions
+R2;Agency_857;UPW_045;0,622;186;0,166;104;82;Performantes sur les deux dimensions
+R2;Agency_017;UPW_005;0,62;187;0,002;219;32;Performantes sur les deux dimensions
+R2;Agency_338;UPW_039;0,62;188;0,061;175;13;Performantes sur les deux dimensions
+R2;Agency_633;UPW_006;0,617;190;0,286;38;152;Performantes sur les deux dimensions
+R2;Agency_958;UPW_030;0,616;191;0,219;69;122;Performantes sur les deux dimensions
+R2;Agency_444;UPW_003;0,613;194;0,087;153;41;Performantes sur les deux dimensions
+R2;Agency_429;UPW_012;0,607;199;0,338;22;177;Performantes sur les deux dimensions
+R2;Agency_322;UPW_013;0,607;200;0,076;160;40;Performantes sur les deux dimensions
+R2;Agency_023;UPW_018;0,604;203;0,016;206;3;Performantes sur les deux dimensions
+R2;Agency_002;UPW_009;0,602;205;0,067;169;36;Performantes sur les deux dimensions
+R2;Agency_272;UPW_032;0,602;206;0,013;211;5;Performantes sur les deux dimensions
+R2;Agency_866;UPW_049;0,601;207;0,14;119;88;Performantes sur les deux dimensions
+R2;Agency_396;UPW_014;0,6;208;0,035;196;12;Performantes sur les deux dimensions
+R2;Agency_343;UPW_018;0,597;209;0,152;114;95;Performantes sur les deux dimensions
+R2;Agency_228;UPW_014;0,595;214;0,209;75;139;Performantes sur les deux dimensions
+R2;Agency_781;UPW_005;0,594;216;0,234;60;156;Performantes sur les deux dimensions
+R2;Agency_733;UPW_008;0,594;217;0,162;106;111;Performantes sur les deux dimensions
+R2;Agency_541;UPW_031;0,589;219;0,086;154;65;Performantes sur les deux dimensions
+R3;Agency_646;UPW_037;0,828;17;-0,073;132;115;Efficientes mais faibles sur le plan multicritère
+R3;Agency_709;UPW_038;0,797;24;-0,175;169;145;Efficientes mais faibles sur le plan multicritère
+R3;Agency_187;UPW_036;0,76;28;-0,063;129;101;Efficientes mais faibles sur le plan multicritère
+R3;Agency_544;UPW_017;0,738;32;-0,097;139;107;Efficientes mais faibles sur le plan multicritère
+R3;Agency_069;UPW_019;0,735;34;-0,046;124;90;Efficientes mais faibles sur le plan multicritère
+R3;Agency_211;UPW_036;0,68;47;-0,101;140;93;Efficientes mais faibles sur le plan multicritère
+R3;Agency_015;UPW_031;0,672;52;-0,107;142;90;Efficientes mais faibles sur le plan multicritère
+R3;Agency_206;UPW_013;0,665;57;-0,024;118;61;Efficientes mais faibles sur le plan multicritère
+R3;Agency_148;UPW_008;0,663;59;-0,158;167;108;Efficientes mais faibles sur le plan multicritère
+R3;Agency_298;UPW_004;0,657;63;-0,045;123;60;Efficientes mais faibles sur le plan multicritère
+R3;Agency_942;UPW_054;0,647;68;-0,062;128;60;Efficientes mais faibles sur le plan multicritère
+R3;Agency_766;UPW_033;0,646;69;-0,016;112;43;Efficientes mais faibles sur le plan multicritère
+R3;Agency_368;UPW_005;0,64;70;-0,138;158;88;Efficientes mais faibles sur le plan multicritère
+R3;Agency_293;UPW_007;0,613;82;-0,152;166;84;Efficientes mais faibles sur le plan multicritère
+R3;Agency_637;UPW_032;0,613;83;-0,123;152;69;Efficientes mais faibles sur le plan multicritère
+R3;Agency_654;UPW_056;0,605;85;-0,112;145;60;Efficientes mais faibles sur le plan multicritère
+R3;Agency_258;UPW_055;0,597;90;-0,119;147;57;Efficientes mais faibles sur le plan multicritère
+R3;Agency_841;UPW_032;0,596;91;-0,251;186;95;Efficientes mais faibles sur le plan multicritère
+R3;Agency_170;UPW_010;0,582;97;-0,178;171;74;Efficientes mais faibles sur le plan multicritère
+R3;Agency_660;UPW_052;0,576;98;-0,002;109;11;Efficientes mais faibles sur le plan multicritère
+R3;Agency_280;UPW_017;0,574;99;-0,338;197;98;Efficientes mais faibles sur le plan multicritère
+R3;Agency_394;UPW_013;0,573;101;-0,089;137;36;Efficientes mais faibles sur le plan multicritère
+R3;Agency_261;UPW_016;0,573;102;-0,391;203;101;Efficientes mais faibles sur le plan multicritère
+R3;Agency_602;UPW_052;0,57;104;-0,178;170;66;Efficientes mais faibles sur le plan multicritère
+R3;Agency_659;UPW_041;0,567;105;-0,192;174;69;Efficientes mais faibles sur le plan multicritère
+R3;Agency_325;UPW_017;0,566;106;-0,198;178;72;Efficientes mais faibles sur le plan multicritère
+R3;Agency_450;UPW_038;0,564;107;-0,12;148;41;Efficientes mais faibles sur le plan multicritère
+R3;Agency_213;UPW_046;0,555;111;0,12;67;44;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_066;UPW_035;0,549;113;0,123;65;48;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_545;UPW_019;0,548;114;-0,001;107;7;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_869;UPW_046;0,543;117;0,161;54;63;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_401;UPW_002;0,538;120;0,096;75;45;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_579;UPW_005;0,537;121;0,097;74;47;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_445;UPW_041;0,536;122;0,105;71;51;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_535;UPW_031;0,536;123;0,09;77;46;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_814;UPW_007;0,533;124;-0,001;106;18;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_879;UPW_011;0,531;127;0,074;85;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_418;UPW_056;0,53;128;0,092;76;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_584;UPW_009;0,517;134;0,194;48;86;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_930;UPW_032;0,513;136;0,013;100;36;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_742;UPW_005;0,513;137;0,113;69;68;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_346;UPW_045;0,51;138;0,024;97;41;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_204;UPW_017;0,493;147;0,002;105;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_077;UPW_035;0,486;154;0,034;94;60;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_833;UPW_021;0,484;155;0,043;92;63;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_881;UPW_031;0,471;163;0,026;96;67;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_003;UPW_035;0,47;164;0,136;62;102;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_056;UPW_002;0,466;165;0,009;104;61;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_402;UPW_020;0,401;192;0,011;103;89;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_040;UPW_038;0,397;194;0,047;90;104;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_045;UPW_019;0,385;197;0,101;73;124;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_647;UPW_012;0,318;205;0,04;93;112;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_254;UPW_045;0,315;206;0,142;60;146;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_149;UPW_002;0,295;210;0,054;88;122;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;Agency_217;UPW_040;0,561;108;-0,075;134;26;Faibles sur les deux approches
+R3;Agency_792;UPW_039;0,557;109;-0,135;156;47;Faibles sur les deux approches
+R3;Agency_805;UPW_006;0,555;110;-0,033;121;11;Faibles sur les deux approches
+R3;Agency_515;UPW_045;0,55;112;-0,151;165;53;Faibles sur les deux approches
+R3;Agency_486;UPW_043;0,547;115;-0,201;179;64;Faibles sur les deux approches
+R3;Agency_179;UPW_045;0,545;116;-0,06;127;11;Faibles sur les deux approches
+R3;Agency_060;UPW_040;0,539;118;-0,135;157;39;Faibles sur les deux approches
+R3;Agency_215;UPW_041;0,539;119;-0,012;111;8;Faibles sur les deux approches
+R3;Agency_944;UPW_044;0,533;125;-0,193;175;50;Faibles sur les deux approches
+R3;Agency_448;UPW_048;0,533;126;-0,356;201;75;Faibles sur les deux approches
+R3;Agency_078;UPW_055;0,529;129;-0,208;182;53;Faibles sur les deux approches
+R3;Agency_108;UPW_004;0,528;130;-0,121;150;20;Faibles sur les deux approches
+R3;Agency_755;UPW_016;0,523;131;-0,002;108;23;Faibles sur les deux approches
+R3;Agency_838;UPW_038;0,519;132;-0,144;161;29;Faibles sur les deux approches
+R3;Agency_810;UPW_046;0,519;133;-0,114;146;13;Faibles sur les deux approches
+R3;Agency_510;UPW_009;0,513;135;-0,047;125;10;Faibles sur les deux approches
+R3;Agency_499;UPW_015;0,509;139;-0,018;113;26;Faibles sur les deux approches
+R3;Agency_143;UPW_042;0,509;140;-0,067;130;10;Faibles sur les deux approches
+R3;Agency_677;UPW_032;0,508;141;-0,347;198;57;Faibles sur les deux approches
+R3;Agency_173;UPW_010;0,506;142;-0,144;160;18;Faibles sur les deux approches
+R3;Agency_751;UPW_036;0,504;143;-0,129;155;12;Faibles sur les deux approches
+R3;Agency_342;UPW_007;0,501;144;-0,051;126;18;Faibles sur les deux approches
+R3;Agency_154;UPW_008;0,498;145;-0,158;168;23;Faibles sur les deux approches
+R3;Agency_837;UPW_039;0,496;146;-0,109;144;2;Faibles sur les deux approches
+R3;Agency_495;UPW_039;0,493;148;-0,395;205;57;Faibles sur les deux approches
+R3;Agency_327;UPW_017;0,49;149;-0,338;196;47;Faibles sur les deux approches
+R3;Agency_172;UPW_010;0,49;150;-0,235;184;34;Faibles sur les deux approches
+R3;Agency_949;UPW_056;0,49;151;-0,356;200;49;Faibles sur les deux approches
+R3;Agency_604;UPW_005;0,486;152;-0,191;173;21;Faibles sur les deux approches
+R3;Agency_171;UPW_010;0,486;153;-0,197;177;24;Faibles sur les deux approches
+R3;Agency_183;UPW_045;0,483;156;-0,021;116;40;Faibles sur les deux approches
+R3;Agency_057;UPW_025;0,482;157;-0,231;183;26;Faibles sur les deux approches
+R3;Agency_334;UPW_006;0,48;158;-0,139;159;1;Faibles sur les deux approches
+R3;Agency_051;UPW_032;0,474;159;-0,241;185;26;Faibles sur les deux approches
+R3;Agency_939;UPW_056;0,473;160;-0,273;189;29;Faibles sur les deux approches
+R3;Agency_145;UPW_005;0,472;161;-0,15;164;3;Faibles sur les deux approches
+R3;Agency_687;UPW_035;0,472;162;-0,106;141;21;Faibles sur les deux approches
+R3;Agency_297;UPW_035;0,461;166;-0,02;115;51;Faibles sur les deux approches
+R3;Agency_425;UPW_029;0,461;167;-0,093;138;29;Faibles sur les deux approches
+R3;Agency_302;UPW_052;0,457;168;-0,108;143;25;Faibles sur les deux approches
+R3;Agency_595;UPW_052;0,457;169;-0,129;154;15;Faibles sur les deux approches
+R3;Agency_252;UPW_015;0,456;170;-0,012;110;60;Faibles sur les deux approches
+R3;Agency_185;UPW_030;0,453;171;-0,071;131;40;Faibles sur les deux approches
+R3;Agency_945;UPW_042;0,451;172;-0,032;120;52;Faibles sur les deux approches
+R3;Agency_071;UPW_043;0,447;173;-0,073;133;40;Faibles sur les deux approches
+R3;Agency_392;UPW_006;0,446;174;-0,352;199;25;Faibles sur les deux approches
+R3;Agency_917;UPW_049;0,445;175;-0,257;187;12;Faibles sur les deux approches
+R3;Agency_862;UPW_033;0,445;176;-0,288;192;16;Faibles sur les deux approches
+R3;Agency_581;UPW_030;0,443;177;-0,196;176;1;Faibles sur les deux approches
+R3;Agency_039;UPW_044;0,441;178;-0,037;122;56;Faibles sur les deux approches
+R3;Agency_903;UPW_048;0,441;179;-0,205;181;2;Faibles sur les deux approches
+R3;Agency_178;UPW_048;0,441;180;-0,022;117;63;Faibles sur les deux approches
+R3;Agency_318;UPW_055;0,437;181;-0,548;209;28;Faibles sur les deux approches
+R3;Agency_763;UPW_046;0,437;182;-0,025;119;63;Faibles sur les deux approches
+R3;Agency_381;UPW_006;0,431;183;-0,683;213;30;Faibles sur les deux approches
+R3;Agency_542;UPW_031;0,426;184;-0,276;190;6;Faibles sur les deux approches
+R3;Agency_303;UPW_006;0,423;185;-0,121;149;36;Faibles sur les deux approches
+R3;Agency_505;UPW_009;0,421;186;-0,336;195;9;Faibles sur les deux approches
+R3;Agency_361;UPW_024;0,412;187;-0,127;153;34;Faibles sur les deux approches
+R3;Agency_083;UPW_055;0,407;188;-0,335;194;6;Faibles sur les deux approches
+R3;Agency_210;UPW_035;0,406;189;-0,551;210;21;Faibles sur les deux approches
+R3;Agency_190;UPW_017;0,406;190;-0,26;188;2;Faibles sur les deux approches
+R3;Agency_527;UPW_029;0,405;191;-0,359;202;11;Faibles sur les deux approches
+R3;Agency_497;UPW_032;0,397;193;-0,482;208;15;Faibles sur les deux approches
+R3;Agency_852;UPW_032;0,396;195;-0,278;191;4;Faibles sur les deux approches
+R3;Agency_362;UPW_052;0,385;196;-0,202;180;16;Faibles sur les deux approches
+R3;Agency_331;UPW_043;0,374;198;-0,311;193;5;Faibles sur les deux approches
+R3;Agency_676;UPW_004;0,372;199;-0,078;135;64;Faibles sur les deux approches
+R3;Agency_868;UPW_046;0,37;200;-0,443;206;6;Faibles sur les deux approches
+R3;Agency_019;UPW_015;0,354;201;-0,463;207;6;Faibles sur les deux approches
+R3;Agency_564;UPW_027;0,345;202;-0,552;211;9;Faibles sur les deux approches
+R3;Agency_276;UPW_015;0,339;203;-0,149;163;40;Faibles sur les deux approches
+R3;Agency_635;UPW_043;0,318;204;-0,08;136;68;Faibles sur les deux approches
+R3;Agency_468;UPW_041;0,312;207;-0,393;204;3;Faibles sur les deux approches
+R3;Agency_433;UPW_020;0,301;208;-0,019;114;94;Faibles sur les deux approches
+R3;Agency_359;UPW_006;0,3;209;-0,122;151;58;Faibles sur les deux approches
+R3;Agency_559;UPW_026;0,287;211;-0,145;162;49;Faibles sur les deux approches
+R3;Agency_804;UPW_044;0,27;212;-0,644;212;0;Faibles sur les deux approches
+R3;Agency_064;UPW_005;0,188;213;-0,189;172;41;Faibles sur les deux approches
+R3;Agency_612;UPW_031;1,0;1;0,396;7;6;Performantes sur les deux dimensions
+R3;Agency_961;UPW_015;1,0;2;0,383;9;7;Performantes sur les deux dimensions
+R3;Agency_082;UPW_043;1,0;3;0,338;17;14;Performantes sur les deux dimensions
+R3;Agency_025;UPW_043;1,0;4;0,27;27;23;Performantes sur les deux dimensions
+R3;Agency_697;UPW_036;1,0;5;0,085;79;74;Performantes sur les deux dimensions
+R3;Agency_294;UPW_048;1,0;6;0,079;81;75;Performantes sur les deux dimensions
+R3;Agency_278;UPW_052;0,987;7;0,277;25;18;Performantes sur les deux dimensions
+R3;Agency_428;UPW_023;0,983;8;0,396;8;0;Performantes sur les deux dimensions
+R3;Agency_586;UPW_052;0,956;9;0,369;12;3;Performantes sur les deux dimensions
+R3;Agency_501;UPW_035;0,926;10;0,451;1;9;Performantes sur les deux dimensions
+R3;Agency_655;UPW_039;0,892;11;0,104;72;61;Performantes sur les deux dimensions
+R3;Agency_679;UPW_002;0,887;12;0,333;19;7;Performantes sur les deux dimensions
+R3;Agency_539;UPW_039;0,858;13;0,086;78;65;Performantes sur les deux dimensions
+R3;Agency_583;UPW_033;0,858;14;0,155;55;41;Performantes sur les deux dimensions
+R3;Agency_496;UPW_019;0,851;15;0,354;15;0;Performantes sur les deux dimensions
+R3;Agency_727;UPW_055;0,83;16;0,233;35;19;Performantes sur les deux dimensions
+R3;Agency_585;UPW_045;0,825;18;0,146;59;41;Performantes sur les deux dimensions
+R3;Agency_576;UPW_018;0,814;19;0,425;4;15;Performantes sur les deux dimensions
+R3;Agency_556;UPW_018;0,813;20;0,438;3;17;Performantes sur les deux dimensions
+R3;Agency_666;UPW_035;0,806;21;0,216;41;20;Performantes sur les deux dimensions
+R3;Agency_493;UPW_013;0,801;22;0,403;6;16;Performantes sur les deux dimensions
+R3;Agency_795;UPW_042;0,798;23;0,208;43;20;Performantes sur les deux dimensions
+R3;Agency_952;UPW_034;0,796;25;0,438;2;23;Performantes sur les deux dimensions
+R3;Agency_007;UPW_035;0,79;26;0,359;14;12;Performantes sur les deux dimensions
+R3;Agency_592;UPW_002;0,762;27;0,235;34;7;Performantes sur les deux dimensions
+R3;Agency_688;UPW_044;0,741;29;0,116;68;39;Performantes sur les deux dimensions
+R3;Agency_266;UPW_013;0,738;30;0,242;31;1;Performantes sur les deux dimensions
+R3;Agency_138;UPW_006;0,738;31;0,02;98;67;Performantes sur les deux dimensions
+R3;Agency_578;UPW_052;0,738;33;0,184;52;19;Performantes sur les deux dimensions
+R3;Agency_181;UPW_031;0,734;35;0,222;40;5;Performantes sur les deux dimensions
+R3;Agency_525;UPW_045;0,733;36;0,372;11;25;Performantes sur les deux dimensions
+R3;Agency_047;UPW_036;0,732;37;0,194;49;12;Performantes sur les deux dimensions
+R3;Agency_387;UPW_023;0,73;38;0,071;86;48;Performantes sur les deux dimensions
+R3;Agency_523;UPW_043;0,728;39;0,422;5;34;Performantes sur les deux dimensions
+R3;Agency_708;UPW_038;0,723;40;0,265;29;11;Performantes sur les deux dimensions
+R3;Agency_628;UPW_033;0,722;41;0,268;28;13;Performantes sur les deux dimensions
+R3;Agency_016;UPW_031;0,705;42;0,077;83;41;Performantes sur les deux dimensions
+R3;Agency_800;UPW_030;0,698;43;0,279;24;19;Performantes sur les deux dimensions
+R3;Agency_842;UPW_039;0,694;44;0,236;33;11;Performantes sur les deux dimensions
+R3;Agency_826;UPW_007;0,69;45;0,381;10;35;Performantes sur les deux dimensions
+R3;Agency_722;UPW_033;0,69;46;0,224;39;7;Performantes sur les deux dimensions
+R3;Agency_434;UPW_031;0,678;48;0,344;16;32;Performantes sur les deux dimensions
+R3;Agency_843;UPW_019;0,674;49;0,122;66;17;Performantes sur les deux dimensions
+R3;Agency_675;UPW_038;0,674;50;0,032;95;45;Performantes sur les deux dimensions
+R3;Agency_832;UPW_036;0,672;51;0,213;42;9;Performantes sur les deux dimensions
+R3;Agency_932;UPW_043;0,672;53;0,207;44;9;Performantes sur les deux dimensions
+R3;Agency_063;UPW_005;0,671;54;0,359;13;41;Performantes sur les deux dimensions
+R3;Agency_494;UPW_043;0,67;55;0,195;47;8;Performantes sur les deux dimensions
+R3;Agency_943;UPW_049;0,67;56;0,322;20;36;Performantes sur les deux dimensions
+R3;Agency_847;UPW_014;0,664;58;0,076;84;26;Performantes sur les deux dimensions
+R3;Agency_296;UPW_004;0,662;60;0,053;89;29;Performantes sur les deux dimensions
+R3;Agency_831;UPW_052;0,658;61;0,229;38;23;Performantes sur les deux dimensions
+R3;Agency_289;UPW_038;0,657;62;0,206;45;17;Performantes sur les deux dimensions
+R3;Agency_636;UPW_032;0,656;64;0,124;63;1;Performantes sur les deux dimensions
+R3;Agency_189;UPW_013;0,653;65;0,111;70;5;Performantes sur les deux dimensions
+R3;Agency_508;UPW_009;0,651;66;0,288;22;44;Performantes sur les deux dimensions
+R3;Agency_863;UPW_055;0,647;67;0,045;91;24;Performantes sur les deux dimensions
+R3;Agency_462;UPW_045;0,64;71;0,231;37;34;Performantes sur les deux dimensions
+R3;Agency_819;UPW_016;0,638;72;0,199;46;26;Performantes sur les deux dimensions
+R3;Agency_240;UPW_056;0,637;73;0,15;57;16;Performantes sur les deux dimensions
+R3;Agency_864;UPW_002;0,636;74;0,336;18;56;Performantes sur les deux dimensions
+R3;Agency_274;UPW_049;0,633;75;0,171;53;22;Performantes sur les deux dimensions
+R3;Agency_663;UPW_008;0,63;76;0,305;21;55;Performantes sur les deux dimensions
+R3;Agency_339;UPW_030;0,627;77;0,252;30;47;Performantes sur les deux dimensions
+R3;Agency_256;UPW_041;0,627;78;0,084;80;2;Performantes sur les deux dimensions
+R3;Agency_860;UPW_045;0,626;79;0,148;58;21;Performantes sur les deux dimensions
+R3;Agency_380;UPW_052;0,617;80;0,142;61;19;Performantes sur les deux dimensions
+R3;Agency_031;UPW_015;0,617;81;0,153;56;25;Performantes sur les deux dimensions
+R3;Agency_084;UPW_041;0,606;84;0,077;82;2;Performantes sur les deux dimensions
+R3;Agency_317;UPW_048;0,601;86;0,123;64;22;Performantes sur les deux dimensions
+R3;Agency_498;UPW_019;0,598;87;0,272;26;61;Performantes sur les deux dimensions
+R3;Agency_369;UPW_040;0,598;88;0,012;101;13;Performantes sur les deux dimensions
+R3;Agency_726;UPW_041;0,597;89;0,184;51;38;Performantes sur les deux dimensions
+R3;Agency_702;UPW_048;0,595;92;0,062;87;5;Performantes sur les deux dimensions
+R3;Agency_877;UPW_035;0,594;93;0,284;23;70;Performantes sur les deux dimensions
+R3;Agency_927;UPW_053;0,586;94;0,193;50;44;Performantes sur les deux dimensions
+R3;Agency_756;UPW_040;0,583;95;0,242;32;63;Performantes sur les deux dimensions
+R3;Agency_536;UPW_003;0,582;96;0,012;102;6;Performantes sur les deux dimensions
+R3;Agency_431;UPW_029;0,574;100;0,233;36;64;Performantes sur les deux dimensions
+R3;Agency_403;UPW_020;0,572;103;0,016;99;4;Performantes sur les deux dimensions
+R4;Agency_463;UPW_038;0,994;4;-0,091;10;6;Efficientes mais faibles sur le plan multicritère
+R4;Agency_526;UPW_016;0,816;7;-0,111;11;4;Efficientes mais faibles sur le plan multicritère
+R4;Agency_188;UPW_031;0,634;11;0,056;6;5;Faibles en DEA mais mieux classées en PROMETHEE II
+R4;Agency_657;UPW_049;0,552;13;0,214;4;9;Faibles en DEA mais mieux classées en PROMETHEE II
+R4;Agency_409;UPW_032;0,79;9;-0,318;16;7;Faibles sur les deux approches
+R4;Agency_689;UPW_042;0,643;10;-0,28;15;5;Faibles sur les deux approches
+R4;Agency_398;UPW_038;0,593;12;-0,165;14;2;Faibles sur les deux approches
+R4;Agency_767;UPW_039;0,51;14;-0,117;13;1;Faibles sur les deux approches
+R4;Agency_753;UPW_006;0,435;15;-0,045;9;6;Faibles sur les deux approches
+R4;Agency_649;UPW_046;0,244;16;-0,115;12;4;Faibles sur les deux approches
+R4;Agency_378;UPW_016;1,0;1;0,308;1;0;Performantes sur les deux dimensions
+R4;Agency_707;UPW_038;1,0;2;0,088;5;3;Performantes sur les deux dimensions
+R4;Agency_748;UPW_048;1,0;3;0,019;7;4;Performantes sur les deux dimensions
+R4;Agency_159;UPW_029;0,976;5;0,301;2;3;Performantes sur les deux dimensions
+R4;Agency_533;UPW_038;0,963;6;0,236;3;3;Performantes sur les deux dimensions
+R4;Agency_957;UPW_049;0,81;8;0,019;8;0;Performantes sur les deux dimensions
