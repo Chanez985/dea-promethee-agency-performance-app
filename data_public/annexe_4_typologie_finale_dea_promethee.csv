@@ -1,0 +1,963 @@
+﻿Classe;Désignation;UPW;Score DEA;Rang DEA;Flux net PROMETHEE II;Rang PROMETHEE II;Écart de rang;Profil
+CE;CHLEF 15;CHLEF;0,88;7;-0,015;27;20;Efficientes mais faibles sur le plan multicritère
+CE;SETIF 32;SETIF;0,643;21;-0,043;29;8;Efficientes mais faibles sur le plan multicritère
+CE;ORAN 39;ORAN;0,629;22;-0,291;48;26;Efficientes mais faibles sur le plan multicritère
+CE;ALGER EST 42;ALGER EST;0,623;24;-0,045;30;6;Efficientes mais faibles sur le plan multicritère
+CE;MSILA 06;MSILA;0,557;28;0,038;22;6;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;MSILA 13;MSILA;0,527;36;0,012;25;11;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;JIJEL 13;JIJEL;0,519;40;0,016;23;17;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;ALGER CENTRE 26;ALGER CENTRE;0,502;42;0,157;14;28;Faibles en DEA mais mieux classées en PROMETHEE II
+CE;TIPAZA 11;TIPAZA;0,565;27;-0,062;31;4;Faibles sur les deux approches
+CE;OUARGLA 10;OUARGLA;0,553;29;-0,286;46;17;Faibles sur les deux approches
+CE;TIZI OUZOU 18;TIZI OUZOU;0,551;30;-0,095;33;3;Faibles sur les deux approches
+CE;AIN DEFLA 02;AIN DEFLA;0,55;31;-0,168;37;6;Faibles sur les deux approches
+CE;TEBESSA 27;TEBESSA;0,539;32;-0,116;34;2;Faibles sur les deux approches
+CE;ANNABA 08;ANNABA;0,537;33;-0,171;38;5;Faibles sur les deux approches
+CE;EL TARF 14;EL TARF;0,533;34;-0,018;28;6;Faibles sur les deux approches
+CE;BECHAR 05;BECHAR;0,532;35;-0,171;39;4;Faibles sur les deux approches
+CE;SETIF 23;SETIF;0,527;37;-0,069;32;5;Faibles sur les deux approches
+CE;CONSTANTINE 20;CONSTANTINE;0,525;38;-0,229;42;4;Faibles sur les deux approches
+CE;MASCARA 18;MASCARA;0,523;39;-0,149;35;4;Faibles sur les deux approches
+CE;ALGER CENTRE 23;ALGER CENTRE;0,508;41;-0,266;43;2;Faibles sur les deux approches
+CE;BISKRA 06;BISKRA;0,486;43;-0,284;44;1;Faibles sur les deux approches
+CE;EL OUED 06;EL OUED;0,45;44;-0,197;40;4;Faibles sur les deux approches
+CE;ALGER OUEST 05;ALGER OUEST;0,45;45;-0,286;47;2;Faibles sur les deux approches
+CE;MASCARA 12;MASCARA;0,432;46;-0,456;50;4;Faibles sur les deux approches
+CE;TIARET 25;TIARET;0,426;47;-0,206;41;6;Faibles sur les deux approches
+CE;TAMANRASSET 05;TAMANRASSET;0,42;48;-0,325;49;1;Faibles sur les deux approches
+CE;SIDI BEL ABBES 11;SIDI BEL ABBES;0,404;49;-0,284;45;4;Faibles sur les deux approches
+CE;ALGER CENTRE 05;ALGER CENTRE;0,292;50;-0,154;36;14;Faibles sur les deux approches
+CE;ALGER CENTRE 03;ALGER CENTRE;0,15;51;-0,642;51;0;Faibles sur les deux approches
+CE;DJELFA 11;DJELFA;1,0;1;0,471;2;1;Performantes sur les deux dimensions
+CE;AIN TEMOUCHENT 01;AIN TEMOUCHENT;1,0;2;0,329;5;3;Performantes sur les deux dimensions
+CE;TLEMCEN 18;TLEMCEN;1,0;3;0,316;7;4;Performantes sur les deux dimensions
+CE;MOSTAGANEM 21;MOSTAGANEM;1,0;4;0,278;10;6;Performantes sur les deux dimensions
+CE;ALGER EST 32;ALGER EST;1,0;5;0,129;15;10;Performantes sur les deux dimensions
+CE;BOUIRA 09;BOUIRA;0,901;6;0,556;1;5;Performantes sur les deux dimensions
+CE;RELIZANE 17;RELIZANE;0,848;8;0,376;3;5;Performantes sur les deux dimensions
+CE;MEDEA 12;MEDEA;0,818;9;0,274;11;2;Performantes sur les deux dimensions
+CE;GUELMA 07;GUELMA;0,799;10;0,282;9;1;Performantes sur les deux dimensions
+CE;BOUMERDES 07;BOUMERDES;0,753;11;0,055;20;9;Performantes sur les deux dimensions
+CE;BEJAIA 11;BEJAIA;0,737;12;0,349;4;8;Performantes sur les deux dimensions
+CE;ALGER OUEST 01;ALGER OUEST;0,722;13;0,285;8;5;Performantes sur les deux dimensions
+CE;BATNA 12;BATNA;0,72;14;0,076;19;5;Performantes sur les deux dimensions
+CE;SKIKDA 28;SKIKDA;0,685;15;0,203;12;3;Performantes sur les deux dimensions
+CE;ALGER EST 26;ALGER EST;0,68;16;0,16;13;3;Performantes sur les deux dimensions
+CE;ALGER EST 30;ALGER EST;0,679;17;0,095;17;0;Performantes sur les deux dimensions
+CE;BLIDA 08;BLIDA;0,652;18;0,126;16;2;Performantes sur les deux dimensions
+CE;AIN DEFLA 11;AIN DEFLA;0,651;19;0,013;24;5;Performantes sur les deux dimensions
+CE;OUM EL BOUAGHI 16;OUM EL BOUAGHI;0,645;20;0,078;18;2;Performantes sur les deux dimensions
+CE;SOUK AHRAS 14;SOUK AHRAS;0,625;23;-0,001;26;3;Performantes sur les deux dimensions
+CE;ADRAR 02;ADRAR;0,606;25;0,318;6;19;Performantes sur les deux dimensions
+CE;BORDJ BOUARRERIDJ 09;BORDJ BOUARRERIDJ;0,584;26;0,038;21;5;Performantes sur les deux dimensions
+HC;ORAN 40;ORAN;0,802;17;-0,327;58;41;Efficientes mais faibles sur le plan multicritère
+HC;TOUGGOURT 06;TOUGGOURT;0,801;18;-0,16;48;30;Efficientes mais faibles sur le plan multicritère
+HC;TIPAZA 06;TIPAZA;0,799;20;-0,033;32;12;Efficientes mais faibles sur le plan multicritère
+HC;TIPAZA 15;TIPAZA;0,79;22;-0,052;34;12;Efficientes mais faibles sur le plan multicritère
+HC;ALGER CENTRE 12;ALGER CENTRE;0,734;25;-0,084;39;14;Efficientes mais faibles sur le plan multicritère
+HC;CONSTANTINE 19;CONSTANTINE;0,682;30;-0,118;45;15;Efficientes mais faibles sur le plan multicritère
+HC;MILA 07;MILA;0,636;32;0,09;22;10;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;TIPAZA 22;TIPAZA;0,629;34;0,092;21;13;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;BEJAIA 01;BEJAIA;0,601;38;0,148;16;22;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;IN SALAH 03;IN SALAH;0,586;41;0,02;27;14;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;AIN DEFLA 05;AIN DEFLA;0,52;46;0,078;23;23;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;TISSEMSITL 09;TISSEMSITL;0,467;51;0,034;25;26;Faibles en DEA mais mieux classées en PROMETHEE II
+HC;OUM EL BOUAGHI 13;OUM EL BOUAGHI;0,631;33;-0,058;35;2;Faibles sur les deux approches
+HC;ALGER CENTRE 25;ALGER CENTRE;0,612;35;-0,066;38;3;Faibles sur les deux approches
+HC;ALGER CENTRE 27;ALGER CENTRE;0,609;36;-0,102;41;5;Faibles sur les deux approches
+HC;ALGER CENTRE 13;ALGER CENTRE;0,605;37;-0,181;52;15;Faibles sur les deux approches
+HC;SAIDA 09;SAIDA;0,598;39;-0,279;56;17;Faibles sur les deux approches
+HC;GHARDAIA 03;GHARDAIA;0,598;40;-0,122;46;6;Faibles sur les deux approches
+HC;BLIDA 20;BLIDA;0,568;42;-0,402;61;19;Faibles sur les deux approches
+HC;TINDOUF 01;TINDOUF;0,561;43;-0,184;53;10;Faibles sur les deux approches
+HC;JIJEL 09;JIJEL;0,527;44;-0,061;36;8;Faibles sur les deux approches
+HC;ALGER CENTRE 08;ALGER CENTRE;0,524;45;-0,34;59;14;Faibles sur les deux approches
+HC;ALGER CENTRE 11;ALGER CENTRE;0,519;47;-0,168;49;2;Faibles sur les deux approches
+HC;ILLIZI 03;ILLIZI;0,513;48;-0,311;57;9;Faibles sur les deux approches
+HC;KHENCHELA 10;KHENCHELA;0,49;49;-0,341;60;11;Faibles sur les deux approches
+HC;ALGER CENTRE 04;ALGER CENTRE;0,474;50;-0,151;47;3;Faibles sur les deux approches
+HC;NAAMA 04;NAAMA;0,45;52;-0,036;33;19;Faibles sur les deux approches
+HC;ALGER CENTRE 30;ALGER CENTRE;0,432;53;-0,109;42;11;Faibles sur les deux approches
+HC;ALGER CENTRE 02;ALGER CENTRE;0,421;54;-0,118;44;10;Faibles sur les deux approches
+HC;ALGER CENTRE 06;ALGER CENTRE;0,404;55;-0,096;40;15;Faibles sur les deux approches
+HC;CHLEF 21;CHLEF;0,39;56;-0,177;51;5;Faibles sur les deux approches
+HC;CONSTANTINE 15;CONSTANTINE;0,388;57;-0,062;37;20;Faibles sur les deux approches
+HC;ORAN 09;ORAN;0,384;58;-0,174;50;8;Faibles sur les deux approches
+HC;ALGER OUEST 10;ALGER OUEST;0,366;59;-0,266;55;4;Faibles sur les deux approches
+HC;OUM EL BOUAGHI 05;OUM EL BOUAGHI;0,337;60;-0,234;54;6;Faibles sur les deux approches
+HC;MEDEA 10;MEDEA;0,258;61;-0,118;43;18;Faibles sur les deux approches
+HC;MILA 01;MILA;1,0;1;0,425;1;0;Performantes sur les deux dimensions
+HC;SKIKDA 11;SKIKDA;1,0;2;0,364;2;0;Performantes sur les deux dimensions
+HC;BLIDA 09;BLIDA;1,0;3;0,353;3;0;Performantes sur les deux dimensions
+HC;ALGER CENTRE 19;ALGER CENTRE;1,0;4;0,297;6;2;Performantes sur les deux dimensions
+HC;OUARGLA 04;OUARGLA;1,0;5;0,272;7;2;Performantes sur les deux dimensions
+HC;ALGER EST 39;ALGER EST;1,0;6;0,211;10;4;Performantes sur les deux dimensions
+HC;MASCARA 15;MASCARA;1,0;7;0,165;14;7;Performantes sur les deux dimensions
+HC;MEDEA 14;MEDEA;0,986;8;0,142;18;10;Performantes sur les deux dimensions
+HC;ORAN 36;ORAN;0,977;9;0,03;26;17;Performantes sur les deux dimensions
+HC;AIN DEFLA 14;AIN DEFLA;0,975;10;0,312;5;5;Performantes sur les deux dimensions
+HC;TIZI OUZOU 06;TIZI OUZOU;0,959;11;0,156;15;4;Performantes sur les deux dimensions
+HC;ALGER EST 25;ALGER EST;0,945;12;0,337;4;8;Performantes sur les deux dimensions
+HC;ANNABA 03;ANNABA;0,895;13;0,198;11;2;Performantes sur les deux dimensions
+HC;CHLEF 01;CHLEF;0,842;14;0,048;24;10;Performantes sur les deux dimensions
+HC;TLEMCEN 10;TLEMCEN;0,84;15;0,103;20;5;Performantes sur les deux dimensions
+HC;BORDJ BOUARRERIDJ 17;BORDJ BOUARRERIDJ;0,822;16;0,18;12;4;Performantes sur les deux dimensions
+HC;TIPAZA 02;TIPAZA;0,801;19;0,128;19;0;Performantes sur les deux dimensions
+HC;EL BAYADH 04;EL BAYADH;0,794;21;0,172;13;8;Performantes sur les deux dimensions
+HC;ALGER CENTRE 16;ALGER CENTRE;0,741;23;0,012;28;5;Performantes sur les deux dimensions
+HC;ALGER CENTRE 18;ALGER CENTRE;0,738;24;-0,021;31;7;Performantes sur les deux dimensions
+HC;LAGHOUAT 18;LAGHOUAT;0,721;26;0,233;8;18;Performantes sur les deux dimensions
+HC;EL MEGHAIER 01;EL MEGHAIER;0,708;27;0,219;9;18;Performantes sur les deux dimensions
+HC;TIZI OUZOU 17;TIZI OUZOU;0,705;28;0,148;17;11;Performantes sur les deux dimensions
+HC;LAGHOUAT 01;LAGHOUAT;0,701;29;0,0;29;0;Performantes sur les deux dimensions
+HC;CHLEF 31;CHLEF;0,681;31;-0,014;30;1;Performantes sur les deux dimensions
+R1;TIZI OUZOU 14;TIZI OUZOU;1,0;11;-0,026;99;88;Efficientes mais faibles sur le plan multicritère
+R1;TEBESSA 09;TEBESSA;0,974;16;-0,226;156;140;Efficientes mais faibles sur le plan multicritère
+R1;SETIF 08;SETIF;0,813;26;-0,158;140;114;Efficientes mais faibles sur le plan multicritère
+R1;SIDI BEL ABBES 12;SIDI BEL ABBES;0,796;28;-0,005;93;65;Efficientes mais faibles sur le plan multicritère
+R1;ORAN 06;ORAN;0,757;30;-0,256;166;136;Efficientes mais faibles sur le plan multicritère
+R1;TEBESSA 26;TEBESSA;0,732;37;-0,124;130;93;Efficientes mais faibles sur le plan multicritère
+R1;SETIF 24;SETIF;0,725;39;-0,036;102;63;Efficientes mais faibles sur le plan multicritère
+R1;ORAN 38;ORAN;0,72;41;-0,058;109;68;Efficientes mais faibles sur le plan multicritère
+R1;SETIF 02;SETIF;0,715;44;-0,125;132;88;Efficientes mais faibles sur le plan multicritère
+R1;TEBESSA 23;TEBESSA;0,708;47;-0,112;128;81;Efficientes mais faibles sur le plan multicritère
+R1;ORAN 33;ORAN;0,699;48;-0,108;127;79;Efficientes mais faibles sur le plan multicritère
+R1;TEBESSA 02;TEBESSA;0,681;52;-0,252;163;111;Efficientes mais faibles sur le plan multicritère
+R1;ORAN 01;ORAN;0,678;53;-0,124;131;78;Efficientes mais faibles sur le plan multicritère
+R1;ORAN 03;ORAN;0,672;55;-0,067;112;57;Efficientes mais faibles sur le plan multicritère
+R1;BOUMERDES 03;BOUMERDES;0,67;57;-0,27;167;110;Efficientes mais faibles sur le plan multicritère
+R1;MASCARA 21;MASCARA;0,663;59;-0,07;113;54;Efficientes mais faibles sur le plan multicritère
+R1;MASCARA 14;MASCARA;0,655;62;-0,1;122;60;Efficientes mais faibles sur le plan multicritère
+R1;BLIDA 17;BLIDA;0,644;67;-0,012;96;29;Efficientes mais faibles sur le plan multicritère
+R1;ALGER CENTRE 14;ALGER CENTRE;0,634;71;-0,007;95;24;Efficientes mais faibles sur le plan multicritère
+R1;ALGER EST 20;ALGER EST;0,628;72;-0,137;136;64;Efficientes mais faibles sur le plan multicritère
+R1;DJELFA 08;DJELFA;0,628;73;-0,029;101;28;Efficientes mais faibles sur le plan multicritère
+R1;NAAMA 01;NAAMA;0,622;78;-0,133;134;56;Efficientes mais faibles sur le plan multicritère
+R1;ALGER EST 18;ALGER EST;0,621;79;-0,106;126;47;Efficientes mais faibles sur le plan multicritère
+R1;MILA 05;MILA;0,619;80;-0,056;108;28;Efficientes mais faibles sur le plan multicritère
+R1;SIDI BEL ABBES 15;SIDI BEL ABBES;0,613;82;-0,31;176;94;Efficientes mais faibles sur le plan multicritère
+R1;ADRAR 03;ADRAR;0,608;83;-0,053;106;23;Efficientes mais faibles sur le plan multicritère
+R1;BOUMERDES 05;BOUMERDES;0,607;84;-0,163;141;57;Efficientes mais faibles sur le plan multicritère
+R1;BORDJ BOUARRERIDJ 04;BORDJ BOUARRERIDJ;0,602;86;-0,184;147;61;Efficientes mais faibles sur le plan multicritère
+R1;MEDEA 02;MEDEA;0,602;87;-0,007;94;7;Efficientes mais faibles sur le plan multicritère
+R1;CONSTANTINE 33;CONSTANTINE;0,597;90;-0,102;124;34;Efficientes mais faibles sur le plan multicritère
+R1;TIARET 20;TIARET;0,594;91;-0,091;118;27;Efficientes mais faibles sur le plan multicritère
+R1;OUM EL BOUAGHI 12;OUM EL BOUAGHI;0,585;94;0,098;61;33;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BISKRA 11;BISKRA;0,582;95;0,029;80;15;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;RELIZANE 02;RELIZANE;0,581;96;0,183;37;59;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;CHLEF 20;CHLEF;0,576;98;0,133;49;49;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ORAN 18;ORAN;0,574;101;0,001;91;10;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BLIDA 11;BLIDA;0,562;105;0,041;77;28;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;SAIDA 08;SAIDA;0,558;109;0,181;38;71;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TIZI OUZOU 05;TIZI OUZOU;0,555;111;0,005;89;22;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ALGER EST 16;ALGER EST;0,536;115;0,104;58;57;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TIARET 15;TIARET;0,534;116;0,051;74;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;MILA 03;MILA;0,532;117;0,103;59;58;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TLEMCEN 08;TLEMCEN;0,532;118;0,071;68;50;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TISSEMSITL 05;TISSEMSITL;0,532;119;0,071;67;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ANNABA 14;ANNABA;0,532;120;0,071;69;51;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ALGER CENTRE 07;ALGER CENTRE;0,523;122;0,2;30;92;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TLEMCEN 11;TLEMCEN;0,517;125;0,155;43;82;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;MEDEA 17;MEDEA;0,513;127;0,113;53;74;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BATNA 17;BATNA;0,512;128;0,053;73;55;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;MOSTAGANEM 17;MOSTAGANEM;0,509;129;0,108;56;73;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BECHAR 09;BECHAR;0,504;131;0,149;44;87;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;EL OUED 05;EL OUED;0,493;136;0,192;33;103;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;EL OUED 07;EL OUED;0,492;137;0,273;16;121;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BEJAIA 02;BEJAIA;0,491;138;0,016;86;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ALGER CENTRE 10;ALGER CENTRE;0,49;140;0,146;45;95;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TISSEMSITL 01;TISSEMSITL;0,471;143;0,23;23;120;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;TLEMCEN 16;TLEMCEN;0,437;152;0,009;88;64;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BLIDA 06;BLIDA;0,427;155;0,026;83;72;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BATNA 02;BATNA;0,419;159;0,092;65;94;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;OUM EL BOUAGHI 14;OUM EL BOUAGHI;0,415;160;0,026;82;78;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BATNA 18;BATNA;0,414;161;0,11;54;107;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;BISKRA 10;BISKRA;0,396;167;0,03;79;88;Faibles en DEA mais mieux classées en PROMETHEE II
+R1;ANNABA 07;ANNABA;0,589;93;-0,297;173;80;Faibles sur les deux approches
+R1;ORAN 34;ORAN;0,578;97;-0,227;158;61;Faibles sur les deux approches
+R1;CONSTANTINE 14;CONSTANTINE;0,575;99;-0,042;104;5;Faibles sur les deux approches
+R1;ORAN 35;ORAN;0,574;100;-0,208;151;51;Faibles sur les deux approches
+R1;BORDJ BOUARRERIDJ 10;BORDJ BOUARRERIDJ;0,572;102;-0,055;107;5;Faibles sur les deux approches
+R1;TIMIMOUN 01;TIMIMOUN;0,57;103;-0,231;159;56;Faibles sur les deux approches
+R1;ORAN 22;ORAN;0,564;104;-0,106;125;21;Faibles sur les deux approches
+R1;ALGER OUEST 14;ALGER OUEST;0,562;106;-0,094;119;13;Faibles sur les deux approches
+R1;ALGER OUEST 29;ALGER OUEST;0,56;107;-0,226;157;50;Faibles sur les deux approches
+R1;ANNABA 06;ANNABA;0,559;108;-0,297;174;66;Faibles sur les deux approches
+R1;SIDI BEL ABBES 07;SIDI BEL ABBES;0,558;110;-0,121;129;19;Faibles sur les deux approches
+R1;BOUMERDES 04;BOUMERDES;0,554;112;-0,133;133;21;Faibles sur les deux approches
+R1;OUM EL BOUAGHI 04;OUM EL BOUAGHI;0,548;113;-0,181;146;33;Faibles sur les deux approches
+R1;BOUMERDES 23;BOUMERDES;0,539;114;-0,138;137;23;Faibles sur les deux approches
+R1;ALGER CENTRE 24;ALGER CENTRE;0,523;121;-0,134;135;14;Faibles sur les deux approches
+R1;ALGER OUEST 27;ALGER OUEST;0,521;123;-0,04;103;20;Faibles sur les deux approches
+R1;BOUMERDES 15;BOUMERDES;0,52;124;-0,096;120;4;Faibles sur les deux approches
+R1;BATNA 20;BATNA;0,514;126;-0,018;98;28;Faibles sur les deux approches
+R1;BISKRA 12;BISKRA;0,506;130;-0,086;115;15;Faibles sur les deux approches
+R1;ALGER OUEST 28;ALGER OUEST;0,499;132;-0,14;138;6;Faibles sur les deux approches
+R1;TLEMCEN 05;TLEMCEN;0,499;133;-0,012;97;36;Faibles sur les deux approches
+R1;ALGER EST 11;ALGER EST;0,498;134;-0,045;105;29;Faibles sur les deux approches
+R1;SIDI BEL ABBES 08;SIDI BEL ABBES;0,494;135;-0,146;139;4;Faibles sur les deux approches
+R1;SKIKDA 03;SKIKDA;0,49;139;-0,24;161;22;Faibles sur les deux approches
+R1;ALGER EST 13;ALGER EST;0,488;141;-0,189;148;7;Faibles sur les deux approches
+R1;TIZI OUZOU 10;TIZI OUZOU;0,475;142;-0,09;116;26;Faibles sur les deux approches
+R1;TLEMCEN 12;TLEMCEN;0,462;144;-0,292;171;27;Faibles sur les deux approches
+R1;EL TARF 08;EL TARF;0,46;145;-0,213;152;7;Faibles sur les deux approches
+R1;RELIZANE 09;RELIZANE;0,46;146;-0,026;100;46;Faibles sur les deux approches
+R1;BOUIRA 02;BOUIRA;0,455;147;-0,067;111;36;Faibles sur les deux approches
+R1;ANNABA 05;ANNABA;0,452;148;-0,163;142;6;Faibles sur les deux approches
+R1;ALGER EST 17;ALGER EST;0,444;149;-0,276;168;19;Faibles sur les deux approches
+R1;BATNA 11;BATNA;0,441;150;-0,304;175;25;Faibles sur les deux approches
+R1;ALGER OUEST 16;ALGER OUEST;0,438;151;-0,326;179;28;Faibles sur les deux approches
+R1;BEJAIA 18;BEJAIA;0,436;153;-0,08;114;39;Faibles sur les deux approches
+R1;CHLEF 02;CHLEF;0,427;154;-0,331;180;26;Faibles sur les deux approches
+R1;BENI ABBES 01;BENI ABBES;0,423;156;-0,422;183;27;Faibles sur les deux approches
+R1;KHENCHELA 08;KHENCHELA;0,423;157;-0,253;164;7;Faibles sur les deux approches
+R1;OUARGLA 01;OUARGLA;0,423;158;-0,523;184;26;Faibles sur les deux approches
+R1;TEBESSA 21;TEBESSA;0,407;162;-0,379;182;20;Faibles sur les deux approches
+R1;ANNABA 09;ANNABA;0,406;163;-0,22;154;9;Faibles sur les deux approches
+R1;GHARDAIA 04;GHARDAIA;0,406;164;-0,292;172;8;Faibles sur les deux approches
+R1;BLIDA 27;BLIDA;0,404;165;-0,223;155;10;Faibles sur les deux approches
+R1;TIZI OUZOU 07;TIZI OUZOU;0,4;166;-0,322;178;12;Faibles sur les deux approches
+R1;EL MEGHAIER 02;EL MEGHAIER;0,394;168;-0,28;170;2;Faibles sur les deux approches
+R1;ALGER CENTRE 09;ALGER CENTRE;0,394;169;-0,331;181;12;Faibles sur les deux approches
+R1;CHLEF 06;CHLEF;0,393;170;-0,09;117;53;Faibles sur les deux approches
+R1;ALGER OUEST 03;ALGER OUEST;0,386;171;-0,167;143;28;Faibles sur les deux approches
+R1;BEJAIA 12;BEJAIA;0,374;172;-0,101;123;49;Faibles sur les deux approches
+R1;BOUIRA 17;BOUIRA;0,371;173;-0,096;121;52;Faibles sur les deux approches
+R1;BEJAIA 14;BEJAIA;0,367;174;-0,278;169;5;Faibles sur les deux approches
+R1;MOSTAGANEM 10;MOSTAGANEM;0,347;175;-0,063;110;65;Faibles sur les deux approches
+R1;TIZI OUZOU 01;TIZI OUZOU;0,341;176;-0,195;149;27;Faibles sur les deux approches
+R1;BEJAIA 16;BEJAIA;0,334;177;-0,32;177;0;Faibles sur les deux approches
+R1;BLIDA 26;BLIDA;0,33;178;-0,256;165;13;Faibles sur les deux approches
+R1;OUM EL BOUAGHI 11;OUM EL BOUAGHI;0,323;179;-0,236;160;19;Faibles sur les deux approches
+R1;KHENCHELA 06;KHENCHELA;0,308;180;-0,175;145;35;Faibles sur les deux approches
+R1;ORAN 32;ORAN;0,301;181;-0,218;153;28;Faibles sur les deux approches
+R1;ALGER CENTRE 20;ALGER CENTRE;0,286;182;-0,251;162;20;Faibles sur les deux approches
+R1;BEJAIA 03;BEJAIA;0,284;183;-0,168;144;39;Faibles sur les deux approches
+R1;JIJEL 19;JIJEL;0,249;184;-0,206;150;34;Faibles sur les deux approches
+R1;BORDJ BOUARRERIDJ 08;BORDJ BOUARRERIDJ;1,0;1;0,478;2;1;Performantes sur les deux dimensions
+R1;MILA 14;MILA;1,0;2;0,469;3;1;Performantes sur les deux dimensions
+R1;ILLIZI 04;ILLIZI;1,0;3;0,433;6;3;Performantes sur les deux dimensions
+R1;ALGER OUEST 24;ALGER OUEST;1,0;4;0,429;7;3;Performantes sur les deux dimensions
+R1;OUARGLA 09;OUARGLA;1,0;5;0,368;9;4;Performantes sur les deux dimensions
+R1;BOUIRA 16;BOUIRA;1,0;6;0,231;22;16;Performantes sur les deux dimensions
+R1;MOSTAGANEM 19;MOSTAGANEM;1,0;7;0,216;26;19;Performantes sur les deux dimensions
+R1;LAGHOUAT 17;LAGHOUAT;1,0;8;0,203;28;20;Performantes sur les deux dimensions
+R1;ALGER EST 35;ALGER EST;1,0;9;0,099;60;51;Performantes sur les deux dimensions
+R1;ORAN 17;ORAN;1,0;10;0,092;64;54;Performantes sur les deux dimensions
+R1;GUELMA 12;GUELMA;0,994;12;0,412;8;4;Performantes sur les deux dimensions
+R1;BLIDA 22;BLIDA;0,987;13;0,105;57;44;Performantes sur les deux dimensions
+R1;BEJAIA 09;BEJAIA;0,983;14;0,365;10;4;Performantes sur les deux dimensions
+R1;ORAN 41;ORAN;0,975;15;0,263;17;2;Performantes sur les deux dimensions
+R1;GUELMA 02;GUELMA;0,943;17;0,453;4;13;Performantes sur les deux dimensions
+R1;BOUMERDES 18;BOUMERDES;0,941;18;0,433;5;13;Performantes sur les deux dimensions
+R1;BOUIRA 13;BOUIRA;0,922;19;0,142;47;28;Performantes sur les deux dimensions
+R1;SKIKDA 15;SKIKDA;0,913;20;0,125;50;30;Performantes sur les deux dimensions
+R1;BOUMERDES 16;BOUMERDES;0,886;21;0,026;81;60;Performantes sur les deux dimensions
+R1;SETIF 18;SETIF;0,883;22;0,297;14;8;Performantes sur les deux dimensions
+R1;SKIKDA 09;SKIKDA;0,846;23;0,511;1;22;Performantes sur les deux dimensions
+R1;SETIF 22;SETIF;0,835;24;0,063;72;48;Performantes sur les deux dimensions
+R1;EL OUED 02;EL OUED;0,825;25;0,343;11;14;Performantes sur les deux dimensions
+R1;SETIF 06;SETIF;0,802;27;0,189;35;8;Performantes sur les deux dimensions
+R1;BORDJ BOUARRERIDJ 02;BORDJ BOUARRERIDJ;0,795;29;0,319;12;17;Performantes sur les deux dimensions
+R1;DJELFA 14;DJELFA;0,747;31;0,193;32;1;Performantes sur les deux dimensions
+R1;SETIF 21;SETIF;0,747;32;0,094;62;30;Performantes sur les deux dimensions
+R1;ALGER EST 10;ALGER EST;0,747;33;0,078;66;33;Performantes sur les deux dimensions
+R1;SETIF 09;SETIF;0,746;34;0,02;84;50;Performantes sur les deux dimensions
+R1;BATNA 15;BATNA;0,739;35;0,163;42;7;Performantes sur les deux dimensions
+R1;NAAMA 02;NAAMA;0,732;36;0,092;63;27;Performantes sur les deux dimensions
+R1;TIZI OUZOU 09;TIZI OUZOU;0,729;38;0,117;52;14;Performantes sur les deux dimensions
+R1;RELIZANE 16;RELIZANE;0,725;40;0,253;20;20;Performantes sur les deux dimensions
+R1;EL TARF 06;EL TARF;0,719;42;0,217;25;17;Performantes sur les deux dimensions
+R1;DJELFA 17;DJELFA;0,718;43;0,032;78;35;Performantes sur les deux dimensions
+R1;ALGER EST 05;ALGER EST;0,711;45;0,164;41;4;Performantes sur les deux dimensions
+R1;LAGHOUAT 15;LAGHOUAT;0,708;46;0,277;15;31;Performantes sur les deux dimensions
+R1;ALGER OUEST 08;ALGER OUEST;0,69;49;0,261;19;30;Performantes sur les deux dimensions
+R1;BOUMERDES 10;BOUMERDES;0,688;50;0,212;27;23;Performantes sur les deux dimensions
+R1;ALGER OUEST 02;ALGER OUEST;0,684;51;0,137;48;3;Performantes sur les deux dimensions
+R1;ALGER EST 07;ALGER EST;0,675;54;0,012;87;33;Performantes sur les deux dimensions
+R1;CHLEF 10;CHLEF;0,672;56;-0,002;92;36;Performantes sur les deux dimensions
+R1;BATNA 05;BATNA;0,664;58;0,175;39;19;Performantes sur les deux dimensions
+R1;ALGER EST 12;ALGER EST;0,659;60;0,067;71;11;Performantes sur les deux dimensions
+R1;MILA 04;MILA;0,657;61;0,262;18;43;Performantes sur les deux dimensions
+R1;ALGER EST 28;ALGER EST;0,655;63;0,041;76;13;Performantes sur les deux dimensions
+R1;ALGER EST 36;ALGER EST;0,65;64;0,109;55;9;Performantes sur les deux dimensions
+R1;CONSTANTINE 13;CONSTANTINE;0,649;65;0,173;40;25;Performantes sur les deux dimensions
+R1;SETIF 04;SETIF;0,646;66;0,142;46;20;Performantes sur les deux dimensions
+R1;BATNA 01;BATNA;0,641;68;0,199;31;37;Performantes sur les deux dimensions
+R1;TIARET 08;TIARET;0,641;69;0,188;36;33;Performantes sur les deux dimensions
+R1;BLIDA 25;BLIDA;0,636;70;0,19;34;36;Performantes sur les deux dimensions
+R1;BOUMERDES 12;BOUMERDES;0,628;74;0,246;21;53;Performantes sur les deux dimensions
+R1;BOUIRA 20;BOUIRA;0,627;75;0,017;85;10;Performantes sur les deux dimensions
+R1;ALGER OUEST 07;ALGER OUEST;0,625;76;0,067;70;6;Performantes sur les deux dimensions
+R1;MSILA 16;MSILA;0,624;77;0,227;24;53;Performantes sur les deux dimensions
+R1;MASCARA 11;MASCARA;0,619;81;0,043;75;6;Performantes sur les deux dimensions
+R1;TIARET 10;TIARET;0,603;85;0,003;90;5;Performantes sur les deux dimensions
+R1;MOSTAGANEM 05;MOSTAGANEM;0,598;88;0,201;29;59;Performantes sur les deux dimensions
+R1;MILA 02;MILA;0,598;89;0,313;13;76;Performantes sur les deux dimensions
+R1;SIDI BEL ABBES 10;SIDI BEL ABBES;0,592;92;0,121;51;41;Performantes sur les deux dimensions
+R2;MSILA 01;MSILA;1,0;14;0,0;221;207;Efficientes mais faibles sur le plan multicritère
+R2;SIDI BEL ABBES 01;SIDI BEL ABBES;0,925;26;-0,022;233;207;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 11;ORAN;0,826;44;-0,11;304;260;Efficientes mais faibles sur le plan multicritère
+R2;TEBESSA 06;TEBESSA;0,821;45;-0,283;404;359;Efficientes mais faibles sur le plan multicritère
+R2;BOUMERDES 13;BOUMERDES;0,807;52;-0,19;355;303;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 17;CHLEF;0,78;61;-0,079;281;220;Efficientes mais faibles sur le plan multicritère
+R2;TIARET 11;TIARET;0,763;71;-0,024;236;165;Efficientes mais faibles sur le plan multicritère
+R2;SKIKDA 24;SKIKDA;0,763;72;-0,094;291;219;Efficientes mais faibles sur le plan multicritère
+R2;ALGER EST 24;ALGER EST;0,76;75;-0,017;229;154;Efficientes mais faibles sur le plan multicritère
+R2;CONSTANTINE 04;CONSTANTINE;0,744;84;-0,074;276;192;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 25;ORAN;0,737;90;-0,054;258;168;Efficientes mais faibles sur le plan multicritère
+R2;CONSTANTINE 06;CONSTANTINE;0,724;97;-0,081;283;186;Efficientes mais faibles sur le plan multicritère
+R2;MSILA 07;MSILA;0,722;99;-0,126;310;211;Efficientes mais faibles sur le plan multicritère
+R2;SOUK AHRAS 16;SOUK AHRAS;0,718;102;-0,251;390;288;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 11;CHLEF;0,695;119;-0,279;403;284;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 24;ORAN;0,692;120;-0,194;358;238;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 07;ORAN;0,69;123;-0,255;393;270;Efficientes mais faibles sur le plan multicritère
+R2;MSILA 08;MSILA;0,688;124;-0,163;337;213;Efficientes mais faibles sur le plan multicritère
+R2;ALGER EST 09;ALGER EST;0,68;137;-0,16;334;197;Efficientes mais faibles sur le plan multicritère
+R2;TAMANRASSET 04;TAMANRASSET;0,68;138;-0,227;377;239;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 27;CHLEF;0,676;143;-0,135;316;173;Efficientes mais faibles sur le plan multicritère
+R2;MOSTAGANEM 09;MOSTAGANEM;0,666;150;-0,022;231;81;Efficientes mais faibles sur le plan multicritère
+R2;SETIF 25;SETIF;0,663;152;-0,145;321;169;Efficientes mais faibles sur le plan multicritère
+R2;SAIDA 01;SAIDA;0,656;157;-0,183;352;195;Efficientes mais faibles sur le plan multicritère
+R2;EL OUED 09;EL OUED;0,647;162;-0,007;226;64;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 22;CHLEF;0,646;163;-0,031;243;80;Efficientes mais faibles sur le plan multicritère
+R2;OUM EL BOUAGHI 07;OUM EL BOUAGHI;0,645;166;-0,112;305;139;Efficientes mais faibles sur le plan multicritère
+R2;TIMIMOUN 02;TIMIMOUN;0,639;168;-0,2;361;193;Efficientes mais faibles sur le plan multicritère
+R2;MILA 13;MILA;0,637;169;-0,059;262;93;Efficientes mais faibles sur le plan multicritère
+R2;ALGER EST 21;ALGER EST;0,637;170;-0,024;235;65;Efficientes mais faibles sur le plan multicritère
+R2;ADRAR 06;ADRAR;0,636;171;-0,097;292;121;Efficientes mais faibles sur le plan multicritère
+R2;CONSTANTINE 12;CONSTANTINE;0,631;180;-0,083;284;104;Efficientes mais faibles sur le plan multicritère
+R2;RELIZANE 11;RELIZANE;0,63;181;-0,092;288;107;Efficientes mais faibles sur le plan multicritère
+R2;BISKRA 04;BISKRA;0,627;182;-0,04;249;67;Efficientes mais faibles sur le plan multicritère
+R2;EL OUED 04;EL OUED;0,623;183;-0,1;296;113;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 19;ORAN;0,623;184;-0,241;385;201;Efficientes mais faibles sur le plan multicritère
+R2;BATNA 10;BATNA;0,622;185;-0,331;412;227;Efficientes mais faibles sur le plan multicritère
+R2;ALGER EST 08;ALGER EST;0,619;189;-0,079;282;93;Efficientes mais faibles sur le plan multicritère
+R2;MILA 10;MILA;0,616;192;-0,054;257;65;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 26;CHLEF;0,614;193;-0,218;371;178;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 09;CHLEF;0,61;195;-0,474;430;235;Efficientes mais faibles sur le plan multicritère
+R2;TEBESSA 13;TEBESSA;0,609;196;-0,094;289;93;Efficientes mais faibles sur le plan multicritère
+R2;SKIKDA 22;SKIKDA;0,608;197;-0,046;253;56;Efficientes mais faibles sur le plan multicritère
+R2;OUARGLA 06;OUARGLA;0,607;198;-0,11;303;105;Efficientes mais faibles sur le plan multicritère
+R2;ALGER CENTRE 28;ALGER CENTRE;0,605;201;-0,036;247;46;Efficientes mais faibles sur le plan multicritère
+R2;ALGER EST 22;ALGER EST;0,605;202;-0,137;317;115;Efficientes mais faibles sur le plan multicritère
+R2;TEBESSA 16;TEBESSA;0,603;204;-0,157;331;127;Efficientes mais faibles sur le plan multicritère
+R2;MASCARA 05;MASCARA;0,597;210;-0,245;387;177;Efficientes mais faibles sur le plan multicritère
+R2;CONSTANTINE 25;CONSTANTINE;0,597;211;-0,033;245;34;Efficientes mais faibles sur le plan multicritère
+R2;TLEMCEN 03;TLEMCEN;0,596;212;-0,024;237;25;Efficientes mais faibles sur le plan multicritère
+R2;ORAN 21;ORAN;0,596;213;-0,107;300;87;Efficientes mais faibles sur le plan multicritère
+R2;CHLEF 29;CHLEF;0,595;215;-0,223;373;158;Efficientes mais faibles sur le plan multicritère
+R2;SKIKDA 12;SKIKDA;0,591;218;-0,243;386;168;Efficientes mais faibles sur le plan multicritère
+R2;AIN DEFLA 07;AIN DEFLA;0,586;221;0,191;86;135;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;ALGER EST 06;ALGER EST;0,586;222;0,135;122;100;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;GUELMA 09;GUELMA;0,584;225;0,171;102;123;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;GHARDAIA 01;GHARDAIA;0,583;228;0,099;150;78;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;IN SALAH 02;IN SALAH;0,58;230;0,132;129;101;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;MASCARA 03;MASCARA;0,579;233;0,067;168;65;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BATNA 07;BATNA;0,575;240;0,019;205;35;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SKIKDA 27;SKIKDA;0,573;243;0,104;146;97;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIPAZA 10;TIPAZA;0,572;245;0,07;164;81;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BISKRA 05;BISKRA;0,57;252;0,203;81;171;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BISKRA 03;BISKRA;0,566;258;0,119;135;123;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;CONSTANTINE 28;CONSTANTINE;0,566;259;0,03;200;59;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SIDI BEL ABBES 03;SIDI BEL ABBES;0,564;260;0,261;50;210;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 11;JIJEL;0,56;264;0,08;156;108;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BOUIRA 14;BOUIRA;0,56;265;0,206;78;187;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;OUM EL BOUAGHI 10;OUM EL BOUAGHI;0,559;268;0,049;184;84;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIARET 05;TIARET;0,556;272;0,187;90;182;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;MILA 12;MILA;0,554;273;0,061;176;97;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SIDI BEL ABBES 05;SIDI BEL ABBES;0,552;277;0,163;105;172;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 15;JIJEL;0,55;281;0,178;96;185;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BEJAIA 15;BEJAIA;0,541;289;0,235;59;230;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIARET 23;TIARET;0,535;294;0,028;201;93;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BOUIRA 10;BOUIRA;0,533;295;0,256;51;244;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;ALGER CENTRE 01;ALGER CENTRE;0,529;298;0,052;183;115;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BECHAR 13;BECHAR;0,527;304;0,037;194;110;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BORDJ BOUARRERIDJ 01;BORDJ BOUARRERIDJ;0,527;305;0,015;209;96;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 03;JIJEL;0,523;308;0,047;186;122;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BISKRA 01;BISKRA;0,517;313;0,022;204;109;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;MILA 06;MILA;0,517;314;0,073;163;151;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;AIN DEFLA 01;AIN DEFLA;0,5;324;0,239;58;266;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BOUIRA 19;BOUIRA;0,494;328;0,105;145;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SOUK AHRAS 03;SOUK AHRAS;0,491;331;0,112;141;190;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TISSEMSITL 06;TISSEMSITL;0,49;332;0,172;101;231;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SIDI BEL ABBES 06;SIDI BEL ABBES;0,487;335;0,113;139;196;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIARET 17;TIARET;0,486;338;0,084;155;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;BLIDA 28;BLIDA;0,484;340;0,069;165;175;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;SETIF 20;SETIF;0,466;353;0,149;117;236;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TISSEMSITL 07;TISSEMSITL;0,462;354;0,159;111;243;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;EL BAYADH 07;EL BAYADH;0,459;355;0,153;112;243;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TINDOUF 02;TINDOUF;0,456;358;0,133;124;234;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;ORAN 37;ORAN;0,455;359;0,04;192;167;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 05;JIJEL;0,45;362;0,058;179;183;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TISSEMSITL 04;TISSEMSITL;0,424;386;0,036;195;191;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;IN SALAH 01;IN SALAH;0,418;390;0,1;149;241;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIARET 19;TIARET;0,408;398;0,199;85;313;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;ALGER OUEST 12;ALGER OUEST;0,408;399;0,065;172;227;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;ALGER CENTRE 17;ALGER CENTRE;0,402;402;0,078;157;245;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 18;JIJEL;0,368;413;0,007;216;197;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 22;JIJEL;0,352;420;0,015;208;212;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;JIJEL 17;JIJEL;0,351;421;0,054;182;239;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TIARET 04;TIARET;0,347;422;0,058;180;242;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;MEDEA 05;MEDEA;0,325;430;0,033;199;231;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TISSEMSITL 03;TISSEMSITL;0,266;436;0,048;185;251;Faibles en DEA mais mieux classées en PROMETHEE II
+R2;TINDOUF 03;TINDOUF;0,588;220;-0,36;418;198;Faibles sur les deux approches
+R2;LAGHOUAT 13;LAGHOUAT;0,585;223;-0,158;332;109;Faibles sur les deux approches
+R2;TAMANRASSET 03;TAMANRASSET;0,584;224;-0,574;435;211;Faibles sur les deux approches
+R2;GHARDAIA 05;GHARDAIA;0,584;226;-0,059;264;38;Faibles sur les deux approches
+R2;BOUMERDES 21;BOUMERDES;0,584;227;-0,088;285;58;Faibles sur les deux approches
+R2;CHLEF 08;CHLEF;0,583;229;-0,179;349;120;Faibles sur les deux approches
+R2;ORAN 26;ORAN;0,58;231;-0,16;335;104;Faibles sur les deux approches
+R2;BECHAR 04;BECHAR;0,579;232;-0,056;260;28;Faibles sur les deux approches
+R2;ANNABA 02;ANNABA;0,577;234;-0,001;223;11;Faibles sur les deux approches
+R2;GUELMA 06;GUELMA;0,577;235;-0,04;251;16;Faibles sur les deux approches
+R2;BLIDA 23;BLIDA;0,577;236;-0,045;252;16;Faibles sur les deux approches
+R2;MSILA 12;MSILA;0,576;237;-0,154;327;90;Faibles sur les deux approches
+R2;SKIKDA 20;SKIKDA;0,576;238;-0,268;399;161;Faibles sur les deux approches
+R2;BLIDA 03;BLIDA;0,575;239;-0,089;287;48;Faibles sur les deux approches
+R2;SKIKDA 21;SKIKDA;0,574;241;-0,176;346;105;Faibles sur les deux approches
+R2;ORAN 13;ORAN;0,573;242;-0,028;240;2;Faibles sur les deux approches
+R2;BLIDA 30;BLIDA;0,572;244;-0,006;225;19;Faibles sur les deux approches
+R2;BLIDA 14;BLIDA;0,572;246;-0,165;339;93;Faibles sur les deux approches
+R2;SKIKDA 25;SKIKDA;0,572;247;-0,064;270;23;Faibles sur les deux approches
+R2;ANNABA 04;ANNABA;0,572;248;-0,055;259;11;Faibles sur les deux approches
+R2;BORDJ BOUARRERIDJ 16;BORDJ BOUARRERIDJ;0,571;249;-0,056;261;12;Faibles sur les deux approches
+R2;CONSTANTINE 27;CONSTANTINE;0,571;250;-0,061;266;16;Faibles sur les deux approches
+R2;TEBESSA 25;TEBESSA;0,57;251;-0,05;255;4;Faibles sur les deux approches
+R2;SKIKDA 04;SKIKDA;0,569;253;-0,24;382;129;Faibles sur les deux approches
+R2;CONSTANTINE 29;CONSTANTINE;0,569;254;-0,024;239;15;Faibles sur les deux approches
+R2;CONSTANTINE 22;CONSTANTINE;0,569;255;-0,099;294;39;Faibles sur les deux approches
+R2;MASCARA 23;MASCARA;0,568;256;-0,153;326;70;Faibles sur les deux approches
+R2;EL TARF 04;EL TARF;0,568;257;-0,172;344;87;Faibles sur les deux approches
+R2;GUELMA 05;GUELMA;0,564;261;-0,278;402;141;Faibles sur les deux approches
+R2;MOSTAGANEM 24;MOSTAGANEM;0,564;262;-0,324;411;149;Faibles sur les deux approches
+R2;BLIDA 13;BLIDA;0,561;263;-0,032;244;19;Faibles sur les deux approches
+R2;BEJAIA 17;BEJAIA;0,56;266;-0,063;268;2;Faibles sur les deux approches
+R2;ORAN 05;ORAN;0,559;267;-0,314;407;140;Faibles sur les deux approches
+R2;SETIF 17;SETIF;0,558;269;-0,174;345;76;Faibles sur les deux approches
+R2;ALGER OUEST 22;ALGER OUEST;0,558;270;-0,023;234;36;Faibles sur les deux approches
+R2;BECHAR 03;BECHAR;0,557;271;-0,005;224;47;Faibles sur les deux approches
+R2;DJELFA 16;DJELFA;0,554;274;-0,079;280;6;Faibles sur les deux approches
+R2;BATNA 22;BATNA;0,552;275;-0,18;351;76;Faibles sur les deux approches
+R2;DJELFA 18;DJELFA;0,552;276;-0,214;370;94;Faibles sur les deux approches
+R2;MILA 15;MILA;0,551;278;-0,099;295;17;Faibles sur les deux approches
+R2;CHLEF 25;CHLEF;0,55;279;-0,134;315;36;Faibles sur les deux approches
+R2;SIDI BEL ABBES 14;SIDI BEL ABBES;0,55;280;-0,094;290;10;Faibles sur les deux approches
+R2;KHENCHELA 13;KHENCHELA;0,548;282;-0,068;272;10;Faibles sur les deux approches
+R2;TOUGGOURT 05;TOUGGOURT;0,548;283;-0,11;302;19;Faibles sur les deux approches
+R2;BORDJ BOUARRERIDJ 14;BORDJ BOUARRERIDJ;0,548;284;-0,138;319;35;Faibles sur les deux approches
+R2;ANNABA 15;ANNABA;0,547;285;-0,161;336;51;Faibles sur les deux approches
+R2;BLIDA 07;BLIDA;0,547;286;0,0;220;66;Faibles sur les deux approches
+R2;ANNABA 13;ANNABA;0,545;287;-0,149;323;36;Faibles sur les deux approches
+R2;JIJEL 20;JIJEL;0,543;288;-0,066;271;17;Faibles sur les deux approches
+R2;CONSTANTINE 17;CONSTANTINE;0,541;290;-0,222;372;82;Faibles sur les deux approches
+R2;ORAN 20;ORAN;0,54;291;-0,177;347;56;Faibles sur les deux approches
+R2;TIARET 22;TIARET;0,537;292;-0,148;322;30;Faibles sur les deux approches
+R2;DJELFA 09;DJELFA;0,536;293;-0,103;298;5;Faibles sur les deux approches
+R2;TIARET 02;TIARET;0,531;296;-0,06;265;31;Faibles sur les deux approches
+R2;SOUK AHRAS 01;SOUK AHRAS;0,531;297;-0,049;254;43;Faibles sur les deux approches
+R2;BEJAIA 04;BEJAIA;0,529;299;-0,24;384;85;Faibles sur les deux approches
+R2;CONSTANTINE 32;CONSTANTINE;0,528;300;-0,137;318;18;Faibles sur les deux approches
+R2;MEDEA 08;MEDEA;0,528;301;-0,198;359;58;Faibles sur les deux approches
+R2;TIARET 03;TIARET;0,528;302;-0,168;341;39;Faibles sur les deux approches
+R2;CHLEF 30;CHLEF;0,528;303;-0,223;374;71;Faibles sur les deux approches
+R2;GUELMA 04;GUELMA;0,526;306;-0,394;427;121;Faibles sur les deux approches
+R2;CONSTANTINE 05;CONSTANTINE;0,523;307;-0,072;275;32;Faibles sur les deux approches
+R2;GUELMA 11;GUELMA;0,522;309;-0,063;269;40;Faibles sur les deux approches
+R2;CONSTANTINE 09;CONSTANTINE;0,519;310;-0,24;381;71;Faibles sur les deux approches
+R2;BOUIRA 04;BOUIRA;0,519;311;-0,151;324;13;Faibles sur les deux approches
+R2;ANNABA 16;ANNABA;0,517;312;-0,287;405;93;Faibles sur les deux approches
+R2;CONSTANTINE 24;CONSTANTINE;0,516;315;-0,02;230;85;Faibles sur les deux approches
+R2;TAMANRASSET 01;TAMANRASSET;0,515;316;-0,287;406;90;Faibles sur les deux approches
+R2;SOUK AHRAS 09;SOUK AHRAS;0,512;317;-0,264;397;80;Faibles sur les deux approches
+R2;AIN DEFLA 09;AIN DEFLA;0,511;318;-0,377;422;104;Faibles sur les deux approches
+R2;MILA 09;MILA;0,51;319;-0,237;380;61;Faibles sur les deux approches
+R2;MSILA 10;MSILA;0,509;320;-0,203;364;44;Faibles sur les deux approches
+R2;BATNA 08;BATNA;0,506;321;-0,038;248;73;Faibles sur les deux approches
+R2;BOUIRA 06;BOUIRA;0,505;322;-0,12;308;14;Faibles sur les deux approches
+R2;SIDI BEL ABBES 13;SIDI BEL ABBES;0,501;323;-0,167;340;17;Faibles sur les deux approches
+R2;SKIKDA 14;SKIKDA;0,5;325;-0,13;313;12;Faibles sur les deux approches
+R2;BOUMERDES 08;BOUMERDES;0,498;326;-0,201;362;36;Faibles sur les deux approches
+R2;TEBESSA 12;TEBESSA;0,497;327;-0,098;293;34;Faibles sur les deux approches
+R2;EL OUED 08;EL OUED;0,493;329;-0,015;228;101;Faibles sur les deux approches
+R2;DJELFA 03;DJELFA;0,493;330;-0,071;274;56;Faibles sur les deux approches
+R2;RELIZANE 19;RELIZANE;0,49;333;-0,212;369;36;Faibles sur les deux approches
+R2;BISKRA 02;BISKRA;0,489;334;-0,247;389;55;Faibles sur les deux approches
+R2;ALGER EST 15;ALGER EST;0,487;336;-0,102;297;39;Faibles sur les deux approches
+R2;KHENCHELA 01;KHENCHELA;0,487;337;-0,361;419;82;Faibles sur les deux approches
+R2;TIZI OUZOU 04;TIZI OUZOU;0,485;339;-0,187;353;14;Faibles sur les deux approches
+R2;CHLEF 23;CHLEF;0,48;341;-0,03;242;99;Faibles sur les deux approches
+R2;SKIKDA 23;SKIKDA;0,478;342;-0,202;363;21;Faibles sur les deux approches
+R2;BATNA 23;BATNA;0,478;343;-0,034;246;97;Faibles sur les deux approches
+R2;ALGER EST 27;ALGER EST;0,478;344;-0,088;286;58;Faibles sur les deux approches
+R2;ALGER OUEST 18;ALGER OUEST;0,478;345;-0,32;408;63;Faibles sur les deux approches
+R2;CONSTANTINE 11;CONSTANTINE;0,477;346;-0,113;306;40;Faibles sur les deux approches
+R2;BOUMERDES 25;BOUMERDES;0,477;347;-0,23;379;32;Faibles sur les deux approches
+R2;TIARET 07;TIARET;0,477;348;-0,23;378;30;Faibles sur les deux approches
+R2;MOSTAGANEM 03;MOSTAGANEM;0,475;349;-0,107;299;50;Faibles sur les deux approches
+R2;GUELMA 03;GUELMA;0,471;350;-0,388;426;76;Faibles sur les deux approches
+R2;MASCARA 20;MASCARA;0,469;351;-0,179;350;1;Faibles sur les deux approches
+R2;SOUK AHRAS 10;SOUK AHRAS;0,469;352;-0,193;357;5;Faibles sur les deux approches
+R2;ANNABA 01;ANNABA;0,458;356;-0,022;232;124;Faibles sur les deux approches
+R2;MEDEA 07;MEDEA;0,457;357;-0,024;238;119;Faibles sur les deux approches
+R2;SOUK AHRAS 05;SOUK AHRAS;0,455;360;-0,36;417;57;Faibles sur les deux approches
+R2;KHENCHELA 05;KHENCHELA;0,452;361;-0,001;222;139;Faibles sur les deux approches
+R2;MILA 08;MILA;0,449;363;-0,264;396;33;Faibles sur les deux approches
+R2;TLEMCEN 14;TLEMCEN;0,448;364;-0,108;301;63;Faibles sur les deux approches
+R2;SOUK AHRAS 04;SOUK AHRAS;0,446;365;-0,191;356;9;Faibles sur les deux approches
+R2;BOUIRA 05;BOUIRA;0,445;366;-0,259;394;28;Faibles sur les deux approches
+R2;TOUGGOURT 07;TOUGGOURT;0,445;367;-0,212;368;1;Faibles sur les deux approches
+R2;OUM EL BOUAGHI 01;OUM EL BOUAGHI;0,442;368;-0,157;330;38;Faibles sur les deux approches
+R2;ALGER EST 34;ALGER EST;0,441;369;-0,177;348;21;Faibles sur les deux approches
+R2;BECHAR 12;BECHAR;0,441;370;-0,152;325;45;Faibles sur les deux approches
+R2;BOUIRA 15;BOUIRA;0,438;371;-0,27;400;29;Faibles sur les deux approches
+R2;MOSTAGANEM 14;MOSTAGANEM;0,438;372;-0,131;314;58;Faibles sur les deux approches
+R2;KHENCHELA 03;KHENCHELA;0,437;373;-0,078;279;94;Faibles sur les deux approches
+R2;CONSTANTINE 08;CONSTANTINE;0,437;374;-0,376;421;47;Faibles sur les deux approches
+R2;JIJEL 12;JIJEL;0,435;375;-0,077;278;97;Faibles sur les deux approches
+R2;LAGHOUAT 16;LAGHOUAT;0,434;376;-0,04;250;126;Faibles sur les deux approches
+R2;SAIDA 06;SAIDA;0,434;377;-0,061;267;110;Faibles sur les deux approches
+R2;TIARET 14;TIARET;0,432;378;-0,07;273;105;Faibles sur les deux approches
+R2;BOUIRA 18;BOUIRA;0,431;379;-0,226;375;4;Faibles sur les deux approches
+R2;BATNA 21;BATNA;0,43;380;-0,171;342;38;Faibles sur les deux approches
+R2;KHENCHELA 12;KHENCHELA;0,43;381;-0,141;320;61;Faibles sur les deux approches
+R2;SETIF 12;SETIF;0,429;382;-0,367;420;38;Faibles sur les deux approches
+R2;TIZI OUZOU 16;TIZI OUZOU;0,426;383;-0,523;433;50;Faibles sur les deux approches
+R2;TIZI OUZOU 02;TIZI OUZOU;0,425;384;-0,349;413;29;Faibles sur les deux approches
+R2;MEDEA 01;MEDEA;0,424;385;-0,118;307;78;Faibles sur les deux approches
+R2;DJELFA 06;DJELFA;0,423;387;-0,262;395;8;Faibles sur les deux approches
+R2;ALGER EST 19;ALGER EST;0,422;388;-0,612;437;49;Faibles sur les deux approches
+R2;EL BAYADH 06;EL BAYADH;0,419;389;-0,155;328;61;Faibles sur les deux approches
+R2;TLEMCEN 07;TLEMCEN;0,417;391;-0,489;431;40;Faibles sur les deux approches
+R2;TISSEMSITL 02;TISSEMSITL;0,417;392;-0,009;227;165;Faibles sur les deux approches
+R2;JIJEL 24;JIJEL;0,416;393;-0,128;312;81;Faibles sur les deux approches
+R2;AIN DEFLA 06;AIN DEFLA;0,415;394;-0,076;277;117;Faibles sur les deux approches
+R2;TIZI OUZOU 11;TIZI OUZOU;0,411;395;-0,16;333;62;Faibles sur les deux approches
+R2;TIZI OUZOU 12;TIZI OUZOU;0,411;396;-0,127;311;85;Faibles sur les deux approches
+R2;CONSTANTINE 03;CONSTANTINE;0,41;397;-0,431;428;31;Faibles sur les deux approches
+R2;BATNA 13;BATNA;0,405;400;-0,266;398;2;Faibles sur les deux approches
+R2;SAIDA 10;SAIDA;0,404;401;-0,051;256;145;Faibles sur les deux approches
+R2;CONSTANTINE 26;CONSTANTINE;0,401;403;-0,353;415;12;Faibles sur les deux approches
+R2;KHENCHELA 09;KHENCHELA;0,401;404;-0,199;360;44;Faibles sur les deux approches
+R2;MOSTAGANEM 20;MOSTAGANEM;0,397;405;-0,059;263;142;Faibles sur les deux approches
+R2;BECHAR 06;BECHAR;0,389;406;-0,276;401;5;Faibles sur les deux approches
+R2;JIJEL 16;JIJEL;0,389;407;-0,253;392;15;Faibles sur les deux approches
+R2;TEBESSA 03;TEBESSA;0,388;408;-0,209;366;42;Faibles sur les deux approches
+R2;BATNA 06;BATNA;0,386;409;-0,226;376;33;Faibles sur les deux approches
+R2;MOSTAGANEM 07;MOSTAGANEM;0,385;410;-0,156;329;81;Faibles sur les deux approches
+R2;ANNABA 17;ANNABA;0,382;411;-0,358;416;5;Faibles sur les deux approches
+R2;BEJAIA 13;BEJAIA;0,373;412;-0,351;414;2;Faibles sur les deux approches
+R2;SETIF 15;SETIF;0,365;414;-0,188;354;60;Faibles sur les deux approches
+R2;BISKRA 07;BISKRA;0,364;415;-0,246;388;27;Faibles sur les deux approches
+R2;BECHAR 07;BECHAR;0,358;416;-0,124;309;107;Faibles sur les deux approches
+R2;BATNA 14;BATNA;0,355;417;-0,164;338;79;Faibles sur les deux approches
+R2;EL TARF 02;EL TARF;0,354;418;-0,379;424;6;Faibles sur les deux approches
+R2;BEJAIA 19;BEJAIA;0,354;419;-0,207;365;54;Faibles sur les deux approches
+R2;EL BAYADH 01;EL BAYADH;0,338;423;-0,24;383;40;Faibles sur les deux approches
+R2;EL TARF 10;EL TARF;0,338;424;-0,544;434;10;Faibles sur les deux approches
+R2;TIARET 16;TIARET;0,336;425;-0,321;409;16;Faibles sur les deux approches
+R2;TAMANRASSET 02;TAMANRASSET;0,336;426;-0,579;436;10;Faibles sur les deux approches
+R2;TIZI OUZOU 13;TIZI OUZOU;0,336;427;-0,252;391;36;Faibles sur les deux approches
+R2;JIJEL 04;JIJEL;0,336;428;-0,03;241;187;Faibles sur les deux approches
+R2;TIZI OUZOU 03;TIZI OUZOU;0,335;429;-0,457;429;0;Faibles sur les deux approches
+R2;ALGER OUEST 20;ALGER OUEST;0,318;431;-0,379;423;8;Faibles sur les deux approches
+R2;TIARET 13;TIARET;0,316;432;-0,323;410;22;Faibles sur les deux approches
+R2;OUM EL BOUAGHI 17;OUM EL BOUAGHI;0,311;433;-0,211;367;66;Faibles sur les deux approches
+R2;SOUK AHRAS 07;SOUK AHRAS;0,302;434;-0,383;425;9;Faibles sur les deux approches
+R2;BLIDA 16;BLIDA;0,285;435;-0,51;432;3;Faibles sur les deux approches
+R2;JIJEL 23;JIJEL;0,208;437;-0,171;343;94;Faibles sur les deux approches
+R2;JIJEL 01;JIJEL;1,0;1;0,461;3;2;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 03;BORDJ BOUARRERIDJ;1,0;2;0,452;4;2;Performantes sur les deux dimensions
+R2;EL TARF 05;EL TARF;1,0;3;0,448;5;2;Performantes sur les deux dimensions
+R2;MSILA 09;MSILA;1,0;4;0,367;16;12;Performantes sur les deux dimensions
+R2;ALGER EST 38;ALGER EST;1,0;5;0,351;18;13;Performantes sur les deux dimensions
+R2;TEBESSA 04;TEBESSA;1,0;6;0,315;27;21;Performantes sur les deux dimensions
+R2;BATNA 03;BATNA;1,0;7;0,277;43;36;Performantes sur les deux dimensions
+R2;BLIDA 21;BLIDA;1,0;8;0,229;63;55;Performantes sur les deux dimensions
+R2;MOSTAGANEM 18;MOSTAGANEM;1,0;9;0,219;68;59;Performantes sur les deux dimensions
+R2;SKIKDA 30;SKIKDA;1,0;10;0,211;73;63;Performantes sur les deux dimensions
+R2;EL TARF 12;EL TARF;1,0;11;0,207;77;66;Performantes sur les deux dimensions
+R2;TLEMCEN 15;TLEMCEN;1,0;12;0,077;159;147;Performantes sur les deux dimensions
+R2;CHLEF 32;CHLEF;1,0;13;0,061;177;164;Performantes sur les deux dimensions
+R2;TIPAZA 09;TIPAZA;0,986;15;0,227;65;50;Performantes sur les deux dimensions
+R2;MASCARA 16;MASCARA;0,968;16;0,176;98;82;Performantes sur les deux dimensions
+R2;TEBESSA 17;TEBESSA;0,968;17;0,275;45;28;Performantes sur les deux dimensions
+R2;TEBESSA 19;TEBESSA;0,967;18;0,005;217;199;Performantes sur les deux dimensions
+R2;TEBESSA 05;TEBESSA;0,967;19;0,204;80;61;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 11;BORDJ BOUARRERIDJ;0,954;20;0,369;14;6;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 13;BORDJ BOUARRERIDJ;0,954;21;0,34;21;0;Performantes sur les deux dimensions
+R2;TIPAZA 17;TIPAZA;0,943;22;0,285;39;17;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 05;BORDJ BOUARRERIDJ;0,941;23;0,022;203;180;Performantes sur les deux dimensions
+R2;BLIDA 01;BLIDA;0,932;24;0,284;40;16;Performantes sur les deux dimensions
+R2;MEDEA 03;MEDEA;0,926;25;0,381;12;13;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 18;BORDJ BOUARRERIDJ;0,924;27;0,358;17;10;Performantes sur les deux dimensions
+R2;SAIDA 04;SAIDA;0,916;28;0,399;10;18;Performantes sur les deux dimensions
+R2;CONSTANTINE 18;CONSTANTINE;0,916;29;0,242;55;26;Performantes sur les deux dimensions
+R2;CHLEF 13;CHLEF;0,91;30;0,409;8;22;Performantes sur les deux dimensions
+R2;CONSTANTINE 01;CONSTANTINE;0,905;31;0,501;1;30;Performantes sur les deux dimensions
+R2;MSILA 17;MSILA;0,904;32;0,121;134;102;Performantes sur les deux dimensions
+R2;ADRAR 05;ADRAR;0,9;33;0,481;2;31;Performantes sur les deux dimensions
+R2;RELIZANE 05;RELIZANE;0,9;34;0,241;56;22;Performantes sur les deux dimensions
+R2;SKIKDA 19;SKIKDA;0,897;35;0,247;54;19;Performantes sur les deux dimensions
+R2;BOUMERDES 01;BOUMERDES;0,891;36;0,18;93;57;Performantes sur les deux dimensions
+R2;SETIF 30;SETIF;0,891;37;0,393;11;26;Performantes sur les deux dimensions
+R2;OUARGLA 12;OUARGLA;0,872;38;0,121;133;95;Performantes sur les deux dimensions
+R2;CONSTANTINE 16;CONSTANTINE;0,871;39;0,431;6;33;Performantes sur les deux dimensions
+R2;ALGER CENTRE 32;ALGER CENTRE;0,863;40;0,348;19;21;Performantes sur les deux dimensions
+R2;MOSTAGANEM 23;MOSTAGANEM;0,846;41;0,369;15;26;Performantes sur les deux dimensions
+R2;ALGER EST 41;ALGER EST;0,84;42;0,065;171;129;Performantes sur les deux dimensions
+R2;CONSTANTINE 34;CONSTANTINE;0,835;43;0,161;107;64;Performantes sur les deux dimensions
+R2;BLIDA 24;BLIDA;0,821;46;0,274;46;0;Performantes sur les deux dimensions
+R2;TIPAZA 19;TIPAZA;0,815;47;0,112;143;96;Performantes sur les deux dimensions
+R2;ALGER CENTRE 31;ALGER CENTRE;0,812;48;0,189;88;40;Performantes sur les deux dimensions
+R2;CHLEF 28;CHLEF;0,811;49;0,046;189;140;Performantes sur les deux dimensions
+R2;TIZI OUZOU 15;TIZI OUZOU;0,809;50;0,317;26;24;Performantes sur les deux dimensions
+R2;MSILA 11;MSILA;0,808;51;0,288;36;15;Performantes sur les deux dimensions
+R2;BOUMERDES 17;BOUMERDES;0,801;53;0,044;191;138;Performantes sur les deux dimensions
+R2;ALGER OUEST 25;ALGER OUEST;0,799;54;0,28;42;12;Performantes sur les deux dimensions
+R2;CONSTANTINE 21;CONSTANTINE;0,798;55;0,01;214;159;Performantes sur les deux dimensions
+R2;ORAN 27;ORAN;0,796;56;0,274;47;9;Performantes sur les deux dimensions
+R2;ORAN 14;ORAN;0,792;57;0,038;193;136;Performantes sur les deux dimensions
+R2;ALGER EST 04;ALGER EST;0,791;58;0,046;188;130;Performantes sur les deux dimensions
+R2;AIN DEFLA 16;AIN DEFLA;0,786;59;0,329;25;34;Performantes sur les deux dimensions
+R2;BOUMERDES 19;BOUMERDES;0,782;60;0,133;125;65;Performantes sur les deux dimensions
+R2;CHLEF 18;CHLEF;0,778;62;0,016;207;145;Performantes sur les deux dimensions
+R2;SETIF 13;SETIF;0,776;63;0,241;57;6;Performantes sur les deux dimensions
+R2;RELIZANE 14;RELIZANE;0,774;64;0,345;20;44;Performantes sur les deux dimensions
+R2;BEJAIA 10;BEJAIA;0,774;65;0,313;28;37;Performantes sur les deux dimensions
+R2;SETIF 31;SETIF;0,773;66;0,097;151;85;Performantes sur les deux dimensions
+R2;SETIF 14;SETIF;0,772;67;0,334;24;43;Performantes sur les deux dimensions
+R2;TOUGGOURT 04;TOUGGOURT;0,771;68;0,232;61;7;Performantes sur les deux dimensions
+R2;MOSTAGANEM 13;MOSTAGANEM;0,771;69;0,114;138;69;Performantes sur les deux dimensions
+R2;TLEMCEN 09;TLEMCEN;0,763;70;0,181;92;22;Performantes sur les deux dimensions
+R2;EL OUED 01;EL OUED;0,763;73;0,209;74;1;Performantes sur les deux dimensions
+R2;MASCARA 06;MASCARA;0,76;74;0,289;34;40;Performantes sur les deux dimensions
+R2;ADRAR 01;ADRAR;0,759;76;0,045;190;114;Performantes sur les deux dimensions
+R2;BOUMERDES 09;BOUMERDES;0,757;77;0,061;174;97;Performantes sur les deux dimensions
+R2;ORAN 42;ORAN;0,756;78;0,223;67;11;Performantes sur les deux dimensions
+R2;TEBESSA 08;TEBESSA;0,755;79;0,16;109;30;Performantes sur les deux dimensions
+R2;SETIF 33;SETIF;0,75;80;0,134;123;43;Performantes sur les deux dimensions
+R2;DJELFA 05;DJELFA;0,746;81;0,281;41;40;Performantes sur les deux dimensions
+R2;RELIZANE 15;RELIZANE;0,746;82;0,231;62;20;Performantes sur les deux dimensions
+R2;CONSTANTINE 23;CONSTANTINE;0,746;83;0,112;140;57;Performantes sur les deux dimensions
+R2;TEBESSA 11;TEBESSA;0,743;85;0,211;72;13;Performantes sur les deux dimensions
+R2;SOUK AHRAS 15;SOUK AHRAS;0,742;86;0,189;87;1;Performantes sur les deux dimensions
+R2;TIMIMOUN 03;TIMIMOUN;0,742;87;0,409;7;80;Performantes sur les deux dimensions
+R2;SETIF 05;SETIF;0,739;88;0,201;83;5;Performantes sur les deux dimensions
+R2;BOUMERDES 24;BOUMERDES;0,738;89;0,152;116;27;Performantes sur les deux dimensions
+R2;ALGER CENTRE 33;ALGER CENTRE;0,736;91;0,074;161;70;Performantes sur les deux dimensions
+R2;ORAN 04;ORAN;0,736;92;0,214;71;21;Performantes sur les deux dimensions
+R2;ADRAR 04;ADRAR;0,731;93;0,104;147;54;Performantes sur les deux dimensions
+R2;BECHAR 02;BECHAR;0,731;94;0,338;23;71;Performantes sur les deux dimensions
+R2;BLIDA 04;BLIDA;0,727;95;0,228;64;31;Performantes sur les deux dimensions
+R2;GUELMA 10;GUELMA;0,724;96;0,152;115;19;Performantes sur les deux dimensions
+R2;ALGER EST 29;ALGER EST;0,723;98;0,177;97;1;Performantes sur les deux dimensions
+R2;JIJEL 08;JIJEL;0,721;100;0,291;33;67;Performantes sur les deux dimensions
+R2;EL TARF 13;EL TARF;0,719;101;0,204;79;22;Performantes sur les deux dimensions
+R2;MOSTAGANEM 16;MOSTAGANEM;0,718;103;0,173;100;3;Performantes sur les deux dimensions
+R2;TIARET 12;TIARET;0,715;104;0,305;30;74;Performantes sur les deux dimensions
+R2;SETIF 16;SETIF;0,714;105;0,123;131;26;Performantes sur les deux dimensions
+R2;AIN DEFLA 13;AIN DEFLA;0,714;106;0,404;9;97;Performantes sur les deux dimensions
+R2;DJELFA 04;DJELFA;0,713;107;0,012;212;105;Performantes sur les deux dimensions
+R2;TEBESSA 14;TEBESSA;0,713;108;0,174;99;9;Performantes sur les deux dimensions
+R2;SETIF 07;SETIF;0,712;109;0,223;66;43;Performantes sur les deux dimensions
+R2;ALGER OUEST 26;ALGER OUEST;0,712;110;0,277;44;66;Performantes sur les deux dimensions
+R2;TIPAZA 04;TIPAZA;0,709;111;0,063;173;62;Performantes sur les deux dimensions
+R2;LAGHOUAT 10;LAGHOUAT;0,703;112;0,132;128;16;Performantes sur les deux dimensions
+R2;ILLIZI 01;ILLIZI;0,702;113;0,311;29;84;Performantes sur les deux dimensions
+R2;MASCARA 07;MASCARA;0,701;114;0,132;130;16;Performantes sur les deux dimensions
+R2;BLIDA 10;BLIDA;0,701;115;0,249;53;62;Performantes sur les deux dimensions
+R2;TIARET 09;TIARET;0,7;116;0,288;37;79;Performantes sur les deux dimensions
+R2;SKIKDA 01;SKIKDA;0,7;117;0,145;118;1;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 15;BORDJ BOUARRERIDJ;0,698;118;0,054;181;63;Performantes sur les deux dimensions
+R2;BOUMERDES 02;BOUMERDES;0,69;121;0,252;52;69;Performantes sur les deux dimensions
+R2;EL TARF 11;EL TARF;0,69;122;0,004;218;96;Performantes sur les deux dimensions
+R2;CHLEF 16;CHLEF;0,686;125;0,132;127;2;Performantes sur les deux dimensions
+R2;TIPAZA 01;TIPAZA;0,685;126;0,187;89;37;Performantes sur les deux dimensions
+R2;AIN DEFLA 08;AIN DEFLA;0,685;127;0,133;126;1;Performantes sur les deux dimensions
+R2;GUELMA 13;GUELMA;0,684;128;0,185;91;37;Performantes sur les deux dimensions
+R2;LAGHOUAT 14;LAGHOUAT;0,684;129;0,118;137;8;Performantes sur les deux dimensions
+R2;TIPAZA 21;TIPAZA;0,684;130;0,169;103;27;Performantes sur les deux dimensions
+R2;RELIZANE 08;RELIZANE;0,683;131;0,264;49;82;Performantes sur les deux dimensions
+R2;SETIF 01;SETIF;0,683;132;0,265;48;84;Performantes sur les deux dimensions
+R2;ANNABA 10;ANNABA;0,683;133;0,14;120;13;Performantes sur les deux dimensions
+R2;SKIKDA 02;SKIKDA;0,682;134;0,208;76;58;Performantes sur les deux dimensions
+R2;TIARET 01;TIARET;0,682;135;0,123;132;3;Performantes sur les deux dimensions
+R2;DJELFA 20;DJELFA;0,681;136;0,179;95;41;Performantes sur les deux dimensions
+R2;ALGER OUEST 06;ALGER OUEST;0,68;139;0,152;113;26;Performantes sur les deux dimensions
+R2;DJELFA 07;DJELFA;0,679;140;0,046;187;47;Performantes sur les deux dimensions
+R2;JIJEL 14;JIJEL;0,677;141;0,378;13;128;Performantes sur les deux dimensions
+R2;CHLEF 24;CHLEF;0,676;142;0,092;152;10;Performantes sur les deux dimensions
+R2;CHLEF 04;CHLEF;0,674;144;0,2;84;60;Performantes sur les deux dimensions
+R2;MILA 11;MILA;0,672;145;0,059;178;33;Performantes sur les deux dimensions
+R2;OUM EL BOUAGHI 02;OUM EL BOUAGHI;0,671;146;0,292;32;114;Performantes sur les deux dimensions
+R2;CONSTANTINE 07;CONSTANTINE;0,67;147;0,074;162;15;Performantes sur les deux dimensions
+R2;ORAN 08;ORAN;0,669;148;0,007;215;67;Performantes sur les deux dimensions
+R2;JIJEL 21;JIJEL;0,667;149;0,18;94;55;Performantes sur les deux dimensions
+R2;TEBESSA 18;TEBESSA;0,665;151;0,066;170;19;Performantes sur les deux dimensions
+R2;BOUIRA 11;BOUIRA;0,663;153;0,289;35;118;Performantes sur les deux dimensions
+R2;OUM EL BOUAGHI 03;OUM EL BOUAGHI;0,662;154;0,026;202;48;Performantes sur les deux dimensions
+R2;BLIDA 29;BLIDA;0,661;155;0,118;136;19;Performantes sur les deux dimensions
+R2;EL OUED 03;EL OUED;0,659;156;0,297;31;125;Performantes sur les deux dimensions
+R2;EL TARF 01;EL TARF;0,651;158;0,202;82;76;Performantes sur les deux dimensions
+R2;RELIZANE 10;RELIZANE;0,651;159;0,101;148;11;Performantes sur les deux dimensions
+R2;OUARGLA 08;OUARGLA;0,648;160;0,16;110;50;Performantes sur les deux dimensions
+R2;MEDEA 06;MEDEA;0,647;161;0,033;198;37;Performantes sur les deux dimensions
+R2;TIZI OUZOU 08;TIZI OUZOU;0,646;164;0,067;167;3;Performantes sur les deux dimensions
+R2;RELIZANE 18;RELIZANE;0,646;165;0,068;166;1;Performantes sur les deux dimensions
+R2;SKIKDA 07;SKIKDA;0,641;167;0,138;121;46;Performantes sur les deux dimensions
+R2;EL TARF 03;EL TARF;0,636;172;0,013;210;38;Performantes sur les deux dimensions
+R2;GUELMA 08;GUELMA;0,636;173;0,11;144;29;Performantes sur les deux dimensions
+R2;MSILA 03;MSILA;0,636;174;0,034;197;23;Performantes sur les deux dimensions
+R2;SAIDA 05;SAIDA;0,636;175;0,112;142;33;Performantes sur les deux dimensions
+R2;LAGHOUAT 12;LAGHOUAT;0,635;176;0,078;158;18;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 06;BORDJ BOUARRERIDJ;0,634;177;0,161;108;69;Performantes sur les deux dimensions
+R2;MEDEA 04;MEDEA;0,631;178;0,214;70;108;Performantes sur les deux dimensions
+R2;DJELFA 10;DJELFA;0,631;179;0,011;213;34;Performantes sur les deux dimensions
+R2;SKIKDA 26;SKIKDA;0,622;186;0,166;104;82;Performantes sur les deux dimensions
+R2;ALGER EST 01;ALGER EST;0,62;187;0,002;219;32;Performantes sur les deux dimensions
+R2;OUARGLA 02;OUARGLA;0,62;188;0,061;175;13;Performantes sur les deux dimensions
+R2;ALGER OUEST 19;ALGER OUEST;0,617;190;0,286;38;152;Performantes sur les deux dimensions
+R2;KHENCHELA 14;KHENCHELA;0,616;191;0,219;69;122;Performantes sur les deux dimensions
+R2;AIN TEMOUCHENT 02;AIN TEMOUCHENT;0,613;194;0,087;153;41;Performantes sur les deux dimensions
+R2;BISKRA 08;BISKRA;0,607;199;0,338;22;177;Performantes sur les deux dimensions
+R2;BLIDA 15;BLIDA;0,607;200;0,076;160;40;Performantes sur les deux dimensions
+R2;CONSTANTINE 02;CONSTANTINE;0,604;203;0,016;206;3;Performantes sur les deux dimensions
+R2;BECHAR 01;BECHAR;0,602;205;0,067;169;36;Performantes sur les deux dimensions
+R2;MASCARA 02;MASCARA;0,602;206;0,013;211;5;Performantes sur les deux dimensions
+R2;TIARET 21;TIARET;0,601;207;0,14;119;88;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 12;BORDJ BOUARRERIDJ;0,6;208;0,035;196;12;Performantes sur les deux dimensions
+R2;CONSTANTINE 10;CONSTANTINE;0,597;209;0,152;114;95;Performantes sur les deux dimensions
+R2;BORDJ BOUARRERIDJ 07;BORDJ BOUARRERIDJ;0,595;214;0,209;75;139;Performantes sur les deux dimensions
+R2;ALGER EST 40;ALGER EST;0,594;216;0,234;60;156;Performantes sur les deux dimensions
+R2;BATNA 19;BATNA;0,594;217;0,162;106;111;Performantes sur les deux dimensions
+R2;LAGHOUAT 08;LAGHOUAT;0,589;219;0,086;154;65;Performantes sur les deux dimensions
+R3;NAAMA 03;NAAMA;0,828;17;-0,073;132;115;Efficientes mais faibles sur le plan multicritère
+R3;ORAN 31;ORAN;0,797;24;-0,175;169;145;Efficientes mais faibles sur le plan multicritère
+R3;MSILA 04;MSILA;0,76;28;-0,063;129;101;Efficientes mais faibles sur le plan multicritère
+R3;CHLEF 19;CHLEF;0,738;32;-0,097;139;107;Efficientes mais faibles sur le plan multicritère
+R3;DJELFA 02;DJELFA;0,735;34;-0,046;124;90;Efficientes mais faibles sur le plan multicritère
+R3;MSILA 05;MSILA;0,68;47;-0,101;140;93;Efficientes mais faibles sur le plan multicritère
+R3;LAGHOUAT 02;LAGHOUAT;0,672;52;-0,107;142;90;Efficientes mais faibles sur le plan multicritère
+R3;BLIDA 05;BLIDA;0,665;57;-0,024;118;61;Efficientes mais faibles sur le plan multicritère
+R3;BATNA 04;BATNA;0,663;59;-0,158;167;108;Efficientes mais faibles sur le plan multicritère
+R3;ALGER CENTRE 22;ALGER CENTRE;0,657;63;-0,045;123;60;Efficientes mais faibles sur le plan multicritère
+R3;TIZI OUZOU 19;TIZI OUZOU;0,647;68;-0,062;128;60;Efficientes mais faibles sur le plan multicritère
+R3;MEDEA 15;MEDEA;0,646;69;-0,016;112;43;Efficientes mais faibles sur le plan multicritère
+R3;ALGER EST 23;ALGER EST;0,64;70;-0,138;158;88;Efficientes mais faibles sur le plan multicritère
+R3;ANNABA 11;ANNABA;0,613;82;-0,152;166;84;Efficientes mais faibles sur le plan multicritère
+R3;MASCARA 10;MASCARA;0,613;83;-0,123;152;69;Efficientes mais faibles sur le plan multicritère
+R3;TOUGGOURT 03;TOUGGOURT;0,605;85;-0,112;145;60;Efficientes mais faibles sur le plan multicritère
+R3;TLEMCEN 04;TLEMCEN;0,597;90;-0,119;147;57;Efficientes mais faibles sur le plan multicritère
+R3;MASCARA 17;MASCARA;0,596;91;-0,251;186;95;Efficientes mais faibles sur le plan multicritère
+R3;BEJAIA 05;BEJAIA;0,582;97;-0,178;171;74;Efficientes mais faibles sur le plan multicritère
+R3;TIPAZA 18;TIPAZA;0,576;98;-0,002;109;11;Efficientes mais faibles sur le plan multicritère
+R3;CHLEF 07;CHLEF;0,574;99;-0,338;197;98;Efficientes mais faibles sur le plan multicritère
+R3;BLIDA 18;BLIDA;0,573;101;-0,089;137;36;Efficientes mais faibles sur le plan multicritère
+R3;BOUMERDES 06;BOUMERDES;0,573;102;-0,391;203;101;Efficientes mais faibles sur le plan multicritère
+R3;TIPAZA 16;TIPAZA;0,57;104;-0,178;170;66;Efficientes mais faibles sur le plan multicritère
+R3;RELIZANE 12;RELIZANE;0,567;105;-0,192;174;69;Efficientes mais faibles sur le plan multicritère
+R3;CHLEF 12;CHLEF;0,566;106;-0,198;178;72;Efficientes mais faibles sur le plan multicritère
+R3;ORAN 15;ORAN;0,564;107;-0,12;148;41;Efficientes mais faibles sur le plan multicritère
+R3;SOUK AHRAS 02;SOUK AHRAS;0,555;111;0,12;67;44;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;MOSTAGANEM 04;MOSTAGANEM;0,549;113;0,123;65;48;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;DJELFA 15;DJELFA;0,548;114;-0,001;107;7;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;SOUK AHRAS 13;SOUK AHRAS;0,543;117;0,161;54;63;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;AIN DEFLA 10;AIN DEFLA;0,538;120;0,096;75;45;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;ALGER EST 31;ALGER EST;0,537;121;0,097;74;47;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;RELIZANE 06;RELIZANE;0,536;122;0,105;71;51;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;LAGHOUAT 07;LAGHOUAT;0,536;123;0,09;77;46;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;ANNABA 18;ANNABA;0,533;124;-0,001;106;18;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;BENI ABBES 02;BENI ABBES;0,531;127;0,074;85;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;TOUGGOURT 02;TOUGGOURT;0,53;128;0,092;76;52;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;BECHAR 14;BECHAR;0,517;134;0,194;48;86;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;MASCARA 22;MASCARA;0,513;136;0,013;100;36;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;ALGER EST 37;ALGER EST;0,513;137;0,113;69;68;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;SKIKDA 10;SKIKDA;0,51;138;0,024;97;41;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;CHLEF 05;CHLEF;0,493;147;0,002;105;42;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;MOSTAGANEM 06;MOSTAGANEM;0,486;154;0,034;94;60;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;EL MEGHAIER 03;EL MEGHAIER;0,484;155;0,043;92;63;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;LAGHOUAT 19;LAGHOUAT;0,471;163;0,026;96;67;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;MOSTAGANEM 01;MOSTAGANEM;0,47;164;0,136;62;102;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;AIN DEFLA 03;AIN DEFLA;0,466;165;0,009;104;61;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;EL BAYADH 02;EL BAYADH;0,401;192;0,011;103;89;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;ORAN 02;ORAN;0,397;194;0,047;90;104;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;DJELFA 01;DJELFA;0,385;197;0,101;73;124;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;BISKRA 09;BISKRA;0,318;205;0,04;93;112;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;SKIKDA 08;SKIKDA;0,315;206;0,142;60;146;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;AIN DEFLA 04;AIN DEFLA;0,295;210;0,054;88;122;Faibles en DEA mais mieux classées en PROMETHEE II
+R3;OUM EL BOUAGHI 08;OUM EL BOUAGHI;0,561;108;-0,075;134;26;Faibles sur les deux approches
+R3;OUARGLA 13;OUARGLA;0,557;109;-0,135;156;47;Faibles sur les deux approches
+R3;ALGER OUEST 23;ALGER OUEST;0,555;110;-0,033;121;11;Faibles sur les deux approches
+R3;SKIKDA 16;SKIKDA;0,55;112;-0,151;165;53;Faibles sur les deux approches
+R3;SETIF 26;SETIF;0,547;115;-0,201;179;64;Faibles sur les deux approches
+R3;SKIKDA 05;SKIKDA;0,545;116;-0,06;127;11;Faibles sur les deux approches
+R3;OUM EL BOUAGHI 06;OUM EL BOUAGHI;0,539;118;-0,135;157;39;Faibles sur les deux approches
+R3;RELIZANE 03;RELIZANE;0,539;119;-0,012;111;8;Faibles sur les deux approches
+R3;SIDI BEL ABBES 16;SIDI BEL ABBES;0,533;125;-0,193;175;50;Faibles sur les deux approches
+R3;TEBESSA 15;TEBESSA;0,533;126;-0,356;201;75;Faibles sur les deux approches
+R3;TLEMCEN 01;TLEMCEN;0,529;129;-0,208;182;53;Faibles sur les deux approches
+R3;ALGER CENTRE 15;ALGER CENTRE;0,528;130;-0,121;150;20;Faibles sur les deux approches
+R3;BOUMERDES 20;BOUMERDES;0,523;131;-0,002;108;23;Faibles sur les deux approches
+R3;ORAN 43;ORAN;0,519;132;-0,144;161;29;Faibles sur les deux approches
+R3;SOUK AHRAS 11;SOUK AHRAS;0,519;133;-0,114;146;13;Faibles sur les deux approches
+R3;BECHAR 11;BECHAR;0,513;135;-0,047;125;10;Faibles sur les deux approches
+R3;BOUIRA 12;BOUIRA;0,509;139;-0,018;113;26;Faibles sur les deux approches
+R3;SAIDA 02;SAIDA;0,509;140;-0,067;130;10;Faibles sur les deux approches
+R3;MASCARA 13;MASCARA;0,508;141;-0,347;198;57;Faibles sur les deux approches
+R3;BEJAIA 08;BEJAIA;0,506;142;-0,144;160;18;Faibles sur les deux approches
+R3;MSILA 15;MSILA;0,504;143;-0,129;155;12;Faibles sur les deux approches
+R3;ANNABA 12;ANNABA;0,501;144;-0,051;126;18;Faibles sur les deux approches
+R3;BATNA 09;BATNA;0,498;145;-0,158;168;23;Faibles sur les deux approches
+R3;OUARGLA 14;OUARGLA;0,496;146;-0,109;144;2;Faibles sur les deux approches
+R3;OUARGLA 03;OUARGLA;0,493;148;-0,395;205;57;Faibles sur les deux approches
+R3;CHLEF 14;CHLEF;0,49;149;-0,338;196;47;Faibles sur les deux approches
+R3;BEJAIA 07;BEJAIA;0,49;150;-0,235;184;34;Faibles sur les deux approches
+R3;TOUGGOURT 09;TOUGGOURT;0,49;151;-0,356;200;49;Faibles sur les deux approches
+R3;ALGER EST 33;ALGER EST;0,486;152;-0,191;173;21;Faibles sur les deux approches
+R3;BEJAIA 06;BEJAIA;0,486;153;-0,197;177;24;Faibles sur les deux approches
+R3;SKIKDA 06;SKIKDA;0,483;156;-0,021;116;40;Faibles sur les deux approches
+R3;GUELMA 01;GUELMA;0,482;157;-0,231;183;26;Faibles sur les deux approches
+R3;ALGER OUEST 11;ALGER OUEST;0,48;158;-0,139;159;1;Faibles sur les deux approches
+R3;MASCARA 01;MASCARA;0,474;159;-0,241;185;26;Faibles sur les deux approches
+R3;TOUGGOURT 08;TOUGGOURT;0,473;160;-0,273;189;29;Faibles sur les deux approches
+R3;ALGER EST 14;ALGER EST;0,472;161;-0,15;164;3;Faibles sur les deux approches
+R3;MOSTAGANEM 22;MOSTAGANEM;0,472;162;-0,106;141;21;Faibles sur les deux approches
+R3;MOSTAGANEM 11;MOSTAGANEM;0,461;166;-0,02;115;51;Faibles sur les deux approches
+R3;JIJEL 06;JIJEL;0,461;167;-0,093;138;29;Faibles sur les deux approches
+R3;TIPAZA 05;TIPAZA;0,457;168;-0,108;143;25;Faibles sur les deux approches
+R3;TIPAZA 14;TIPAZA;0,457;169;-0,129;154;15;Faibles sur les deux approches
+R3;BOUIRA 07;BOUIRA;0,456;170;-0,012;110;60;Faibles sur les deux approches
+R3;KHENCHELA 02;KHENCHELA;0,453;171;-0,071;131;40;Faibles sur les deux approches
+R3;SAIDA 11;SAIDA;0,451;172;-0,032;120;52;Faibles sur les deux approches
+R3;SETIF 10;SETIF;0,447;173;-0,073;133;40;Faibles sur les deux approches
+R3;ALGER OUEST 17;ALGER OUEST;0,446;174;-0,352;199;25;Faibles sur les deux approches
+R3;TIARET 24;TIARET;0,445;175;-0,257;187;12;Faibles sur les deux approches
+R3;MEDEA 16;MEDEA;0,445;176;-0,288;192;16;Faibles sur les deux approches
+R3;KHENCHELA 07;KHENCHELA;0,443;177;-0,196;176;1;Faibles sur les deux approches
+R3;SIDI BEL ABBES 02;SIDI BEL ABBES;0,441;178;-0,037;122;56;Faibles sur les deux approches
+R3;TEBESSA 24;TEBESSA;0,441;179;-0,205;181;2;Faibles sur les deux approches
+R3;TEBESSA 01;TEBESSA;0,441;180;-0,022;117;63;Faibles sur les deux approches
+R3;TLEMCEN 06;TLEMCEN;0,437;181;-0,548;209;28;Faibles sur les deux approches
+R3;SOUK AHRAS 08;SOUK AHRAS;0,437;182;-0,025;119;63;Faibles sur les deux approches
+R3;ALGER OUEST 15;ALGER OUEST;0,431;183;-0,683;213;30;Faibles sur les deux approches
+R3;LAGHOUAT 09;LAGHOUAT;0,426;184;-0,276;190;6;Faibles sur les deux approches
+R3;ALGER OUEST 09;ALGER OUEST;0,423;185;-0,121;149;36;Faibles sur les deux approches
+R3;BECHAR 08;BECHAR;0,421;186;-0,336;195;9;Faibles sur les deux approches
+R3;GHARDAIA 02;GHARDAIA;0,412;187;-0,127;153;34;Faibles sur les deux approches
+R3;TLEMCEN 02;TLEMCEN;0,407;188;-0,335;194;6;Faibles sur les deux approches
+R3;MOSTAGANEM 08;MOSTAGANEM;0,406;189;-0,551;210;21;Faibles sur les deux approches
+R3;CHLEF 03;CHLEF;0,406;190;-0,26;188;2;Faibles sur les deux approches
+R3;JIJEL 10;JIJEL;0,405;191;-0,359;202;11;Faibles sur les deux approches
+R3;MASCARA 08;MASCARA;0,397;193;-0,482;208;15;Faibles sur les deux approches
+R3;MASCARA 19;MASCARA;0,396;195;-0,278;191;4;Faibles sur les deux approches
+R3;TIPAZA 07;TIPAZA;0,385;196;-0,202;180;16;Faibles sur les deux approches
+R3;SETIF 19;SETIF;0,374;198;-0,311;193;5;Faibles sur les deux approches
+R3;ALGER CENTRE 29;ALGER CENTRE;0,372;199;-0,078;135;64;Faibles sur les deux approches
+R3;SOUK AHRAS 12;SOUK AHRAS;0,37;200;-0,443;206;6;Faibles sur les deux approches
+R3;BOUIRA 01;BOUIRA;0,354;201;-0,463;207;6;Faibles sur les deux approches
+R3;IN GUEZZAM 01;IN GUEZZAM;0,345;202;-0,552;211;9;Faibles sur les deux approches
+R3;BOUIRA 08;BOUIRA;0,339;203;-0,149;163;40;Faibles sur les deux approches
+R3;SETIF 29;SETIF;0,318;204;-0,08;136;68;Faibles sur les deux approches
+R3;RELIZANE 07;RELIZANE;0,312;207;-0,393;204;3;Faibles sur les deux approches
+R3;EL BAYADH 05;EL BAYADH;0,301;208;-0,019;114;94;Faibles sur les deux approches
+R3;ALGER OUEST 13;ALGER OUEST;0,3;209;-0,122;151;58;Faibles sur les deux approches
+R3;ILLIZI 02;ILLIZI;0,287;211;-0,145;162;49;Faibles sur les deux approches
+R3;SIDI BEL ABBES 09;SIDI BEL ABBES;0,27;212;-0,644;212;0;Faibles sur les deux approches
+R3;ALGER EST 03;ALGER EST;0,188;213;-0,189;172;41;Faibles sur les deux approches
+R3;LAGHOUAT 11;LAGHOUAT;1,0;1;0,396;7;6;Performantes sur les deux dimensions
+R3;BOUIRA 21;BOUIRA;1,0;2;0,383;9;7;Performantes sur les deux dimensions
+R3;SETIF 11;SETIF;1,0;3;0,338;17;14;Performantes sur les deux dimensions
+R3;SETIF 03;SETIF;1,0;4;0,27;27;23;Performantes sur les deux dimensions
+R3;MSILA 14;MSILA;1,0;5;0,085;79;74;Performantes sur les deux dimensions
+R3;TEBESSA 07;TEBESSA;1,0;6;0,079;81;75;Performantes sur les deux dimensions
+R3;TIPAZA 03;TIPAZA;0,987;7;0,277;25;18;Performantes sur les deux dimensions
+R3;EL TARF 09;EL TARF;0,983;8;0,396;8;0;Performantes sur les deux dimensions
+R3;TIPAZA 13;TIPAZA;0,956;9;0,369;12;3;Performantes sur les deux dimensions
+R3;MOSTAGANEM 12;MOSTAGANEM;0,926;10;0,451;1;9;Performantes sur les deux dimensions
+R3;OUARGLA 07;OUARGLA;0,892;11;0,104;72;61;Performantes sur les deux dimensions
+R3;AIN DEFLA 15;AIN DEFLA;0,887;12;0,333;19;7;Performantes sur les deux dimensions
+R3;OUARGLA 05;OUARGLA;0,858;13;0,086;78;65;Performantes sur les deux dimensions
+R3;MEDEA 09;MEDEA;0,858;14;0,155;55;41;Performantes sur les deux dimensions
+R3;DJELFA 12;DJELFA;0,851;15;0,354;15;0;Performantes sur les deux dimensions
+R3;TLEMCEN 13;TLEMCEN;0,83;16;0,233;35;19;Performantes sur les deux dimensions
+R3;SKIKDA 18;SKIKDA;0,825;18;0,146;59;41;Performantes sur les deux dimensions
+R3;CONSTANTINE 31;CONSTANTINE;0,814;19;0,425;4;15;Performantes sur les deux dimensions
+R3;CONSTANTINE 30;CONSTANTINE;0,813;20;0,438;3;17;Performantes sur les deux dimensions
+R3;MOSTAGANEM 15;MOSTAGANEM;0,806;21;0,216;41;20;Performantes sur les deux dimensions
+R3;BLIDA 19;BLIDA;0,801;22;0,403;6;16;Performantes sur les deux dimensions
+R3;SAIDA 07;SAIDA;0,798;23;0,208;43;20;Performantes sur les deux dimensions
+R3;MILA 16;MILA;0,796;25;0,438;2;23;Performantes sur les deux dimensions
+R3;MOSTAGANEM 02;MOSTAGANEM;0,79;26;0,359;14;12;Performantes sur les deux dimensions
+R3;AIN DEFLA 12;AIN DEFLA;0,762;27;0,235;34;7;Performantes sur les deux dimensions
+R3;SIDI BEL ABBES 04;SIDI BEL ABBES;0,741;29;0,116;68;39;Performantes sur les deux dimensions
+R3;BLIDA 12;BLIDA;0,738;30;0,242;31;1;Performantes sur les deux dimensions
+R3;ALGER OUEST 04;ALGER OUEST;0,738;31;0,02;98;67;Performantes sur les deux dimensions
+R3;TIPAZA 12;TIPAZA;0,738;33;0,184;52;19;Performantes sur les deux dimensions
+R3;LAGHOUAT 04;LAGHOUAT;0,734;35;0,222;40;5;Performantes sur les deux dimensions
+R3;SKIKDA 17;SKIKDA;0,733;36;0,372;11;25;Performantes sur les deux dimensions
+R3;MSILA 02;MSILA;0,732;37;0,194;49;12;Performantes sur les deux dimensions
+R3;EL TARF 07;EL TARF;0,73;38;0,071;86;48;Performantes sur les deux dimensions
+R3;SETIF 28;SETIF;0,728;39;0,422;5;34;Performantes sur les deux dimensions
+R3;ORAN 30;ORAN;0,723;40;0,265;29;11;Performantes sur les deux dimensions
+R3;MEDEA 11;MEDEA;0,722;41;0,268;28;13;Performantes sur les deux dimensions
+R3;LAGHOUAT 03;LAGHOUAT;0,705;42;0,077;83;41;Performantes sur les deux dimensions
+R3;KHENCHELA 11;KHENCHELA;0,698;43;0,279;24;19;Performantes sur les deux dimensions
+R3;OUARGLA 15;OUARGLA;0,694;44;0,236;33;11;Performantes sur les deux dimensions
+R3;ANNABA 19;ANNABA;0,69;45;0,381;10;35;Performantes sur les deux dimensions
+R3;MEDEA 13;MEDEA;0,69;46;0,224;39;7;Performantes sur les deux dimensions
+R3;LAGHOUAT 06;LAGHOUAT;0,678;48;0,344;16;32;Performantes sur les deux dimensions
+R3;DJELFA 19;DJELFA;0,674;49;0,122;66;17;Performantes sur les deux dimensions
+R3;ORAN 28;ORAN;0,674;50;0,032;95;45;Performantes sur les deux dimensions
+R3;MSILA 18;MSILA;0,672;51;0,213;42;9;Performantes sur les deux dimensions
+R3;SETIF 34;SETIF;0,672;53;0,207;44;9;Performantes sur les deux dimensions
+R3;ALGER EST 02;ALGER EST;0,671;54;0,359;13;41;Performantes sur les deux dimensions
+R3;SETIF 27;SETIF;0,67;55;0,195;47;8;Performantes sur les deux dimensions
+R3;TIARET 26;TIARET;0,67;56;0,322;20;36;Performantes sur les deux dimensions
+R3;BORDJ BOUARRERIDJ 19;BORDJ BOUARRERIDJ;0,664;58;0,076;84;26;Performantes sur les deux dimensions
+R3;ALGER CENTRE 21;ALGER CENTRE;0,662;60;0,053;89;29;Performantes sur les deux dimensions
+R3;TIPAZA 20;TIPAZA;0,658;61;0,229;38;23;Performantes sur les deux dimensions
+R3;ORAN 10;ORAN;0,657;62;0,206;45;17;Performantes sur les deux dimensions
+R3;MASCARA 09;MASCARA;0,656;64;0,124;63;1;Performantes sur les deux dimensions
+R3;BLIDA 02;BLIDA;0,653;65;0,111;70;5;Performantes sur les deux dimensions
+R3;BECHAR 10;BECHAR;0,651;66;0,288;22;44;Performantes sur les deux dimensions
+R3;TLEMCEN 17;TLEMCEN;0,647;67;0,045;91;24;Performantes sur les deux dimensions
+R3;SKIKDA 13;SKIKDA;0,64;71;0,231;37;34;Performantes sur les deux dimensions
+R3;BOUMERDES 22;BOUMERDES;0,638;72;0,199;46;26;Performantes sur les deux dimensions
+R3;TOUGGOURT 01;TOUGGOURT;0,637;73;0,15;57;16;Performantes sur les deux dimensions
+R3;AIN DEFLA 17;AIN DEFLA;0,636;74;0,336;18;56;Performantes sur les deux dimensions
+R3;TIARET 06;TIARET;0,633;75;0,171;53;22;Performantes sur les deux dimensions
+R3;BATNA 16;BATNA;0,63;76;0,305;21;55;Performantes sur les deux dimensions
+R3;KHENCHELA 04;KHENCHELA;0,627;77;0,252;30;47;Performantes sur les deux dimensions
+R3;RELIZANE 04;RELIZANE;0,627;78;0,084;80;2;Performantes sur les deux dimensions
+R3;SKIKDA 29;SKIKDA;0,626;79;0,148;58;21;Performantes sur les deux dimensions
+R3;TIPAZA 08;TIPAZA;0,617;80;0,142;61;19;Performantes sur les deux dimensions
+R3;BOUIRA 03;BOUIRA;0,617;81;0,153;56;25;Performantes sur les deux dimensions
+R3;RELIZANE 01;RELIZANE;0,606;84;0,077;82;2;Performantes sur les deux dimensions
+R3;TEBESSA 10;TEBESSA;0,601;86;0,123;64;22;Performantes sur les deux dimensions
+R3;DJELFA 13;DJELFA;0,598;87;0,272;26;61;Performantes sur les deux dimensions
+R3;OUM EL BOUAGHI 09;OUM EL BOUAGHI;0,598;88;0,012;101;13;Performantes sur les deux dimensions
+R3;RELIZANE 13;RELIZANE;0,597;89;0,184;51;38;Performantes sur les deux dimensions
+R3;TEBESSA 20;TEBESSA;0,595;92;0,062;87;5;Performantes sur les deux dimensions
+R3;MOSTAGANEM 25;MOSTAGANEM;0,594;93;0,284;23;70;Performantes sur les deux dimensions
+R3;TISSEMSITL 08;TISSEMSITL;0,586;94;0,193;50;44;Performantes sur les deux dimensions
+R3;OUM EL BOUAGHI 15;OUM EL BOUAGHI;0,583;95;0,242;32;63;Performantes sur les deux dimensions
+R3;AIN TEMOUCHENT 03;AIN TEMOUCHENT;0,582;96;0,012;102;6;Performantes sur les deux dimensions
+R3;JIJEL 07;JIJEL;0,574;100;0,233;36;64;Performantes sur les deux dimensions
+R3;EL BAYADH 03;EL BAYADH;0,572;103;0,016;99;4;Performantes sur les deux dimensions
+R4;ORAN 16;ORAN;0,994;4;-0,091;10;6;Efficientes mais faibles sur le plan multicritère
+R4;BOUMERDES 14;BOUMERDES;0,816;7;-0,111;11;4;Efficientes mais faibles sur le plan multicritère
+R4;LAGHOUAT 05;LAGHOUAT;0,634;11;0,056;6;5;Faibles en DEA mais mieux classées en PROMETHEE II
+R4;TIARET 18;TIARET;0,552;13;0,214;4;9;Faibles en DEA mais mieux classées en PROMETHEE II
+R4;MASCARA 04;MASCARA;0,79;9;-0,318;16;7;Faibles sur les deux approches
+R4;SAIDA 03;SAIDA;0,643;10;-0,28;15;5;Faibles sur les deux approches
+R4;ORAN 12;ORAN;0,593;12;-0,165;14;2;Faibles sur les deux approches
+R4;OUARGLA 11;OUARGLA;0,51;14;-0,117;13;1;Faibles sur les deux approches
+R4;ALGER OUEST 21;ALGER OUEST;0,435;15;-0,045;9;6;Faibles sur les deux approches
+R4;SOUK AHRAS 06;SOUK AHRAS;0,244;16;-0,115;12;4;Faibles sur les deux approches
+R4;BOUMERDES 11;BOUMERDES;1,0;1;0,308;1;0;Performantes sur les deux dimensions
+R4;ORAN 29;ORAN;1,0;2;0,088;5;3;Performantes sur les deux dimensions
+R4;TEBESSA 22;TEBESSA;1,0;3;0,019;7;4;Performantes sur les deux dimensions
+R4;JIJEL 02;JIJEL;0,976;5;0,301;2;3;Performantes sur les deux dimensions
+R4;ORAN 23;ORAN;0,963;6;0,236;3;3;Performantes sur les deux dimensions
+R4;TIARET 27;TIARET;0,81;8;0,019;8;0;Performantes sur les deux dimensions
