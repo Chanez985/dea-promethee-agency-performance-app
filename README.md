@@ -7,9 +7,9 @@ This project presents an interactive Streamlit application for agency performanc
 The application is based on numerical results from a multicriteria performance evaluation study. It allows users to explore DEA rankings, PROMETHEE rankings, final agency typology, and interactive visualizations.
 ## Data Confidentiality
 
-For confidentiality reasons, the public version of this project uses anonymized data.
+For confidentiality reasons, agency names were anonymized in the public version of this project.
 
-Agency names and UPW names were replaced by anonymous identifiers such as `Agency_001`, `Agency_002`, `UPW_001`, and `UPW_002`.
+The public version does not display the real agency names. Instead, each agency is represented using its UPW name followed by an anonymous number, such as `DJELFA 01`, `DJELFA 02`, or `SETIF 01`.
 
 The private version with real agency names is kept locally for academic presentation purposes and is not included in the public GitHub repository.
 
